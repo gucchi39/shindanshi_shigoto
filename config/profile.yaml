@@ -1,0 +1,71 @@
+# マッチング基準となるプロフィール。自由に編集してOK。
+name: Tagコンサルティング
+qualifications:
+  - 中小企業診断士
+  - MBA
+  - G検定
+# 診断士登録年月（経験年数要件の充足判定に使用。要件による自動除外はしない）
+registered_at: "2026-05"
+
+specialties:
+  - AI導入・生成AI活用
+  - DX・デジタル化支援
+  - 新規事業開発
+  - 生産性向上・省力化・スマート化
+  - IT経営支援
+
+# 活動可能エリア（都県名）
+areas:
+  - 栃木県
+  - 茨城県
+  - 埼玉県
+  - 東京都
+  - 全国
+
+# エリア一致のスコアリングに使う地名キーワード（市区町村レベル）
+area_keywords:
+  - 小山
+  - 宇都宮
+  - 古河
+  - 結城
+  - 筑西
+  - さいたま
+  - 熊谷
+  - 水戸
+  - 東京
+
+# 専門領域キーワードと重み（1-10）
+keywords:
+  - { word: 生成AI, weight: 10 }
+  - { word: AI, weight: 9 }
+  - { word: DX, weight: 10 }
+  - { word: デジタル化, weight: 9 }
+  - { word: デジタル, weight: 6 }
+  - { word: IT活用, weight: 8 }
+  - { word: IT導入, weight: 8 }
+  - { word: IT経営, weight: 8 }
+  - { word: 新規事業, weight: 8 }
+  - { word: 新事業, weight: 8 }
+  - { word: 新分野進出, weight: 7 }
+  - { word: オープンイノベーション, weight: 7 }
+  - { word: 事業開発, weight: 7 }
+  - { word: 生産性向上, weight: 8 }
+  - { word: 省力化, weight: 8 }
+  - { word: スマート化, weight: 7 }
+  - { word: スマートSME, weight: 7 }
+  - { word: 製造業, weight: 6 }
+  - { word: 販路開拓, weight: 5 }
+  - { word: 経営革新, weight: 5 }
+  - { word: 事業承継, weight: 4 }
+  - { word: 創業, weight: 4 }
+  - { word: 中小企業診断士, weight: 6 }
+
+# これらを含む案件はスコアを下げる（除外はしない）
+negative_keywords:
+  - 職員採用
+  - 正職員
+  - 会計年度任用職員
+  - 臨時職員
+  - 清掃
+  - 警備
+  - 工事

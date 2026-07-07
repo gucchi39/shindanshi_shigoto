@@ -1,0 +1,48 @@
+name: crawl
+
+on:
+  schedule:
+    # 毎日 06:30 JST (21:30 UTC)
+    - cron: "30 21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Crawl
+        run: npm run crawl
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # CLAUDE_MODEL: claude-haiku-4-5   # コストを抑えたい場合はコメントを外す
+          # MAX_LLM_CALLS: "25"
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: crawl $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+            git push
+          fi

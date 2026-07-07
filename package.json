@@ -1,0 +1,23 @@
+{
+  "name": "shindanshi-shigoto",
+  "version": "0.1.0",
+  "description": "中小企業診断士向け 公的機関 専門家募集の自動収集・マッチングツール",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "crawl": "tsx src/main.ts",
+    "crawl:dry": "DRY_RUN=1 tsx src/main.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
+    "cheerio": "^1.0.0",
+    "unpdf": "^0.12.1",
+    "yaml": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

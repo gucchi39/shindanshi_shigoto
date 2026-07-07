@@ -1,0 +1,382 @@
+# 監視対象ソース定義
+# - priority: high は入替が激しい重点監視、low は公開募集が薄い期待値低めの監視
+# - watch_only: true はリンク抽出せずページ更新のみ通知
+# - link_keywords / link_exclude でソースごとにリンク抽出を調整可能
+# - disabled: true で一時停止
+
+sources:
+  # ============================================================
+  # A. 国レベル（全国共通）
+  # ============================================================
+  - id: chusho119
+    name: 中小企業119 専門家登録
+    category: national
+    area: 全国
+    url: https://chusho119.go.jp/
+    priority: high
+    recruit_type: 専門家登録（通年）
+    notes: 中小企業庁の専門家派遣制度。登録受付ページ・お知らせを監視
+
+  - id: smrj-procurement
+    name: 中小機構 調達・公募情報
+    category: national
+    area: 全国
+    url: https://www.smrj.go.jp/procurement/solicitation/
+    priority: high
+    recruit_type: 各種アドバイザー公募（経営支援/事業承継/海外展開/創業支援/国際化）
+    notes: 詳細・要件はPDFの募集要項に入っていることが多い
+
+  - id: yorozu-honbu
+    name: よろず支援拠点 全国本部 公募一覧
+    category: national
+    area: 全国
+    url: https://yorozu.smrj.go.jp/recruit/
+    priority: high
+    recruit_type: コーディネーター・サブコーディネーター公募
+    notes: 各県よろずのCO募集が集約される。年度末〜年度初に集中
+
+  - id: chusho-nintei
+    name: 認定経営革新等支援機関（中企庁）
+    category: national
+    area: 全国
+    url: https://www.chusho.meti.go.jp/keiei/kakushin/nintei/
+    recruit_type: 認定申請（随時）
+    notes: 診断士は書類申請で認定取得可。申請受付スケジュールの更新を監視
+
+  - id: inpit-chizai
+    name: INPIT 知財総合支援窓口
+    category: national
+    area: 全国
+    url: https://chizai-portal.inpit.go.jp/
+    priority: low
+    recruit_type: 支援担当者・協力専門家
+    notes: 窓口支援担当者の募集は各県受託機関経由のことが多い
+
+  - id: jetro-procurement
+    name: JETRO 調達・公募情報
+    category: national
+    area: 全国
+    url: https://www.jetro.go.jp/procurement/
+    priority: low
+    recruit_type: 専門家・エキスパート公募
+    notes: 新輸出大国コンソーシアムのエキスパート等。海外展開×DXの案件あり
+
+  - id: kanto-meti-oi
+    name: 関東経済産業局 オープンイノベーション事業
+    category: national
+    area: 関東
+    url: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html
+    recruit_type: 事業サポーター・専門家
+    notes: OIMS・価値創造チャレンジ等。新規事業×オープンイノベーションと親和性高
+
+  - id: kanto-meti-koubo
+    name: 関東経済産業局 公募情報
+    category: national
+    area: 関東
+    url: https://www.kanto.meti.go.jp/koubo/index.html
+    recruit_type: 事業公募・審査員・専門家
+    notes: 局の事業公募一覧。委託事業の専門家募集が混ざる
+
+  - id: shoukei-portal
+    name: 事業承継・引継ぎ支援センター（全国ポータル）
+    category: national
+    area: 全国
+    url: https://shoukei.smrj.go.jp/
+    priority: low
+    recruit_type: 登録民間支援機関・専門家
+    notes: 各県センターの外部専門家登録の入口
+
+  - id: smrj-businest
+    name: 中小機構 BusiNest
+    category: incubation
+    area: 東京都
+    url: https://www.smrj.go.jp/venture/supporter/businest/index.html
+    priority: low
+    recruit_type: メンター・アドバイザー募集
+    notes: 中小機構の創業支援施設（東大和）。旧単独サイトは閉鎖され中小機構本体ページに移行済み
+
+  - id: it-shien
+    name: IT導入補助金 IT導入支援事業者
+    category: national
+    area: 全国
+    url: https://it-shien.smrj.go.jp/
+    priority: low
+    recruit_type: IT導入支援事業者登録
+    notes: 支援側としての登録枠。公募開始時期を監視（AI/DX導入支援と親和性高）
+
+  - id: pro-jinzai
+    name: プロフェッショナル人材事業（内閣府）
+    category: national
+    area: 全国
+    url: https://www.pro-jinzai.go.jp/
+    priority: low
+    recruit_type: 拠点マネージャー・サブマネージャー公募
+    notes: 各県戦略拠点のマネージャー公募が不定期に出る
+
+  - id: monodukuri-hojo
+    name: ものづくり補助金 事務局
+    category: national
+    area: 全国
+    url: https://portal.monodukuri-hojo.jp/
+    priority: low
+    watch_only: true
+    recruit_type: 審査員募集（不定期）
+    notes: 審査員募集が不定期掲載。ページ更新のみ監視
+
+  # ============================================================
+  # B. 栃木県
+  # ============================================================
+  - id: tochigi-iin
+    name: 栃木県産業振興センター
+    category: prefecture
+    area: 栃木県
+    url: https://www.tochigi-iin.or.jp/
+    priority: high
+    recruit_type: 専門家派遣の専門家登録・各種コーディネーター公募
+    notes: 拠点県の中核支援機関。専門家登録＋よろず/承継等の受託事業の募集も出る
+
+  - id: tochigi-yorozu
+    name: 栃木県よろず支援拠点
+    category: prefecture
+    area: 栃木県
+    url: https://tochigi-yorozu.go.jp/
+    priority: high
+    recruit_type: コーディネーター・生産性向上支援サポーター
+    notes: CO募集・サポーター募集を監視
+
+  - id: tochigi-shokokai
+    name: 栃木県商工会連合会 エキスパートバンク
+    category: cci
+    area: 栃木県
+    url: https://www.shokokai-tochigi.or.jp/about/expertbank.html
+    recruit_type: エキスパートバンク登録（通年）
+    notes: 小規模事業者への専門家派遣制度
+
+  - id: tochigi-cgc
+    name: 栃木県信用保証協会
+    category: guarantee
+    area: 栃木県
+    url: https://www.cgc-tochigi.or.jp/
+    priority: low
+    recruit_type: 専門家派遣の登録専門家
+    notes: 経営支援（専門家派遣）事業あり
+
+  - id: tochigi-pref-sangyo
+    name: 栃木県庁 産業労働観光部
+    category: prefecture
+    area: 栃木県
+    url: https://www.pref.tochigi.lg.jp/sangyou/index.html
+    priority: low
+    watch_only: true
+    notes: 県事業の委員・専門家公募が不定期。更新監視のみ
+
+  - id: oyama-cci
+    name: 小山商工会議所
+    category: cci
+    area: 栃木県小山市
+    url: https://www.oyama-cci.or.jp/
+    recruit_type: 専門相談員・エキスパート
+    notes: 拠点地の会議所。専門家関連のお知らせを監視
+
+  - id: utsunomiya-cci
+    name: 宇都宮商工会議所
+    category: cci
+    area: 栃木県宇都宮市
+    url: https://www.u-cci.or.jp/
+    priority: low
+    notes: 県都の会議所
+
+  # ============================================================
+  # C. 茨城県
+  # ============================================================
+  - id: iis-net
+    name: いばらき中小企業グローバル推進機構
+    category: prefecture
+    area: 茨城県
+    url: https://www.iis-net.or.jp/
+    priority: high
+    recruit_type: エキスパート派遣の専門家登録・よろず/承継等の募集
+    notes: 茨城県の中核支援機関（旧 中小企業振興公社）
+
+  - id: ib-shokoren
+    name: 茨城県商工会連合会
+    category: cci
+    area: 茨城県
+    url: https://www.ib-shokoren.or.jp/
+    recruit_type: エキスパートバンク登録
+    notes: 古河・結城・筑西エリアの商工会経由派遣の入口
+
+  - id: ibaraki-cgc
+    name: 茨城県信用保証協会
+    category: guarantee
+    area: 茨城県
+    url: https://icgc.or.jp/
+    priority: low
+    recruit_type: 専門家派遣の登録専門家
+
+  - id: koga-cci
+    name: 古河商工会議所
+    category: cci
+    area: 茨城県古河市
+    url: https://kogacci.or.jp/
+    priority: low
+    notes: 小山近郊
+
+  - id: mito-cci
+    name: 水戸商工会議所
+    category: cci
+    area: 茨城県水戸市
+    url: https://mito.inetcci.or.jp/
+    priority: low
+
+  # ============================================================
+  # D. 埼玉県
+  # ============================================================
+  - id: saitama-j-senmonka
+    name: 埼玉県産業振興公社 専門家派遣
+    category: prefecture
+    area: 埼玉県
+    url: https://www.saitama-j.or.jp/kikaku/senmonka
+    priority: high
+    recruit_type: 登録専門家募集
+    notes: 専門家登録の募集時期を重点監視
+
+  - id: saitama-dx
+    name: 埼玉DXパートナー
+    category: prefecture
+    area: 埼玉県
+    url: https://www.saitamadx.com/recruitment/
+    priority: high
+    recruit_type: DXパートナー登録
+    notes: AI/DX専門と直球で合致する登録制度
+
+  - id: sozo-saitama-expert
+    name: さいたま市産業創造財団 専門家登録
+    category: city
+    area: 埼玉県さいたま市
+    url: https://www.sozo-saitama-expert.jp/expert/
+    recruit_type: 専門家登録
+    notes: エキスパート登録専用サイト
+
+  - id: sozo-saitama
+    name: さいたま市産業創造財団
+    category: city
+    area: 埼玉県さいたま市
+    url: https://www.sozo-saitama.or.jp/
+    priority: low
+    notes: 財団本体のお知らせ（専門家・審査員募集が出ることあり）
+
+  - id: saitama-cgc
+    name: 埼玉県信用保証協会
+    category: guarantee
+    area: 埼玉県
+    url: https://www.cgc-saitama.or.jp/
+    priority: low
+    recruit_type: 専門家派遣の登録専門家
+
+  - id: saitama-cci
+    name: さいたま商工会議所
+    category: cci
+    area: 埼玉県さいたま市
+    url: https://www.saitamacci.or.jp/
+    priority: low
+
+  - id: kumagaya-cci
+    name: 熊谷商工会議所
+    category: cci
+    area: 埼玉県熊谷市
+    url: https://www.kumagayacci.or.jp/
+    priority: low
+    notes: 近郊アクセス良好エリア
+
+  # ============================================================
+  # E. 東京都
+  # ============================================================
+  - id: tokyo-kosha-senmonka
+    name: 東京都中小企業振興公社 専門家募集
+    category: prefecture
+    area: 東京都
+    url: https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/index.html
+    priority: high
+    recruit_type: 委嘱専門家（テーマ別・頻繁に入替）
+    notes: 入替が激しい最重要監視対象。DX/デジタル系委嘱が頻出
+
+  - id: startup-station
+    name: TOKYO創業ステーション
+    category: incubation
+    area: 東京都
+    url: https://startup-station.jp/
+    priority: low
+    recruit_type: プランコンサルタント・メンター募集
+    notes: 東京都/公社の創業支援施設
+
+  - id: tokyo-cgc
+    name: 東京信用保証協会
+    category: guarantee
+    area: 東京都
+    url: https://www.cgc-tokyo.or.jp/
+    priority: low
+    recruit_type: 経営サポート・専門家派遣の登録専門家
+
+  - id: tokyo-cci
+    name: 東京商工会議所
+    category: cci
+    area: 東京都
+    url: https://www.tokyo-cci.or.jp/
+    priority: low
+    notes: 専門家ボランティア・相談員等の募集が不定期
+
+  # --- 東京23区の産業振興財団・公社 ---
+  - id: taito-sangyo
+    name: 台東区産業振興事業団
+    category: city
+    area: 東京都台東区
+    url: https://taito-sangyo.jp/
+    priority: low
+    recruit_type: 経営相談員・専門家
+
+  - id: pio-ota
+    name: 大田区産業振興協会
+    category: city
+    area: 東京都大田区
+    url: https://www.pio-ota.jp/
+    priority: low
+    recruit_type: 相談員・コーディネーター
+    notes: 製造業集積地。ものづくり×DXと親和性高
+
+  - id: minato-sansin
+    name: 港区立産業振興センター
+    category: city
+    area: 東京都港区
+    url: https://minato-sansin.com/
+    priority: low
+
+  - id: sumida-bsc
+    name: すみだビジネスサポートセンター
+    category: city
+    area: 東京都墨田区
+    url: https://www.sumisapo.jp/
+    priority: low
+    notes: 製造業集積地
+
+  - id: toshima-biz
+    name: としまビジネスサポートセンター
+    category: city
+    area: 東京都豊島区
+    url: https://toshima-biz.com/
+    priority: low
+
+  - id: itabashi-kigyou
+    name: 板橋区立企業活性化センター
+    category: city
+    area: 東京都板橋区
+    url: https://www.itabashi-kigyou.jp/
+    priority: low
+
+  - id: tokyo-yorozu
+    name: 東京都よろず支援拠点
+    category: prefecture
+    area: 東京都
+    url: https://tokyoyorozu.go.jp/
+    recruit_type: コーディネーター募集
+    notes: 運営受託は東京都信用金庫協会。CO募集は全国本部の公募一覧にも出る
