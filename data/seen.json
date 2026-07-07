@@ -1,0 +1,1144 @@
+{
+  "pages": {
+    "smrj-procurement": {
+      "hash": "96520667c1473c4a",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "yorozu-honbu": {
+      "hash": "65eaed49ccbc128b",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "inpit-chizai": {
+      "hash": "baa227eb43aca241",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "jetro-procurement": {
+      "hash": "85604f216d325543",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "shoukei-portal": {
+      "hash": "e026f73eb5410d54",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "smrj-businest": {
+      "hash": "6fc4b7347d89e0a4",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "it-shien": {
+      "hash": "94686283404a8fee",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "pro-jinzai": {
+      "hash": "c437e3fc12169f18",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "monodukuri-hojo": {
+      "hash": "42efd4c570662f4e",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tochigi-iin": {
+      "hash": "d9f04c06cab41d09",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tochigi-yorozu": {
+      "hash": "aa25b8ce9e9f7ce4",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tochigi-shokokai": {
+      "hash": "dc63ddabc98f13ba",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tochigi-cgc": {
+      "hash": "b2ebb46dd11bb1a7",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tochigi-pref-sangyo": {
+      "hash": "79b3aae402ae65e2",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "oyama-cci": {
+      "hash": "b26643373b1605c3",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "utsunomiya-cci": {
+      "hash": "937d42c612b275e7",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "iis-net": {
+      "hash": "3d3c41c656aebe70",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "ib-shokoren": {
+      "hash": "c477d91fb6a360b2",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "ibaraki-cgc": {
+      "hash": "00d6df6c5d266a74",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "koga-cci": {
+      "hash": "4ef4c4d0bfc1f7bb",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "mito-cci": {
+      "hash": "0cd69eecab166b1a",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "saitama-dx": {
+      "hash": "75f79f1a3a02751a",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "sozo-saitama": {
+      "hash": "b7f39c87fb49bfa7",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "saitama-cgc": {
+      "hash": "f32653a44bc44f02",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "saitama-cci": {
+      "hash": "94839ed15f7786b9",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "kumagaya-cci": {
+      "hash": "7a54da28b5c6db70",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tokyo-kosha-senmonka": {
+      "hash": "3528fe088090f17a",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "startup-station": {
+      "hash": "3657a4760b0d14c6",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tokyo-cgc": {
+      "hash": "23e9ed4aa679fa6c",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tokyo-cci": {
+      "hash": "9268054dbeb08627",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "taito-sangyo": {
+      "hash": "d7a4489da99fa75e",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "pio-ota": {
+      "hash": "edbcd976d3183f63",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "minato-sansin": {
+      "hash": "c68c3b721317c8e4",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "sumida-bsc": {
+      "hash": "99b21bd8ca38821b",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "toshima-biz": {
+      "hash": "8d70b7ead8491e9c",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "itabashi-kigyou": {
+      "hash": "a2065d42a1d1d929",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    },
+    "tokyo-yorozu": {
+      "hash": "db8bf83858e6f469",
+      "last_fetched": "2026-07-07T22:38:40.515Z"
+    }
+  },
+  "items": {
+    "f6a8c8a6a536": {
+      "url": "https://www.smrj.go.jp/sme/funding/index.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "a61d5773c8ff": {
+      "url": "https://www.smrj.go.jp/procurement/index.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "7d0ff57d0e4d": {
+      "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "a259f5e5608e": {
+      "url": "https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000gcs1.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "e8ecd85e7b3b": {
+      "url": "https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000ftz7.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "71a67fe556a1": {
+      "url": "https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000ftlx.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "3f544ee94aaa": {
+      "url": "https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000ezbk.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "47e62d0696e8": {
+      "url": "https://www.smrj.go.jp/procurement/solicitation/expiry/index.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "bd14a00f6132": {
+      "url": "https://www.smrj.go.jp/procurement/bid/qualification/index.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "919bf6fe0201": {
+      "url": "https://www.smrj.go.jp/procurement/solicitation/index.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "smrj-procurement"
+    },
+    "9dc00f8766db": {
+      "url": "https://yorozu.smrj.go.jp/recruit/voice_miyagi",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "0bd3ea10b971": {
+      "url": "https://yorozu.smrj.go.jp/recruit/voice_yamaguchi",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "cfd337b496a1": {
+      "url": "https://yorozu.smrj.go.jp/recruit/voice_kagoshima",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "922cd3c3d8e4": {
+      "url": "https://www.nara-sangyoshinko.or.jp/about/26_05adoption.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "fb3cfe83066f": {
+      "url": "https://yorozu-okayama.go.jp/seisansei-kojo-shien-center-supporter-kobo",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "cfed7c504c4b": {
+      "url": "https://yorozu-okayama.go.jp/reiwa8-okayama-yorozu-shien-kyoten-coordinator-boshu-yoryo",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "164d9e5c8a11": {
+      "url": "https://www.yorozu-ibaraki.go.jp/news/lggo0ot7gouftoy3d8v0o6hc",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "0c0b1b7668d3": {
+      "url": "https://r.goope.jp/srp-04/info/6706550",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "e424a856b6f8": {
+      "url": "https://yorozu.smrj.go.jp/wp-content/uploads/2026/03/236e166a1773a42835b6316136cbc1bb.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "yorozu-honbu"
+    },
+    "51dee14d313f": {
+      "url": "https://chizai-portal.inpit.go.jp/news-info",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "inpit-chizai"
+    },
+    "8991998650a1": {
+      "url": "https://chizai-portal.inpit.go.jp/news-info/news553.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "inpit-chizai"
+    },
+    "12a58ba3b611": {
+      "url": "https://www.jetro.go.jp/gov_procurement",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "7cbec733c67f": {
+      "url": "https://www.jetro.go.jp/events/inform",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "2670cb745cb9": {
+      "url": "https://www.jetro.go.jp/ext_images/procurement/pdf/20260701.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "2463f0e87ecc": {
+      "url": "https://www.jetro.go.jp/procurement/publicoffer.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "2c2b0330fa8b": {
+      "url": "https://www.jetro.go.jp/procurement/green.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "da516a9892d7": {
+      "url": "https://www.jetro.go.jp/procurement/shougai.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "826963066ea6": {
+      "url": "https://www.jetro.go.jp/procurement/chusho.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "e183d5ac48b0": {
+      "url": "https://www.jetro.go.jp/procurement/bid/hra/d1f40d7b80833e7b.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "b0f09bbc582a": {
+      "url": "https://www.jetro.go.jp/procurement/bid/ivd/c0561a9aa1dea96b.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "e7b5e482c889": {
+      "url": "https://www.jetro.go.jp/procurement/bid/adj/c0e1075bbfa85c33.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "4d43b921f788": {
+      "url": "https://www.jetro.go.jp/procurement/bidtop/bid/purchase01",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "59dc4f12de94": {
+      "url": "https://www.jetro.go.jp/procurement/bidtop/bid/purchase02",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "ad550024ada8": {
+      "url": "https://www.jetro.go.jp/procurement/bidtop/bid/service03",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "e8006161fa72": {
+      "url": "https://www.jetro.go.jp/procurement/publicoffer/dne/9bc00e38320b894d.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "6538ec58df72": {
+      "url": "https://www.jetro.go.jp/procurement/publicoffer/igb/be8815cf7e22f236.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "74a6dfe523a5": {
+      "url": "https://www.jetro.go.jp/procurement/publicoffer/igb/2d37dfb7b749b024.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "dcc603683829": {
+      "url": "https://www.jetro.go.jp/ext_images/procurement/opinion/ikenshosei260611.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "a9469f6368d6": {
+      "url": "https://www.jetro.go.jp/ext_images/procurement/opinion/ikenshosei260128.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "jetro-procurement"
+    },
+    "0da0179d3894": {
+      "url": "https://it-shien.smrj.go.jp/pdf/deregistration_list.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "2ee5e535c0f1": {
+      "url": "https://it-shien.smrj.go.jp/news/40129",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "a7877426e8d2": {
+      "url": "https://it-shien.smrj.go.jp/news/40041",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "f966b6987b81": {
+      "url": "https://it-shien.smrj.go.jp/news/30222",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "15f07d0a2db0": {
+      "url": "https://it-shien.smrj.go.jp/news/40035",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "9f981e9e97a6": {
+      "url": "https://it-shien.smrj.go.jp/news/40024",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "00e608cee343": {
+      "url": "https://it-shien.smrj.go.jp/news/25",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "999497e8b4cb": {
+      "url": "https://it-shien.smrj.go.jp/news/30139",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "552a78501347": {
+      "url": "https://it-shien.smrj.go.jp/news/30132",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "23096e5cdf7f": {
+      "url": "https://it-shien.smrj.go.jp/news/30118",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "41d72602f836": {
+      "url": "https://it-shien.smrj.go.jp/news/30026",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "012cc267ba21": {
+      "url": "https://it-shien.smrj.go.jp/news/30038",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "65e941bba253": {
+      "url": "https://it-shien.smrj.go.jp/news/30033",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "abae8180e07d": {
+      "url": "https://it-shien.smrj.go.jp/news/20304",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "da87e7780037": {
+      "url": "https://it-shien.smrj.go.jp/news/102227",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "db62c9054fbc": {
+      "url": "https://it-shien.smrj.go.jp/news/30022",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "2bbb4ad04df9": {
+      "url": "https://it-shien.smrj.go.jp/news/30020",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "9a6c654f2c3f": {
+      "url": "https://it-shien.smrj.go.jp/news/30013",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "c8a47b534893": {
+      "url": "https://it-shien.smrj.go.jp/news/20301",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "7d0857e9b51b": {
+      "url": "https://it-shien.smrj.go.jp/news/102222",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "1e615abe6fde": {
+      "url": "https://it-shien.smrj.go.jp/pdf/it2025_manual_preregistration.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "2acd76683686": {
+      "url": "https://it-shien.smrj.go.jp/pdf/it2025_registration.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "5c7c79d153b9": {
+      "url": "https://it-shien.smrj.go.jp/news/20233",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "e434c9861b5c": {
+      "url": "https://it-shien.smrj.go.jp/news/20222",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "4c01a614726d": {
+      "url": "https://it-shien.smrj.go.jp/news/20189",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "dad9d85fb7df": {
+      "url": "https://it-shien.smrj.go.jp/news/20062",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "7e877b12e02d": {
+      "url": "https://it-shien.smrj.go.jp/news/20024",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "a218341ccdb9": {
+      "url": "https://it-shien.smrj.go.jp/news/20017",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "d3d15929633a": {
+      "url": "https://it-shien.smrj.go.jp/news/10180",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "108e4aaec8d5": {
+      "url": "https://it-shien.smrj.go.jp/news/10175",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "567f63cda12e": {
+      "url": "https://it-shien.smrj.go.jp/news/10165",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "a04d37b54bdc": {
+      "url": "https://it-shien.smrj.go.jp/news/10051",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "13446a301967": {
+      "url": "https://it-shien.smrj.go.jp/news/10038",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "97569681d980": {
+      "url": "https://it-shien.smrj.go.jp/news/10031",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "574380b6b543": {
+      "url": "https://it-shien.smrj.go.jp/news/10029",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "32c90d484b50": {
+      "url": "https://it-shien.smrj.go.jp/news/10028",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "3f4b0ec47250": {
+      "url": "https://it-shien.smrj.go.jp/news/10018",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "2bbc72d19b75": {
+      "url": "https://it-shien.smrj.go.jp/news/10016",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "c6cfa1dac9c6": {
+      "url": "https://it-shien.smrj.go.jp/itvendor/flow",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "8374345394a7": {
+      "url": "https://it-shien.smrj.go.jp/itvendor/procedure/ittool",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "d11b9b1c94dc": {
+      "url": "https://it-shien.smrj.go.jp/itvendor/procedure",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "it-shien"
+    },
+    "398537291575": {
+      "url": "https://www.tochigi-iin.or.jp/home/10/4425.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "3dd6e3bb764c": {
+      "url": "https://www.tochigi-iin.or.jp/home/10/4541.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "0a61906f9a05": {
+      "url": "https://www.tochigi-iin.or.jp/home/10/3780.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "ef4ee65a3c64": {
+      "url": "https://www.tochigi-iin.or.jp/home/10/4543.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "b231d4c1d481": {
+      "url": "https://www.tochigi-iin.or.jp/home/10/329.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "3fd01f95131a": {
+      "url": "https://www.tochigi-iin.or.jp/home/11/3871.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "66c380237601": {
+      "url": "https://www.tochigi-iin.or.jp/home/11/3873.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "47128a7568ae": {
+      "url": "https://www.tochigi-iin.or.jp/home/11/3913.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "fbe1f0ca1b93": {
+      "url": "https://www.tochigi-iin.or.jp/home/12/2200.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-iin"
+    },
+    "6f3a4265fa44": {
+      "url": "https://tochigi-yorozu.go.jp/staff",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-yorozu"
+    },
+    "59402d867a15": {
+      "url": "https://tochigi-yorozu.go.jp/supporter",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-yorozu"
+    },
+    "3646c9b2940b": {
+      "url": "https://tochigi-yorozu.go.jp/info/11257",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-yorozu"
+    },
+    "59e65b673e5f": {
+      "url": "https://tochigi-yorozu.go.jp/staff_blog/%e3%80%8cdx%e3%81%ab%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf%e3%81%9f%e3%81%84%e3%80%8d%e3%81%ae%e5%89%8d%e3%81%ab%e8%80%83%e3%81%88%e3%81%9f%e3%81%84%e3%81%93%e3%81%a8%ef%bc%88%e3%82%b5%e3%83%9d%e3%83%bc",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-yorozu"
+    },
+    "b4ecb286835a": {
+      "url": "https://tochigi-yorozu.go.jp/staff_blog/%e7%94%9f%e7%94%a3%e6%80%a7%e5%90%91%e4%b8%8a%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b%e3%80%81%e4%bd%95%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e8%a1%8c%e3%81%86%e3%81%ae%e3%81%8b%ef%bc%88%e3%82%b5%e3%83%9d",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-yorozu"
+    },
+    "9d08ef2de675": {
+      "url": "https://tochigi-yorozu.go.jp/blog",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-yorozu"
+    },
+    "e7bf73aa456f": {
+      "url": "https://www.cgc-tochigi.or.jp/recruit/recruit-detail",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tochigi-cgc"
+    },
+    "bc9c214dc9be": {
+      "url": "https://www.oyama-cci.or.jp/latest_information/202607016016",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "oyama-cci"
+    },
+    "c4391ed6f17e": {
+      "url": "https://www.oyama-cci.or.jp/latest_information/202603048520",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "oyama-cci"
+    },
+    "84defc7da669": {
+      "url": "https://www.oyama-cci.or.jp/latest_information/202601158375",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "oyama-cci"
+    },
+    "391c93a7f658": {
+      "url": "https://www.oyama-cci.or.jp/consultation",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "oyama-cci"
+    },
+    "4fa97ae55cea": {
+      "url": "https://myevent.tokyo-cci.or.jp/detail.php?event_kanri_id=207133",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "utsunomiya-cci"
+    },
+    "5cf003a4f298": {
+      "url": "https://www.u-cci.or.jp/business/miyanoshodankai",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "utsunomiya-cci"
+    },
+    "31e817c25350": {
+      "url": "https://www.u-cci.or.jp/business/subsidy_jizokukahojokin",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "utsunomiya-cci"
+    },
+    "effdd3bea831": {
+      "url": "https://www.u-cci.or.jp/kentei/e-boki",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "utsunomiya-cci"
+    },
+    "0d5c054a9fea": {
+      "url": "https://www.pref.tochigi.lg.jp/f03/jigyoushoukei/r8uketukekaishi.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "utsunomiya-cci"
+    },
+    "61f1f27dac5b": {
+      "url": "https://www.meti.go.jp/information/publicoffer/kobo/2026/k260604002.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "utsunomiya-cci"
+    },
+    "de5c79399cae": {
+      "url": "https://www.iis-net.or.jp/files/kousya/page/tempfileR8/SENA_2027.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "iis-net"
+    },
+    "5f589d014239": {
+      "url": "https://www.iis-net.or.jp/files/kousya/page/tempfileR8/FOODEX_JAPAN_2027.pdf",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "iis-net"
+    },
+    "c555292b5399": {
+      "url": "https://ibaraki-kagaku.com/innovation/2026/06/start2026",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "iis-net"
+    },
+    "af5e7764f499": {
+      "url": "https://www.pref.ibaraki.jp/sangyo/kagaku/kenkyu/sentan.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "iis-net"
+    },
+    "b6613af74d28": {
+      "url": "https://www.itic.pref.ibaraki.jp/infolist/studygroup/info-20260427-3",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "iis-net"
+    },
+    "2f2ec6651578": {
+      "url": "https://www.iis-net.or.jp/page?kind=venture_senmonka",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "iis-net"
+    },
+    "91fa50615b27": {
+      "url": "https://www.iis-net.or.jp/page?kind=senmonka_link",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "iis-net"
+    },
+    "274b4c56af69": {
+      "url": "https://www.ib-shokoren.or.jp/info/blog/archives/category/recruit",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "ib-shokoren"
+    },
+    "d7072d9c88b3": {
+      "url": "https://icgc.or.jp/notice/post-2782",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "ibaraki-cgc"
+    },
+    "25415db75ee4": {
+      "url": "https://icgc.or.jp/notice/bijinesupurann",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "ibaraki-cgc"
+    },
+    "82a3aa6a0b0f": {
+      "url": "https://icgc.or.jp/line",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "ibaraki-cgc"
+    },
+    "971c82c935e8": {
+      "url": "https://www.chusho.meti.go.jp/kinyu/shikinguri/hosho/haken.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "ibaraki-cgc"
+    },
+    "cb948b80137e": {
+      "url": "https://kogacci.or.jp/event/20250519event",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "koga-cci"
+    },
+    "de9e9de7bdf6": {
+      "url": "https://www.sozo-saitama.or.jp/about/expert",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "90b70515d248": {
+      "url": "https://www.sozo-saitama.or.jp/topic/branding-design",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "ab517701ccf1": {
+      "url": "https://www.sozo-saitama.or.jp/topic/%e7%84%a1%e6%96%99-%e7%aa%93%e5%8f%a3%e7%9b%b8%e8%ab%87%e4%bc%9a%e9%96%8b%e5%82%ac%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "f1784945cd03": {
+      "url": "https://www.sozo-saitama.or.jp/topic/ai-implementation-program",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "fbf064eb47ef": {
+      "url": "https://www.sozo-saitama.or.jp/topic/%e3%80%90%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91%e5%a5%91%e7%b4%84%e8%81%b7%e5%93%a1%ef%bc%88%e5%b9%b9%e9%83%a8%e5%80%99%e8%a3%9c%ef%bc%89%e3%81%ae%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "7cabc3c9726a": {
+      "url": "https://www.sozo-saitama.or.jp/topic/%e3%80%906%e6%9c%8830%e6%97%a5%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e5%b8%82%e5%9b%bd%e9%9a%9b%e5%b1%95%e9%96%8b%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc%e3%80%91%e3%82%a4%e3%83%b3%e3%83%89%e3%83%93",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "8e0697afa05e": {
+      "url": "https://www.sozo-saitama.or.jp/topic/aiseminar202607",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "7adc99169ada": {
+      "url": "https://www.sozo-saitama.or.jp/topic/dx-subsidy",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "b50702187c24": {
+      "url": "https://www.sozo-saitama.or.jp/topic/dx-new-business",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "f6eee40381b1": {
+      "url": "https://www.sozo-saitama.or.jp/topic/gx-subsidy",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "sozo-saitama"
+    },
+    "ccb553a93be7": {
+      "url": "https://www.saitamacci.or.jp/senmonka/index.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "saitama-cci"
+    },
+    "eea7f096d052": {
+      "url": "https://www.saitamacci.or.jp/seminar/seminar-17252",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "saitama-cci"
+    },
+    "d9826c32e8c2": {
+      "url": "https://www.saitamacci.or.jp/news/news-8048",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "saitama-cci"
+    },
+    "1e7806a45db9": {
+      "url": "https://www.saitamacci.or.jp/support/support-19504",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "saitama-cci"
+    },
+    "1ca491086356": {
+      "url": "https://ws-saitama-city.com/work",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "saitama-cci"
+    },
+    "a95e277b281e": {
+      "url": "https://www.kumagayacci.or.jp/management_support/loan_counseling",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "kumagaya-cci"
+    },
+    "f08f1d4e03dd": {
+      "url": "https://www.kumagayacci.or.jp/topics/12724",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "kumagaya-cci"
+    },
+    "ddd8f0f12405": {
+      "url": "https://www.kumagayacci.or.jp/topics/11699",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "kumagaya-cci"
+    },
+    "8af165ef36d7": {
+      "url": "https://www.kumagayacci.or.jp/topics/11596",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "kumagaya-cci"
+    },
+    "28908cc28f48": {
+      "url": "https://www.kumagayacci.or.jp/event-seminar/event-seminar-16909",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "kumagaya-cci"
+    },
+    "0b61f65408b0": {
+      "url": "https://www.kumagayacci.or.jp/bizkuma/bizkuma-17094",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "kumagaya-cci"
+    },
+    "9a178bfac275": {
+      "url": "https://www.kumagayacci.or.jp/management_support/seminar-information",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "kumagaya-cci"
+    },
+    "74d19764a196": {
+      "url": "https://www.tokyo-kosha.or.jp/kosha/netclub",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-kosha-senmonka"
+    },
+    "4c4ed0db80d1": {
+      "url": "https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2606/12_01.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-kosha-senmonka"
+    },
+    "dc7428a574d6": {
+      "url": "https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2606/22-01.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-kosha-senmonka"
+    },
+    "fcd6c71b06a9": {
+      "url": "https://startup-station.jp/info20260706",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "startup-station"
+    },
+    "e9bb1b9b233b": {
+      "url": "https://startup-station.jp/consultant",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "startup-station"
+    },
+    "ed9f6ee758f2": {
+      "url": "https://www.cgc-tokyo.or.jp/info/juyou/keieisyahosyouhuyou_0216.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cgc"
+    },
+    "828ddb2a9ff0": {
+      "url": "https://www.cgc-tokyo.or.jp/about/mail.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cgc"
+    },
+    "2877da4c0543": {
+      "url": "https://www.cgc-tokyo.or.jp/assistinfo/senmonkahaken.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cgc"
+    },
+    "8f20ef60b6e5": {
+      "url": "https://www.tokyo-cci.or.jp/soudan",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cci"
+    },
+    "14e59fdaa5f4": {
+      "url": "https://www.tokyo-cci.or.jp/about/merumaga",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cci"
+    },
+    "f9ba7a27f216": {
+      "url": "https://mypage.tokyo-cci.or.jp/mypage/contents/movie/11386.php",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cci"
+    },
+    "41db5072fa04": {
+      "url": "https://www.tokyo-cci.or.jp/soudan/branch",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cci"
+    },
+    "6ca9c790a43e": {
+      "url": "https://www.tokyo-cci.or.jp/henko-kaiin",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-cci"
+    },
+    "1413c817da28": {
+      "url": "https://taito-sangyo.jp/2026/06/09/%e3%81%97%e3%81%9f%e3%81%be%e3%81%a1taito%e5%89%b5%e6%a5%ad%e5%a1%be%ef%bc%88%ef%bc%92%ef%bc%90%ef%bc%92%ef%bc%96%ef%bc%89",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "817770cd17f9": {
+      "url": "https://taito-sangyo.jp/2026/05/21/top-leader-seminar2026",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "18ea6891fbed": {
+      "url": "https://taito-sangyo.jp/2023/03/13/bengosisoudan",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "e4b4c3adb1ad": {
+      "url": "https://taito-sangyo.jp/2023/03/14/businessadvisor",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "15cdd934e8e7": {
+      "url": "https://taito-sangyo.jp/seminar/seminar-2",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "aeb3b2abad97": {
+      "url": "https://taito-sangyo.my.salesforce-sites.com",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "83e6e9b5c044": {
+      "url": "https://taito-sangyo.jp/example/soudan",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "a83cba26a4c9": {
+      "url": "https://taito-sangyo.jp/mail-magazine",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "taito-sangyo"
+    },
+    "61cf4b8ade4b": {
+      "url": "https://ota-tech.com/2026",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "pio-ota"
+    },
+    "370f2bc08a3e": {
+      "url": "https://www.pio-ota.jp/news/recruitment/open-call/marcheohkayamarecruitment",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "pio-ota"
+    },
+    "ae0c86b4f0d7": {
+      "url": "https://www.pio-ota.jp/news/recruitment/open-call/13th_mini_exhibition",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "pio-ota"
+    },
+    "610afc20e9ed": {
+      "url": "https://www.pio-ota.jp/news/recruitment/open-call/65th_juhattyu_recruitment",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "pio-ota"
+    },
+    "ef4480a99a6e": {
+      "url": "https://www.hataraku.metro.tokyo.lg.jp/zaishokusha-kunren/carr_up/index.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "pio-ota"
+    },
+    "0eeddda14f45": {
+      "url": "https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenkokeiei-0804.html",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "pio-ota"
+    },
+    "2805c0072552": {
+      "url": "https://minato-sansin.com/register",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "minato-sansin"
+    },
+    "775fa904705b": {
+      "url": "https://minato-sansin.com/events/minato-incubation2026",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "minato-sansin"
+    },
+    "fae47edce41d": {
+      "url": "https://minato-sansin.com/event_seminar/minatoku_kurashisoudan",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "minato-sansin"
+    },
+    "8e1229844c93": {
+      "url": "https://minato-sansin.com/events/yushi_260707",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "minato-sansin"
+    },
+    "224eab101da9": {
+      "url": "https://minato-sansin.com/attention/minatoku_kurashisoudan",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "minato-sansin"
+    },
+    "7b03d13d22fd": {
+      "url": "https://tokyoyorozu.go.jp/staff",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "030132ae6caf": {
+      "url": "https://tokyoyorozu.go.jp/news/2026-06-24",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "fc0de0b1cd63": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e5%bc%a5%e5%86%a8%e5%b0%9a%e5%bf%97",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "259b64bd116c": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e9%96%a2%e7%be%a9%e4%b9%8b",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "2588fbdd1900": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e9%87%91%e5%ad%90%e6%95%a6%e5%bd%a6",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "dd2f8fa04396": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e5%90%89%e9%87%8e%e5%a4%aa%e4%bd%b3%e5%ad%90",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "6fad8a50df05": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%b5%85%e6%b2%bc%e8%81%a1",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "56376d5a87de": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e9%a6%ac%e5%a0%b4%e5%ae%8f%e5%b9%b3",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "b04cfcec28c4": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e5%b0%8f%e6%9d%be%e6%81%92%e4%b9%8b",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "a33b4927da3c": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%98%9f%e7%94%b0%e7%9b%b4%e5%a4%aa",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "813c5e8e2add": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e4%b8%8a%e6%a2%9d%e7%b4%98%e8%bc%9d",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "c5087b51b54b": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%9d%be%e6%9c%ac%e5%85%b8%e5%ad%90",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "148c55f54d2c": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e5%92%8c%e7%94%b0%e5%af%bf%e9%83%8e",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "e7133e938361": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%b0%b4%e5%8f%a3%e5%81%a5",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "e3864e500610": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e5%9c%9f%e7%94%b0%e5%93%b2",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "837f856418c7": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e4%b8%ad%e6%9d%91%e5%8f%8b%e6%a8%b9",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "3aaa08554812": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e8%97%a4%e5%8e%9f%e5%93%b2%e5%8f%b2",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "66a954ea7034": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%b5%85%e8%a6%8b%e7%9b%b4%e5%ad%90",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "d8bc78d689af": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%b7%bb%e7%94%b0%e5%ae%88%e8%bc%9d",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "06c0d468c1f4": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%88%90%e7%80%ac%e3%81%b5%e3%81%bf%e5%ad%90",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "5a7c610f5411": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e8%8d%92%e8%b0%b7%e5%8f%b8%e8%81%96",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "76dcd5b8eba4": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e9%85%92%e4%ba%95%e5%b4%87%e5%a5%bd",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "683225717b5c": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e9%ab%99%e5%9d%82%e7%ab%9c%e5%a4%aa",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "ec285517f11d": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e6%88%b8%e7%94%b0%e9%9b%85%e8%a3%95",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    },
+    "c50f56127931": {
+      "url": "https://tokyoyorozu.go.jp/staff/%e7%9f%b3%e7%94%b0%e5%9b%bd%e5%a4%a7",
+      "first_seen": "2026-07-07T22:38:40.515Z",
+      "source_id": "tokyo-yorozu"
+    }
+  }
+}
