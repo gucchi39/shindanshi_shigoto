@@ -564,6 +564,22 @@
     "llm_processed": false
   },
   {
+    "id": "7e9d8d01141c",
+    "title": "廃業について（コーディネーター 矢口 季男）",
+    "org": "栃木県よろず支援拠点",
+    "source_id": "tochigi-yorozu",
+    "category": "prefecture",
+    "area": "栃木県",
+    "status": "不明",
+    "url": "https://tochigi-yorozu.go.jp/staff_blog/%e5%bb%83%e6%a5%ad%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%88%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%8d%e3%83%bc%e3%82%bf%e3%83%bc-%e7%9f%a2%e5%8f%a3-%e5%ad%a3%e7%94%b7%ef%bc%89",
+    "source_type": "detail",
+    "fetched_at": "2026-07-08T22:33:59.359Z",
+    "first_seen": "2026-07-08T22:33:59.359Z",
+    "match_score": 73,
+    "match_reason": "エリア一致(栃木県) / 専門一致: DX,生産性向上,中小企業診断士,事業承継,創業",
+    "llm_processed": false
+  },
+  {
     "id": "83e6e9b5c044",
     "title": "専門コーディネーターの企業訪問、経営相談 活用事例",
     "org": "台東区産業振興事業団",
