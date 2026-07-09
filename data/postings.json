@@ -580,6 +580,22 @@
     "llm_processed": false
   },
   {
+    "id": "3346137bf931",
+    "title": "とちぎビジネスAIセンター「実務者向けハンズオンで学ぶ業務改善スキル習得研修」の受講者募集について（募集延長）",
+    "org": "栃木県産業振興センター",
+    "source_id": "tochigi-iin",
+    "category": "prefecture",
+    "area": "栃木県",
+    "status": "不明",
+    "url": "https://www.tochigi-iin.or.jp/home/10/4529.html",
+    "source_type": "detail",
+    "fetched_at": "2026-07-09T22:50:58.130Z",
+    "first_seen": "2026-07-09T22:50:58.130Z",
+    "match_score": 73,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮) / 専門一致: 生成AI,DX,AI,創業",
+    "llm_processed": false
+  },
+  {
     "id": "83e6e9b5c044",
     "title": "専門コーディネーターの企業訪問、経営相談 活用事例",
     "org": "台東区産業振興事業団",
@@ -1778,6 +1794,22 @@
     "llm_processed": false
   },
   {
+    "id": "599e922978b6",
+    "title": "「2026年度『農業共創セミナー』」出展者募集のご案内（JICA）",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://www.jica.go.jp/domestic/tsukuba/information/event/1582649_23964.html",
+    "source_type": "detail",
+    "fetched_at": "2026-07-09T22:50:58.130Z",
+    "first_seen": "2026-07-09T22:50:58.130Z",
+    "match_score": 49,
+    "match_reason": "エリア一致(茨城県) / 専門一致: DX",
+    "llm_processed": false
+  },
+  {
     "id": "91fa50615b27",
     "title": "登録専門家データベース",
     "org": "いばらき中小企業グローバル推進機構",
@@ -1856,6 +1888,39 @@
     "first_seen": "2026-07-07T22:38:40.515Z",
     "match_score": 46,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 事業承継,創業",
+    "llm_processed": false
+  },
+  {
+    "id": "cc2ee2f7d5f8",
+    "title": "2026年07月13日 【Plus/中小機構】【8/19締切】第26回 Japan Venture Awards（JVA）起業家・ベンチャーキャピタリストの応募者募集中！",
+    "org": "INPIT 知財総合支援窓口",
+    "source_id": "inpit-chizai",
+    "category": "national",
+    "area": "全国",
+    "status": "募集中",
+    "url": "https://chizai-portal.inpit.go.jp/news-info/news558.html",
+    "source_type": "detail",
+    "fetched_at": "2026-07-09T22:50:58.130Z",
+    "first_seen": "2026-07-09T22:50:58.130Z",
+    "match_score": 46,
+    "match_reason": "全国対象 / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
+    "id": "6562b2b4f978",
+    "title": "2026年07月10日NEW 【MEDISO】（7/31締切）MEDISO Medical Device Acceleration Program「MedTech BOOT」参加者募集のお知らせ",
+    "org": "INPIT 知財総合支援窓口",
+    "source_id": "inpit-chizai",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-07-31",
+    "status": "募集中",
+    "url": "https://chizai-portal.inpit.go.jp/news-info/news556.html",
+    "source_type": "detail",
+    "fetched_at": "2026-07-09T22:50:58.130Z",
+    "first_seen": "2026-07-09T22:50:58.130Z",
+    "match_score": 46,
+    "match_reason": "全国対象 / 専門一致: 創業",
     "llm_processed": false
   },
   {
@@ -2184,6 +2249,23 @@
     "llm_processed": false
   },
   {
+    "id": "24d95df9c65b",
+    "title": "2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ",
+    "org": "INPIT 知財総合支援窓口",
+    "source_id": "inpit-chizai",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-07-10",
+    "status": "募集中",
+    "url": "https://chizai-portal.inpit.go.jp/news-info/news555.html",
+    "source_type": "detail",
+    "fetched_at": "2026-07-09T22:50:58.130Z",
+    "first_seen": "2026-07-09T22:50:58.130Z",
+    "match_score": 40,
+    "match_reason": "全国対象",
+    "llm_processed": false
+  },
+  {
     "id": "0a61906f9a05",
     "title": "令和８(2026)年度「現場改善講師派遣事業」派遣先企業を募集します",
     "org": "栃木県産業振興センター",
@@ -2307,6 +2389,22 @@
     "source_type": "detail",
     "fetched_at": "2026-07-07T22:38:40.515Z",
     "first_seen": "2026-07-07T22:38:40.515Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
+    "id": "d327f9ce3425",
+    "title": "募集情報 HANEDA共創プラットフォーム 「Haneda Next Makers -ベンチャーフレンドリー2026-」 年度会員募集および第1回7/21(火) 開催のご案内 2026-07-09",
+    "org": "大田区産業振興協会",
+    "source_id": "pio-ota",
+    "category": "city",
+    "area": "東京都大田区",
+    "status": "不明",
+    "url": "https://piopark.net/info/detail/383",
+    "source_type": "detail",
+    "fetched_at": "2026-07-09T22:50:58.130Z",
+    "first_seen": "2026-07-09T22:50:58.130Z",
     "match_score": 39,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
     "llm_processed": false
