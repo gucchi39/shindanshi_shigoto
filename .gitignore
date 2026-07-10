@@ -2,3 +2,8 @@ node_modules/
 *.log
 .env
 .DS_Store
+
+# Astro dashboard (web/)
+web/node_modules/
+web/dist/
+web/.astro/

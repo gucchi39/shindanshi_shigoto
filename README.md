@@ -89,6 +89,13 @@ Slackの「取得失敗」に出るので、黙って0件になることはあ�
 - モデルは既定で `claude-opus-4-8`。コストを抑えるならworkflowの `CLAUDE_MODEL: claude-haiku-4-5` を有効化
 - アクセスは同一ホスト2秒間隔・1日1回。robots.txt のDisallowを尊重
 
+## ダッシュボード（web/）
+
+`data/postings.json` を可視化するAstro静的サイト。締切間近バンド・サマリー・カテゴリ絞り込み・スコア/締切ソートつき。
+
+- ローカル確認: `cd web && npm install && npm run build`（`dist/`に出力）
+- **常設URL化**: Cloudflare Pages にリポジトリを繋ぐと、毎日の巡回コミットのたびに自動リビルドされて最新になる。手順は [`web/README.md`](web/README.md) 参照
+
 ## 既知の制約 / 今後の拡張
 
 - 一部サイトはJavaScriptレンダリングが必要な可能性 → 失敗通知が続くソースは個別対応（headless化 or watch_only化）

@@ -1,0 +1,387 @@
+---
+import { readFileSync } from "node:fs";
+
+interface Posting {
+  title: string;
+  org: string;
+  area: string;
+  category: string;
+  status: string;
+  deadline: string | null;
+  url: string;
+  match_score: number;
+  match_reason?: string;
+  experience_requirement?: string | null;
+  fetched_at?: string;
+}
+
+// data/postings.json をビルド時に読み込む（web/ から見て親の data/）
+const postings = JSON.parse(
+  readFileSync(new URL("../../../data/postings.json", import.meta.url), "utf-8"),
+) as Posting[];
+
+const DATA = postings.map((p) => ({
+  t: p.title,
+  o: p.org,
+  a: p.area,
+  c: p.category,
+  s: p.status,
+  d: p.deadline || null,
+  u: p.url,
+  sc: p.match_score,
+  r: p.match_reason || "",
+  e: p.experience_requirement || null,
+}));
+
+// 最終取得日 = postings の fetched_at 最大値（JST）。無ければビルド日。
+const latest = postings.reduce<string>(
+  (m, p) => (p.fetched_at && p.fetched_at > m ? p.fetched_at : m),
+  "",
+);
+const jst = (iso: string) =>
+  new Date(Date.parse(iso) + 9 * 3600 * 1000).toISOString().slice(0, 10);
+const UPDATED = latest ? jst(latest) : jst(new Date().toISOString());
+// 締切の相対計算は「最終取得日」を基準にする（データと整合）
+const TODAY_ISO = UPDATED;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>公的機関 案件ボード｜中小企業診断士向け</title>
+    <meta
+      name="description"
+      content="中小企業診断士向け 公的機関の専門家募集を自動収集・適合スコアリングしたダッシュボード"
+    />
+    <style is:global>
+      :root {
+        --paper: #f4f5f8; --surface: #fff; --surface-2: #fafbfc; --ink: #191b22;
+        --muted: #5b6070; --faint: #8a8f9e; --hair: #e4e6ec; --hair-strong: #d3d6df;
+        --accent: #3d4ea8; --accent-soft: #eef0fb; --good: #2c7a5a; --good-soft: #e6f2ec;
+        --warn: #b26b08; --warn-soft: #fbf0dd; --urgent: #c0392b; --urgent-soft: #fbe7e4;
+        --slate: #6b7280; --slate-soft: #eef0f3;
+        --shadow: 0 1px 2px rgba(20, 24, 40, 0.04), 0 4px 16px rgba(20, 24, 40, 0.05);
+        --mono: "SFMono-Regular", "Roboto Mono", ui-monospace, "DejaVu Sans Mono", monospace;
+        --jp: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", "YuGothic",
+          "Noto Sans JP", "Meiryo", system-ui, sans-serif;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --paper: #14161c; --surface: #1c1f27; --surface-2: #21242d; --ink: #eceef4;
+          --muted: #a2a7b6; --faint: #767c8c; --hair: #2b2f3a; --hair-strong: #363b48;
+          --accent: #93a2ef; --accent-soft: #262b45; --good: #6bc79b; --good-soft: #1b2f27;
+          --warn: #e3b774; --warn-soft: #322818; --urgent: #ec8379; --urgent-soft: #33211f;
+          --slate: #9aa0ae; --slate-soft: #262a33;
+          --shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 4px 18px rgba(0, 0, 0, 0.28);
+        }
+      }
+      :root[data-theme="light"] {
+        --paper: #f4f5f8; --surface: #fff; --surface-2: #fafbfc; --ink: #191b22;
+        --muted: #5b6070; --faint: #8a8f9e; --hair: #e4e6ec; --hair-strong: #d3d6df;
+        --accent: #3d4ea8; --accent-soft: #eef0fb; --good: #2c7a5a; --good-soft: #e6f2ec;
+        --warn: #b26b08; --warn-soft: #fbf0dd; --urgent: #c0392b; --urgent-soft: #fbe7e4;
+        --slate: #6b7280; --slate-soft: #eef0f3;
+        --shadow: 0 1px 2px rgba(20,24,40,.04), 0 4px 16px rgba(20,24,40,.05);
+      }
+      :root[data-theme="dark"] {
+        --paper: #14161c; --surface: #1c1f27; --surface-2: #21242d; --ink: #eceef4;
+        --muted: #a2a7b6; --faint: #767c8c; --hair: #2b2f3a; --hair-strong: #363b48;
+        --accent: #93a2ef; --accent-soft: #262b45; --good: #6bc79b; --good-soft: #1b2f27;
+        --warn: #e3b774; --warn-soft: #322818; --urgent: #ec8379; --urgent-soft: #33211f;
+        --slate: #9aa0ae; --slate-soft: #262a33;
+        --shadow: 0 1px 2px rgba(0,0,0,.2), 0 4px 18px rgba(0,0,0,.28);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0; background: var(--paper); color: var(--ink);
+        font-family: var(--jp); line-height: 1.6;
+        -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
+      }
+      .wrap { max-width: 940px; margin: 0 auto; padding: 0 20px 80px; }
+      header {
+        display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-end;
+        justify-content: space-between; padding: 34px 0 22px; border-bottom: 1px solid var(--hair);
+      }
+      .brand { display: flex; align-items: center; gap: 13px; }
+      .mark {
+        width: 40px; height: 40px; border-radius: 10px; flex: none;
+        background: linear-gradient(145deg, var(--accent), color-mix(in srgb, var(--accent) 62%, #000 12%));
+        display: grid; place-items: center; box-shadow: var(--shadow);
+      }
+      .mark svg { width: 22px; height: 22px; }
+      .brand h1 { margin: 0; font-size: 20px; font-weight: 700; letter-spacing: .01em; }
+      .brand p { margin: 2px 0 0; font-size: 12.5px; color: var(--muted); }
+      .meta { text-align: right; font-size: 12px; color: var(--muted); }
+      .meta .updated { font-family: var(--mono); font-size: 13px; color: var(--ink); }
+      .eyebrow {
+        display: block; font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase;
+        color: var(--faint); margin-bottom: 2px;
+      }
+      .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 22px 0 8px; }
+      .stat {
+        background: var(--surface); border: 1px solid var(--hair); border-radius: 12px;
+        padding: 15px 16px; box-shadow: var(--shadow);
+      }
+      .stat .num {
+        font-family: var(--mono); font-size: 27px; font-weight: 600; letter-spacing: -.01em;
+        font-variant-numeric: tabular-nums; line-height: 1.1;
+      }
+      .stat .lbl { font-size: 12px; color: var(--muted); margin-top: 3px; }
+      .stat.accent .num { color: var(--accent); }
+      .stat.urgent .num { color: var(--urgent); }
+      .stat.good .num { color: var(--good); }
+      .band {
+        margin: 22px 0 4px; background: var(--urgent-soft);
+        border: 1px solid color-mix(in srgb, var(--urgent) 30%, transparent);
+        border-radius: 12px; padding: 15px 18px;
+      }
+      .band h2 {
+        margin: 0 0 10px; font-size: 13px; font-weight: 700; color: var(--urgent);
+        display: flex; align-items: center; gap: 7px;
+      }
+      .band ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+      .band li { display: flex; gap: 10px; align-items: baseline; font-size: 13.5px; }
+      .band .when {
+        font-family: var(--mono); font-size: 12px; font-weight: 600; flex: none;
+        min-width: 88px; color: var(--urgent);
+      }
+      .band a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--hair-strong); }
+      .band a:hover { border-color: var(--urgent); }
+      .controls {
+        position: sticky; top: 0; z-index: 5; background: var(--paper);
+        padding: 16px 0 12px; margin-top: 20px; border-bottom: 1px solid var(--hair);
+        display: flex; flex-wrap: wrap; gap: 8px 6px; align-items: center;
+      }
+      .chip {
+        font-family: var(--jp); font-size: 12.5px; color: var(--muted);
+        background: var(--surface); border: 1px solid var(--hair); border-radius: 999px;
+        padding: 6px 13px; cursor: pointer; transition: .12s; white-space: nowrap;
+      }
+      .chip:hover { border-color: var(--hair-strong); color: var(--ink); }
+      .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+      .chip .c { font-family: var(--mono); font-size: 11px; opacity: .7; margin-left: 5px; }
+      .spacer { flex: 1 1 auto; min-width: 12px; }
+      .sort { display: inline-flex; border: 1px solid var(--hair); border-radius: 999px; overflow: hidden; }
+      .sort button {
+        font-family: var(--jp); font-size: 12.5px; color: var(--muted); background: var(--surface);
+        border: 0; padding: 6px 14px; cursor: pointer; transition: .12s;
+      }
+      .sort button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 700; }
+      #list { display: flex; flex-direction: column; gap: 11px; margin-top: 18px; }
+      .card {
+        background: var(--surface); border: 1px solid var(--hair); border-radius: 13px;
+        padding: 16px 17px; box-shadow: var(--shadow); display: grid;
+        grid-template-columns: 62px 1fr; gap: 15px; align-items: start;
+      }
+      .score { text-align: center; }
+      .score .val {
+        font-family: var(--mono); font-size: 24px; font-weight: 600; line-height: 1;
+        font-variant-numeric: tabular-nums;
+      }
+      .score .cap { font-size: 9.5px; letter-spacing: .13em; text-transform: uppercase; color: var(--faint); margin-top: 3px; }
+      .meter { height: 4px; border-radius: 3px; background: var(--hair); margin-top: 7px; overflow: hidden; }
+      .meter i { display: block; height: 100%; border-radius: 3px; }
+      .tier-hi .val { color: var(--accent); } .tier-hi .meter i { background: var(--accent); }
+      .tier-mid .val { color: var(--ink); } .tier-mid .meter i { background: var(--slate); }
+      .tier-lo .val { color: var(--faint); } .tier-lo .meter i { background: var(--hair-strong); }
+      .body { min-width: 0; }
+      .card h3 { margin: 0 0 7px; font-size: 15px; font-weight: 700; line-height: 1.45; text-wrap: balance; }
+      .card h3 a { color: var(--ink); text-decoration: none; }
+      .card h3 a:hover { color: var(--accent); }
+      .row { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; font-size: 12.5px; color: var(--muted); }
+      .org { font-weight: 600; color: var(--ink); }
+      .dot { color: var(--hair-strong); }
+      .pill {
+        display: inline-flex; align-items: center; gap: 4px; font-size: 11.5px; font-weight: 600;
+        padding: 2px 9px; border-radius: 999px; white-space: nowrap;
+      }
+      .pill.cat { background: var(--slate-soft); color: var(--slate); }
+      .pill.st-open { background: var(--good-soft); color: var(--good); }
+      .pill.st-year { background: var(--accent-soft); color: var(--accent); }
+      .pill.st-closed { background: var(--slate-soft); color: var(--faint); }
+      .pill.st-unknown { background: var(--slate-soft); color: var(--slate); }
+      .pill.dl { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+      .pill.dl-today { background: var(--urgent-soft); color: var(--urgent); }
+      .pill.dl-soon { background: var(--warn-soft); color: var(--warn); }
+      .pill.dl-far { background: var(--slate-soft); color: var(--slate); }
+      .reason { margin: 9px 0 0; font-size: 12.5px; color: var(--muted); line-height: 1.55; }
+      .flag {
+        display: inline-flex; gap: 5px; align-items: baseline; margin-top: 8px; font-size: 11.5px;
+        color: var(--warn); background: var(--warn-soft); padding: 5px 10px; border-radius: 8px; line-height: 1.5;
+      }
+      .flag b { font-weight: 700; }
+      .empty { text-align: center; color: var(--muted); padding: 50px 0; font-size: 14px; }
+      .note {
+        margin-top: 26px; font-size: 12px; color: var(--faint); line-height: 1.7;
+        border-top: 1px dashed var(--hair-strong); padding-top: 16px;
+      }
+      .note code { font-family: var(--mono); font-size: 11.5px; background: var(--surface-2); padding: 1px 5px; border-radius: 4px; color: var(--muted); }
+      .note a { color: var(--accent); }
+      @media (max-width: 620px) {
+        .stats { grid-template-columns: repeat(2, 1fr); }
+        .card { grid-template-columns: 52px 1fr; gap: 12px; padding: 14px; }
+        header { padding-top: 24px; }
+      }
+      @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div class="brand">
+          <div class="mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 21h18M5 21V8l7-4 7 4v13M9 21v-5h6v5"></path>
+            </svg>
+          </div>
+          <div>
+            <h1>公的機関 案件ボード</h1>
+            <p>中小企業診断士向け 専門家募集の自動収集・適合スコアリング</p>
+          </div>
+        </div>
+        <div class="meta">
+          <span class="eyebrow">最終取得</span>
+          <span class="updated" id="updated">{UPDATED}</span>
+        </div>
+      </header>
+
+      <section class="stats" id="stats" aria-label="サマリー"></section>
+
+      <section class="band" id="band" hidden>
+        <h2>
+          <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg>
+          締切間近（14日以内）
+        </h2>
+        <ul id="bandList"></ul>
+      </section>
+
+      <nav class="controls" aria-label="絞り込み">
+        <div id="cats"></div>
+        <span class="spacer"></span>
+        <div class="sort" role="group" aria-label="並び替え">
+          <button data-sort="score" aria-pressed="true">スコア順</button>
+          <button data-sort="deadline" aria-pressed="false">締切順</button>
+        </div>
+      </nav>
+
+      <main id="list">
+        <noscript>
+          <p class="empty">
+            案件一覧の表示にはJavaScriptが必要です。<br />
+            GitHub上のレポート（data/report.md）はこちら →
+            <a href="https://github.com/gucchi39/shindanshi_shigoto">リポジトリ</a>
+          </p>
+        </noscript>
+      </main>
+
+      <p class="note">
+        実データは GitHub Actions が毎日06:30 JSTに自動巡回して更新します（APIキーの有無に関わらず更新）。
+        このサイトは巡回コミットのたびに自動リビルドされます。
+        スコアは「活動エリア × 専門キーワード（AI/DX/新規事業/生産性向上）× 募集状態」の合成。
+        経験年数要件は<b> 自動除外せず ⚠フラグ表示のみ</b>（応募可否の判断は本人）。
+        元データ: <code>data/postings.json</code>
+      </p>
+    </div>
+
+    <script is:inline define:vars={{ DATA, TODAY_ISO }}>
+      const TODAY = new Date(TODAY_ISO + "T00:00:00Z");
+      const CATS = {
+        national: "国", prefecture: "都県", city: "市区町村",
+        cci: "商工会議所", guarantee: "信用保証協会", incubation: "創業支援", other: "その他",
+      };
+      const days = (d) => Math.round((new Date(d + "T00:00:00Z") - TODAY) / 864e5);
+      function dlInfo(d) {
+        if (!d) return null;
+        const n = days(d);
+        if (n < 0) return { cls: "dl-far", txt: "締切済", n };
+        if (n === 0) return { cls: "dl-today", txt: "本日締切", n };
+        if (n <= 14) return { cls: "dl-soon", txt: "あと" + n + "日", n };
+        return { cls: "dl-far", txt: d.slice(5), n };
+      }
+      const stCls = (s) => ({ "募集中": "st-open", "通年": "st-year", "締切": "st-closed" }[s] || "st-unknown");
+      const tier = (sc) => (sc >= 60 ? "tier-hi" : sc >= 45 ? "tier-mid" : "tier-lo");
+      const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+      let activeCat = "all", activeSort = "score";
+
+      const openCnt = DATA.filter((p) => p.s === "募集中").length;
+      const soonCnt = DATA.filter((p) => { const i = dlInfo(p.d); return i && i.n >= 0 && i.n <= 14; }).length;
+      const hiCnt = DATA.filter((p) => p.sc >= 60).length;
+      document.getElementById("stats").innerHTML = [
+        { num: DATA.length, lbl: "収集案件", cls: "accent" },
+        { num: openCnt, lbl: "募集中", cls: "good" },
+        { num: soonCnt, lbl: "締切14日以内", cls: "urgent" },
+        { num: hiCnt, lbl: "高スコア (60+)", cls: "" },
+      ].map((s) => `<div class="stat ${s.cls}"><div class="num">${s.num}</div><div class="lbl">${s.lbl}</div></div>`).join("");
+
+      const soon = DATA.map((p) => ({ p, i: dlInfo(p.d) }))
+        .filter((x) => x.i && x.i.n >= 0 && x.i.n <= 14)
+        .sort((a, b) => a.i.n - b.i.n);
+      if (soon.length) {
+        document.getElementById("band").hidden = false;
+        document.getElementById("bandList").innerHTML = soon.map(({ p, i }) =>
+          `<li><span class="when">${i.txt}</span><a href="${esc(p.u)}" target="_blank" rel="noopener">${esc(p.t)}</a></li>`
+        ).join("");
+      }
+
+      const counts = {};
+      for (const p of DATA) counts[p.c] = (counts[p.c] || 0) + 1;
+      const catOrder = Object.keys(CATS).filter((k) => counts[k]);
+      const catsEl = document.getElementById("cats");
+      catsEl.innerHTML =
+        `<button class="chip" data-cat="all" aria-pressed="true">すべて<span class="c">${DATA.length}</span></button>` +
+        catOrder.map((k) => `<button class="chip" data-cat="${k}" aria-pressed="false">${CATS[k]}<span class="c">${counts[k]}</span></button>`).join("");
+
+      function render() {
+        let rows = activeCat === "all" ? DATA.slice() : DATA.filter((p) => p.c === activeCat);
+        rows.sort((a, b) => {
+          if (activeSort === "score") return b.sc - a.sc;
+          const ai = dlInfo(a.d), bi = dlInfo(b.d);
+          const av = ai && ai.n >= 0 ? ai.n : 9999, bv = bi && bi.n >= 0 ? bi.n : 9999;
+          return av - bv || b.sc - a.sc;
+        });
+        const list = document.getElementById("list");
+        if (!rows.length) { list.innerHTML = `<p class="empty">該当なし</p>`; return; }
+        list.innerHTML = rows.map((p) => {
+          const i = dlInfo(p.d);
+          const dl = i ? `<span class="pill dl ${i.cls}">${i.txt}</span>` : "";
+          const flag = p.e ? `<div class="flag"><b>⚠ 年数要件</b><span>${esc(p.e)}（未充足でも応募可否は要確認）</span></div>` : "";
+          return `<article class="card ${tier(p.sc)}">
+            <div class="score">
+              <div class="val">${p.sc}</div><div class="cap">score</div>
+              <div class="meter"><i style="width:${p.sc}%"></i></div>
+            </div>
+            <div class="body">
+              <h3><a href="${esc(p.u)}" target="_blank" rel="noopener">${esc(p.t)}</a></h3>
+              <div class="row">
+                <span class="org">${esc(p.o)}</span><span class="dot">·</span>
+                <span>${esc(p.a)}</span>
+                <span class="pill cat">${CATS[p.c] || p.c}</span>
+                <span class="pill ${stCls(p.s)}">${esc(p.s)}</span>
+                ${dl}
+              </div>
+              <p class="reason">${esc(p.r)}</p>
+              ${flag}
+            </div>
+          </article>`;
+        }).join("");
+      }
+
+      catsEl.addEventListener("click", (e) => {
+        const b = e.target.closest("[data-cat]"); if (!b) return;
+        activeCat = b.dataset.cat;
+        catsEl.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String(c === b)));
+        render();
+      });
+      document.querySelector(".sort").addEventListener("click", (e) => {
+        const b = e.target.closest("[data-sort]"); if (!b) return;
+        activeSort = b.dataset.sort;
+        document.querySelectorAll(".sort button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+        render();
+      });
+      render();
+    </script>
+  </body>
+</html>
