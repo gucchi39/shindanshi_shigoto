@@ -1,0 +1,59 @@
+name: deploy-pages
+
+# ダッシュボード（web/）を GitHub Pages にビルド＆デプロイする。
+# - 毎日の crawl ワークフロー完了後（＝data更新後）に自動デプロイ
+# - web/ のデザインを変更して push したときも自動デプロイ
+# - 手動実行も可
+on:
+  workflow_run:
+    workflows: [crawl]
+    types: [completed]
+  push:
+    branches: [claude/public-agency-job-tool-0khl5e]
+    paths:
+      - "web/**"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    # crawl 経由のときは成功時のみ。push / 手動は常に実行。
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Build dashboard
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

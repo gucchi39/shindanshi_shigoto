@@ -93,8 +93,18 @@ Slackの「取得失敗」に出るので、黙って0件になることはあ�
 
 `data/postings.json` を可視化するAstro静的サイト。締切間近バンド・サマリー・カテゴリ絞り込み・スコア/締切ソートつき。
 
+- **公開URL（GitHub Pages）**: https://gucchi39.github.io/shindanshi_shigoto/
 - ローカル確認: `cd web && npm install && npm run build`（`dist/`に出力）
-- **常設URL化**: Cloudflare Pages にリポジトリを繋ぐと、毎日の巡回コミットのたびに自動リビルドされて最新になる。手順は [`web/README.md`](web/README.md) 参照
+
+### 初回セットアップ（一度だけ）
+
+リポジトリの **Settings → Pages → Build and deployment → Source** を **「GitHub Actions」** に設定するだけ。
+以降は `deploy-pages` ワークフローが自動で:
+
+- 毎日の `crawl` 完了後（データ更新後）にダッシュボードを再ビルド＆デプロイ
+- `web/` のデザインを変更してpushしたときも再デプロイ
+
+外部サービス不要・追加Secret不要。詳細は [`web/README.md`](web/README.md)。
 
 ## 既知の制約 / 今後の拡張
 
