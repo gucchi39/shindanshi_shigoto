@@ -12,6 +12,7 @@ on:
     branches: [claude/public-agency-job-tool-0khl5e]
     paths:
       - "web/**"
+      - "data/postings.json"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch: {}
 
