@@ -113,6 +113,15 @@ sources:
     recruit_type: 拠点マネージャー・サブマネージャー公募
     notes: 各県戦略拠点のマネージャー公募が不定期に出る
 
+  - id: smartsme
+    name: 認定情報処理支援機関（スマートSMEサポーター）
+    category: national
+    area: 全国
+    url: https://smartsme.go.jp/
+    priority: high
+    recruit_type: 情報処理支援機関 認定（受付期間制）
+    notes: 中小企業のIT・DX導入支援者の認定制度。AI/DX専門と直球で合致。認定受付期間の告知を監視
+
   - id: monodukuri-hojo
     name: ものづくり補助金 事務局
     category: national
@@ -186,6 +195,46 @@ sources:
     priority: low
     notes: 県都の会議所
 
+  - id: ashikaga-cci
+    name: 足利商工会議所
+    category: cci
+    area: 栃木県足利市
+    url: https://www.ashikaga.info/
+    priority: low
+    notes: 「モノづくり」重点。両毛エリア
+
+  - id: tochigi-cci
+    name: 栃木商工会議所
+    category: cci
+    area: 栃木県栃木市
+    url: https://tochigi-cci.or.jp/
+    priority: low
+    notes: 小山近郊
+
+  - id: sano-cci
+    name: 佐野商工会議所
+    category: cci
+    area: 栃木県佐野市
+    url: https://www.sanocci.or.jp/
+    priority: low
+
+  - id: moka-cci
+    name: 真岡商工会議所
+    category: cci
+    area: 栃木県真岡市
+    url: https://www.moka-cci.or.jp/
+    priority: low
+    notes: 製造業集積地
+
+  - id: tochigi-shoukei
+    name: 栃木県事業承継・引継ぎ支援センター
+    category: prefecture
+    area: 栃木県
+    url: https://tochigi-hikitsugi.go.jp/
+    priority: low
+    recruit_type: 登録専門家（承継支援）
+    notes: 国委託の承継支援窓口。登録専門家・外部専門家の募集が出ることあり
+
   # ============================================================
   # C. 茨城県
   # ============================================================
@@ -228,6 +277,30 @@ sources:
     area: 茨城県水戸市
     url: https://mito.inetcci.or.jp/
     priority: low
+
+  - id: shimodate-cci
+    name: 下館商工会議所（筑西）
+    category: cci
+    area: 茨城県筑西市
+    url: https://www.shimodate-cci.or.jp/
+    priority: low
+    notes: 小山近郊（筑西・下館）
+
+  - id: yuuki-cci
+    name: 結城商工会議所
+    category: cci
+    area: 茨城県結城市
+    url: https://yuuki.inetcci.or.jp/
+    priority: low
+    notes: 小山近郊
+
+  - id: tsuchiura-cci
+    name: 土浦商工会議所
+    category: cci
+    area: 茨城県土浦市
+    url: https://www.tcci.jp/
+    priority: low
+    notes: つくば・県南エリア
 
   # ============================================================
   # D. 埼玉県
@@ -288,6 +361,23 @@ sources:
     url: https://www.kumagayacci.or.jp/
     priority: low
     notes: 近郊アクセス良好エリア
+
+  - id: kawaguchi-cci
+    name: 川口商工会議所
+    category: cci
+    area: 埼玉県川口市
+    url: https://kawaguchicci.or.jp/
+    priority: low
+    recruit_type: 専門家派遣・デジタル支援
+    notes: 専門家派遣/デジタル支援メニューを明示。製造業集積地
+
+  - id: kawagoe-cci
+    name: 川越商工会議所
+    category: cci
+    area: 埼玉県川越市
+    url: https://www.kawagoe.or.jp/
+    priority: low
+    notes: 県内最古の会議所
 
   # ============================================================
   # E. 東京都
@@ -372,6 +462,33 @@ sources:
     area: 東京都板橋区
     url: https://www.itabashi-kigyou.jp/
     priority: low
+
+  - id: shinagawa-mics
+    name: 品川区 中小企業支援サイト（SHIP）
+    category: city
+    area: 東京都品川区
+    url: https://www.mics.city.shinagawa.tokyo.jp/
+    priority: low
+    recruit_type: 相談員・専門家
+    notes: 品川ビジネスクラブ/SHIP運営。新産業・ベンチャー支援
+
+  - id: koto-chusho
+    name: 江東区 中小企業支援
+    category: city
+    area: 東京都江東区
+    url: https://www.city.koto.lg.jp/sangyoshigoto/chusho/index.html
+    priority: low
+    recruit_type: 総合経営相談員（中小企業診断士）
+    notes: 総合経営相談員=診断士。相談員募集が出ることあり
+
+  - id: chiyoda-keiei
+    name: ちよだ中小企業経営支援協会
+    category: other
+    area: 東京都千代田区
+    url: https://chiyoda-consulting.tokyo/
+    priority: low
+    recruit_type: 会員（中小企業診断士）
+    notes: 千代田区・まちみらい千代田・東商と連携する診断士団体。診断士の登録・参画先
 
   - id: tokyo-yorozu
     name: 東京都よろず支援拠点
