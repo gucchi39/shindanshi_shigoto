@@ -35,6 +35,35 @@ const DEFAULT_EXCLUDE = [
   "line.me",
 ];
 
+/**
+ * タイトルがこれらに一致するリンクは除外する。
+ * 診断士が専門家として応募する募集ではない「事業者向けイベント・物品調達・お祭り」等の定型ノイズ。
+ * ※「専門家/アドバイザー/委嘱/サポーター募集」等は一致しないように、必ず"事業者向け"を示す語で限定する。
+ */
+const NOISE_TITLE_PATTERNS: RegExp[] = [
+  /(出展|出店)(企業|者)?募集/,
+  /来場(者)?(事前)?(登録|受付)/,
+  /(参加者|参加企業|参加事業者|受講者|受講生|応募者)を?募集/,
+  /(商談会|展示会|見本市|ミニ展|物産展|即売|マルシェ|物販|フェア|まつり|大商業祭|商業祭|お稚児)/,
+  /商品券/,
+  /簿記/,
+  /(意見招請|仕様書|物品等?の?調達|端末|労働者派遣業務)/,
+  /創業塾/,
+  /セミナー(等|の参加|参加者|受講|一覧|募集情報)/,
+  /講座.{0,12}(開催|受講|参加|募集)/,
+  /参加募集/,
+  /(メルマガ|メールマガジン|配信登録|登録はこちら)/,
+  // スタッフ紹介・コラム系（「専門家募集一覧」は残すため"専門家"は紹介のみ対象）
+  /(コーディネーター|サポーター|相談員|アドバイザー|専門家|コンサルタント)紹介/,
+  /(コーディネーター|サポーター|相談員|アドバイザー)(一覧|ブログ)/,
+];
+
+function isNoiseTitle(title: string, source: SourceConfig): boolean {
+  if (NOISE_TITLE_PATTERNS.some((re) => re.test(title))) return true;
+  if (source.title_exclude?.some((w) => title.includes(w))) return true;
+  return false;
+}
+
 export function hashContent(text: string): string {
   return createHash("sha256").update(text).digest("hex").slice(0, 16);
 }
@@ -87,6 +116,8 @@ export function extractCandidateLinks(html: string, baseUrl: string, source: Sou
     if (!keywords.some((k) => haystack.includes(k))) return;
     // テキストが短すぎるリンク（アイコン等）はPDF以外除外
     if (text.length < 4 && !isPdf) return;
+    // 事業者向けイベント等の定型ノイズを除外（PDFの募集要項は落とさない）
+    if (!isPdf && isNoiseTitle(text, source)) return;
 
     const norm = normalizeUrl(abs);
     if (seen.has(norm) || norm === normalizeUrl(baseUrl)) return;

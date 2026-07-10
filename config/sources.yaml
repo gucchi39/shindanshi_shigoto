@@ -59,7 +59,15 @@ sources:
     url: https://www.jetro.go.jp/procurement/
     priority: low
     recruit_type: 専門家・エキスパート公募
-    notes: 新輸出大国コンソーシアムのエキスパート等。海外展開×DXの案件あり
+    title_exclude:
+      - 調達
+      - 旅行手配
+      - お客様情報
+      - ICT基盤
+      - 会計システム
+      - 保守
+      - 印刷
+    notes: 新輸出大国コンソーシアムのエキスパート等。海外展開×DXの案件あり。物品調達系のノイズが多いので除外
 
   - id: kanto-meti-oi
     name: 関東経済産業局 オープンイノベーション事業
@@ -101,8 +109,12 @@ sources:
     area: 全国
     url: https://it-shien.smrj.go.jp/
     priority: low
+    watch_only: true
     recruit_type: IT導入支援事業者登録
-    notes: 支援側としての登録枠。公募開始時期を監視（AI/DX導入支援と親和性高）
+    notes: >-
+      支援側としての登録枠。AI/DX導入支援と親和性高。
+      補助金運用の更新情報が大量に出るため、個別リンク抽出はせずページ更新のみ通知。
+      「支援事業者 登録申請 受付開始」を見たらクリックして確認する運用
 
   - id: pro-jinzai
     name: プロフェッショナル人材事業（内閣府）
@@ -151,7 +163,10 @@ sources:
     url: https://tochigi-yorozu.go.jp/
     priority: high
     recruit_type: コーディネーター・生産性向上支援サポーター
-    notes: CO募集・サポーター募集を監視
+    title_exclude:
+      - "（サポーター "      # 「…（サポーター 氏名）」のコラム記事
+      - "（コーディネーター "  # 同上
+    notes: CO募集・サポーター募集を監視。支援者本人が書くコラム記事はノイズなので除外
 
   - id: tochigi-shokokai
     name: 栃木県商工会連合会 エキスパートバンク
@@ -414,6 +429,9 @@ sources:
     area: 東京都
     url: https://www.tokyo-cci.or.jp/
     priority: low
+    title_exclude:
+      - YouTuber
+      - 登録はこちら
     notes: 専門家ボランティア・相談員等の募集が不定期
 
   # --- 東京23区の産業振興財団・公社 ---
@@ -496,4 +514,6 @@ sources:
     area: 東京都
     url: https://tokyoyorozu.go.jp/
     recruit_type: コーディネーター募集
+    title_exclude:
+      - "事務所 ]"    # 「コーディネーター 〈氏名〉 [ 〈事務所〉 ]」の紹介ページを除外
     notes: 運営受託は東京都信用金庫協会。CO募集は全国本部の公募一覧にも出る

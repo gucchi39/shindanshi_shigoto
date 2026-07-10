@@ -21,6 +21,8 @@ export interface SourceConfig {
   link_keywords?: string[];
   /** このURLパターンを含むリンクは除外 */
   link_exclude?: string[];
+  /** このキーワードをタイトルに含むリンクは除外（ソース固有ノイズ用） */
+  title_exclude?: string[];
   /** 監視のみ（ページ変化を通知するがリンク抽出はしない） */
   watch_only?: boolean;
   disabled?: boolean;
