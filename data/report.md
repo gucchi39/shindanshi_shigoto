@@ -1,36 +1,7 @@
-# 公的機関 案件レポート (2026-07-11)
+# 公的機関 案件レポート (2026-07-12)
 
 - 収集済み: 74件（うち募集中・通年など 68件）
-- 今回の新着: 24件 / 取得失敗: 8件
-
-## 🆕 新着
-
-| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
-|---|---|---|---|---|---|
-| 75 | [【埼玉県警察】ヤング防犯ボランティア募集中](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e8%ad%a6%e5%af%9f%e3%80%91%e3%83%a4%e3%83%b3%e3%82%b0%e9%98%b2%e7%8a%af%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2%e5%8b%9f%e9%9b%86%e4%b8%ad) | 川越商工会議所 | 埼玉県川越市 | 募集中 |  |
-| 73 | [【埼玉県】「経営サポーター」事業のご案内](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e3%80%91%e3%80%8c%e7%b5%8c%e5%96%b6%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%8d%e4%ba%8b%e6%a5%ad%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
-| 73 | [専門家相談](https://www.kawagoe.or.jp/expert-consultation) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
-| 63 | [ホームステイ受入家庭募集のご案内](https://www.kawagoe.or.jp/xo_event/%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%b9%e3%83%86%e3%82%a4%e5%8f%97%e5%85%a5%e5%ae%b6%e5%ba%ad%e5%8b%9f%e9%9b%86%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85) | 川越商工会議所 | 埼玉県川越市 | 2026-03-31 |  |
-| 63 | [福祉住環境コーディネーター検定試験](https://www.kawagoe.or.jp/test-examination-information/welfare-residusy-coordinator-test-examination) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
-| 63 | [カラーコーディネーター検定試験](https://www.kawagoe.or.jp/test-examination-information/color-coordinator-test) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
-| 55 | [専門家派遣事業](https://yuuki.inetcci.or.jp/support/desk.html) | 結城商工会議所 | 茨城県結城市 | 不明 |  |
-| 55 | [専門家派遣相談](https://www.city.koto.lg.jp/102000/senmonkahaken-soudan.html) | 江東区 中小企業支援 | 東京都江東区 | 不明 |  |
-| 49 | [カラーコーディネーター](https://kentei.tokyo-cci.or.jp/color) | 足利商工会議所 | 栃木県足利市 | 締切 |  |
-| 46 | [専門家派遣](https://www.tcci.jp/cat01/soudan/senmonkahaken) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
-| 45 | [会員事業所検索（新規登録）](https://www.tcci.jp/%e4%bc%9a%e5%93%a1%ef%bd%90%ef%bd%92%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8a%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 土浦商工会議所 | 茨城県土浦市 | 募集中 |  |
-| 39 | [福祉住環境コーディネーター](https://kentei.tokyo-cci.or.jp/fukushi) | 足利商工会議所 | 栃木県足利市 | 2026-07-09 |  |
-| 39 | [栃木市あかちゃんはじめのプレゼント券取扱店の募集](https://tochigi-cci.or.jp/%e6%a0%83%e6%9c%a8%e5%b8%82%e3%81%82%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93%e3%81%af%e3%81%98%e3%82%81%e3%81%ae%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e5%88%b8%e5%8f%96%e6%89%b1%e5%ba%97%e3%81%ae) | 栃木商工会議所 | 栃木県栃木市 | 通年 |  |
-| 39 | [シェアサイクルの広告募集について](https://tochigi-cci.or.jp/%e3%82%b7%e3%82%a7%e3%82%a2%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%81%ae%e5%ba%83%e5%91%8a%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 栃木商工会議所 | 栃木県栃木市 | 通年 |  |
-| 33 | [2026/06/25 【募集終了のお知らせ】動画でPR！「夜の飲食店マップ」掲載店の募集につきまして](https://www.sanocci.or.jp/post-4485) | 佐野商工会議所 | 栃木県佐野市 | 不明 |  |
-| 33 | [真岡木綿新商品アイディア大募集！【真岡市内の中学生対象】](https://www.moka-cci.or.jp/wp-content/uploads/2026/06/ade7d28fd97b298cc2ccf62698973e4b-1.pdf) | 真岡商工会議所 | 栃木県真岡市 | 不明 |  |
-| 33 | [メール配信サービス登録](https://www.tcci.jp/cat07/dm) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
-| 33 | [● 令和８年度海外展開初心者セミナー「海外展開専門家の活動報告から見る“茨城の食品輸出の今”」のご案内](https://www.tcci.jp/archives/10233) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
-| 33 | [登録・解約](https://www.mics.city.shinagawa.tokyo.jp/1569.html) | 品川区 中小企業支援サイト（SHIP） | 東京都品川区 | 不明 |  |
-| 33 | [中小企業団体登録](https://www.city.koto.lg.jp/102020/sangyoshigoto/chusho/jigyo/7630.html) | 江東区 中小企業支援 | 東京都江東区 | 不明 |  |
-| 33 | [産業会館利用に伴う中小企業者登録](https://www.city.koto.lg.jp/102020/sangyoshigoto/chusho/jigyo/93163.html) | 江東区 中小企業支援 | 東京都江東区 | 不明 |  |
-| 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
-| 25 | [栃木県中高年男性に対するこころのケア事業について（協力企業を募集中）](https://tochigi-cci.or.jp/%e6%8a%95%e7%a8%bf%e3%83%86%e3%82%b9%e3%83%883) | 栃木商工会議所 | 栃木県栃木市 | 締切 |  |
+- 今回の新着: 0件 / 取得失敗: 8件
 
 ## 📋 全案件（スコア順・締切済み除く）
 
