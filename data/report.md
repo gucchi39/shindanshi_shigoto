@@ -1,13 +1,16 @@
-# 公的機関 案件レポート (2026-07-13)
+# 公的機関 案件レポート (2026-07-14)
 
-- 収集済み: 74件（うち募集中・通年など 68件）
-- 今回の新着: 1件 / 取得失敗: 16件
+- 収集済み: 77件（うち募集中・通年など 71件）
+- 今回の新着: 4件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 63 | [【視察報告】ドイツ・フランス経済視察団を派遣いたしました](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e8%a6%96%e5%af%9f%e5%a0%b1%e5%91%8a%e3%80%91%e3%83%89%e3%82%a4%e3%83%84%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%b5%8c%e6%b8%88%e8%a6%96%e5%af%9f%e5%9b%a3%e3%82%92%e6%b4%be%e9%81%a3) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
+| 47 | [第６１回スーパーマーケット・トレードショー2027栃木県ブース出展者の募集延長について](https://www.tochigi-iin.or.jp/home/10/4538.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
+| 36 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -24,6 +27,7 @@
 | 63 | [ホームステイ受入家庭募集のご案内](https://www.kawagoe.or.jp/xo_event/%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%b9%e3%83%86%e3%82%a4%e5%8f%97%e5%85%a5%e5%ae%b6%e5%ba%ad%e5%8b%9f%e9%9b%86%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85) | 川越商工会議所 | 埼玉県川越市 | 2026-03-31 |  |
 | 63 | [福祉住環境コーディネーター検定試験](https://www.kawagoe.or.jp/test-examination-information/welfare-residusy-coordinator-test-examination) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 63 | [カラーコーディネーター検定試験](https://www.kawagoe.or.jp/test-examination-information/color-coordinator-test) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
+| 63 | [【視察報告】ドイツ・フランス経済視察団を派遣いたしました](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e8%a6%96%e5%af%9f%e5%a0%b1%e5%91%8a%e3%80%91%e3%83%89%e3%82%a4%e3%83%84%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%b5%8c%e6%b8%88%e8%a6%96%e5%af%9f%e5%9b%a3%e3%82%92%e6%b4%be%e9%81%a3) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 62 | [専門家派遣のご案内](https://www.cgc-tokyo.or.jp/assistinfo/senmonkahaken.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 55 | [中小企業エキスパート派遣事業](https://www.iis-net.or.jp/page?kind=venture_senmonka) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 55 | [専門家派遣事業](https://yuuki.inetcci.or.jp/support/desk.html) | 結城商工会議所 | 茨城県結城市 | 不明 |  |
@@ -33,6 +37,7 @@
 | 49 | [総合相談業務における専門相談員の募集について＜総合相談事業＞](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2606/12_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-07-20 | ⚠6.応募要件（令和8年9月1日時点で以下のすべてを満たす方） (1)税務専門相談員 公認会計士/税理士を取得後5年以上経過し、かつ当該専門分野に関する事業を主とする方。 /  |
 | 47 | [登録専門家データベース](https://www.iis-net.or.jp/page?kind=senmonka_link) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 47 | [2026.07.06 令和８年度 アクセラレーションプログラム募集開始](https://startup-station.jp/info20260706) | TOKYO創業ステーション | 東京都 | 不明 |  |
+| 47 | [第６１回スーパーマーケット・トレードショー2027栃木県ブース出展者の募集延長について](https://www.tochigi-iin.or.jp/home/10/4538.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
 | 46 | [公募情報](https://www.smrj.go.jp/procurement/solicitation/index.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
 | 46 | [経営相談・資金調達](https://www.tokyo-cci.or.jp/soudan) | 東京商工会議所 | 東京都 | 不明 |  |
 | 46 | [専門家派遣](https://www.tcci.jp/cat01/soudan/senmonkahaken) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
@@ -80,6 +85,7 @@
 | 28 | [競争参加資格登録制度（物品製造等）の廃止について](https://www.smrj.go.jp/procurement/bid/qualification/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [岡山県よろず支援拠点 コーディネーターの公募を開始しました。（締切：令和８年９月３０日（水）１７時必着）](https://yorozu-okayama.go.jp/reiwa8-okayama-yorozu-shien-kyoten-coordinator-boshu-yoryo) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 28 | [公募情報](https://www.jetro.go.jp/procurement/publicoffer.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
+| 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 13 | [労働者派遣](https://www.jetro.go.jp/procurement/bidtop/bid/service03) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 
 ## ⚠️ 取得失敗
@@ -89,15 +95,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
-- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
-- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
-- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
-- saitama-cci: fetch failed: https://www.saitamacci.or.jp/ (TypeError: fetch failed)
-- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
-- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 

@@ -178,6 +178,22 @@
     "llm_processed": false
   },
   {
+    "id": "bc362a20dc3e",
+    "title": "【視察報告】ドイツ・フランス経済視察団を派遣いたしました",
+    "org": "川越商工会議所",
+    "source_id": "kawagoe-cci",
+    "category": "cci",
+    "area": "埼玉県川越市",
+    "status": "不明",
+    "url": "https://www.kawagoe.or.jp/xo_event/%e3%80%90%e8%a6%96%e5%af%9f%e5%a0%b1%e5%91%8a%e3%80%91%e3%83%89%e3%82%a4%e3%83%84%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%b5%8c%e6%b8%88%e8%a6%96%e5%af%9f%e5%9b%a3%e3%82%92%e6%b4%be%e9%81%a3",
+    "source_type": "detail",
+    "fetched_at": "2026-07-13T22:29:23.058Z",
+    "first_seen": "2026-07-13T22:29:23.058Z",
+    "match_score": 63,
+    "match_reason": "エリア一致(埼玉県) / 専門一致: デジタル,経営革新,事業承継,創業",
+    "llm_processed": false
+  },
+  {
     "id": "2877da4c0543",
     "title": "専門家派遣のご案内",
     "org": "東京信用保証協会",
@@ -338,6 +354,22 @@
     "first_seen": "2026-07-07T22:38:40.515Z",
     "match_score": 47,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 販路開拓,創業",
+    "llm_processed": false
+  },
+  {
+    "id": "9ab0261825ad",
+    "title": "第６１回スーパーマーケット・トレードショー2027栃木県ブース出展者の募集延長について",
+    "org": "栃木県産業振興センター",
+    "source_id": "tochigi-iin",
+    "category": "prefecture",
+    "area": "栃木県",
+    "status": "不明",
+    "url": "https://www.tochigi-iin.or.jp/home/10/4538.html",
+    "source_type": "detail",
+    "fetched_at": "2026-07-13T22:29:23.058Z",
+    "first_seen": "2026-07-13T22:29:23.058Z",
+    "match_score": 47,
+    "match_reason": "エリア一致(栃木県) / 専門一致: 販路開拓,創業",
     "llm_processed": false
   },
   {
@@ -1182,6 +1214,22 @@
     "first_seen": "2026-07-10T22:32:46.911Z",
     "match_score": 25,
     "match_reason": "エリア一致(栃木県) / 近郊(小山)",
+    "llm_processed": false
+  },
+  {
+    "id": "3e8cd717d0bd",
+    "title": "協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13",
+    "org": "大田区産業振興協会",
+    "source_id": "pio-ota",
+    "category": "city",
+    "area": "東京都大田区",
+    "status": "不明",
+    "url": "https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html",
+    "source_type": "detail",
+    "fetched_at": "2026-07-13T22:29:23.058Z",
+    "first_seen": "2026-07-13T22:29:23.058Z",
+    "match_score": 18,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 減点: 工事",
     "llm_processed": false
   },
   {
