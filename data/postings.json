@@ -1088,6 +1088,38 @@
     "llm_processed": false
   },
   {
+    "id": "72502cb4d7c9",
+    "title": "「知財を企業の強みに！知財で企業の「稼ぐ力」向上プロジェクト」の支援先企業募集（募集：8/7まで）【関東経済産業局】",
+    "org": "宇都宮商工会議所",
+    "source_id": "utsunomiya-cci",
+    "category": "cci",
+    "area": "栃木県宇都宮市",
+    "status": "不明",
+    "url": "https://www.kanto.meti.go.jp/seisaku/chizai/r8fy_kigyo_koubo.html",
+    "source_type": "listing",
+    "fetched_at": "2026-07-15T22:31:22.506Z",
+    "first_seen": "2026-07-15T22:31:22.506Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮)",
+    "llm_processed": false
+  },
+  {
+    "id": "67955feca798",
+    "title": "女性登録料無料キャンペーン（20代～30代）（期間：2027年2/28まで）【とちぎ結婚支援センター】",
+    "org": "宇都宮商工会議所",
+    "source_id": "utsunomiya-cci",
+    "category": "cci",
+    "area": "栃木県宇都宮市",
+    "status": "不明",
+    "url": "https://www.msc-tochigi.jp/archive/?p=5607",
+    "source_type": "detail",
+    "fetched_at": "2026-07-15T22:31:22.506Z",
+    "first_seen": "2026-07-15T22:31:22.506Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
