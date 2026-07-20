@@ -1,17 +1,7 @@
-# 公的機関 案件レポート (2026-07-20)
+# 公的機関 案件レポート (2026-07-21)
 
 - 収集済み: 80件（うち募集中・通年など 74件）
-- 今回の新着: 1件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **本日締切** [総合相談業務における専門相談員の募集について＜総合相談事業＞](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2606/12_01.html)（東京都中小企業振興公社 専門家募集 / 締切 2026-07-20）
-
-## 🆕 新着
-
-| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
-|---|---|---|---|---|---|
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+- 今回の新着: 0件 / 取得失敗: 9件
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -99,6 +89,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- ashikaga-cci: fetch failed: https://www.ashikaga.info/ (Error: HTTP 500)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
