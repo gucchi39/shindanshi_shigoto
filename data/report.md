@@ -1,7 +1,14 @@
-# 公的機関 案件レポート (2026-07-21)
+# 公的機関 案件レポート (2026-07-22)
 
-- 収集済み: 80件（うち募集中・通年など 74件）
-- 今回の新着: 0件 / 取得失敗: 9件
+- 収集済み: 81件（うち募集中・通年など 75件）
+- 今回の新着: 2件 / 取得失敗: 8件
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 33 | [【公募開始】【一般競争入札公告】COMPAMED2026ブース装飾業務の公募について](https://www.sozo-saitama.or.jp/topic/compamed-2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -73,6 +80,7 @@
 | 33 | [産業会館利用に伴う中小企業者登録](https://www.city.koto.lg.jp/102020/sangyoshigoto/chusho/jigyo/93163.html) | 江東区 中小企業支援 | 東京都江東区 | 不明 |  |
 | 33 | [「知財を企業の強みに！知財で企業の「稼ぐ力」向上プロジェクト」の支援先企業募集（募集：8/7まで）【関東経済産業局】](https://www.kanto.meti.go.jp/seisaku/chizai/r8fy_kigyo_koubo.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
 | 33 | [女性登録料無料キャンペーン（20代～30代）（期間：2027年2/28まで）【とちぎ結婚支援センター】](https://www.msc-tochigi.jp/archive/?p=5607) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
+| 33 | [【公募開始】【一般競争入札公告】COMPAMED2026ブース装飾業務の公募について](https://www.sozo-saitama.or.jp/topic/compamed-2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
@@ -89,7 +97,6 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- ashikaga-cci: fetch failed: https://www.ashikaga.info/ (Error: HTTP 500)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)

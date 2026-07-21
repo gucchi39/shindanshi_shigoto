@@ -1137,6 +1137,22 @@
     "llm_processed": false
   },
   {
+    "id": "ad4507cbce89",
+    "title": "【公募開始】【一般競争入札公告】COMPAMED2026ブース装飾業務の公募について",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "不明",
+    "url": "https://www.sozo-saitama.or.jp/topic/compamed-2026",
+    "source_type": "detail",
+    "fetched_at": "2026-07-21T22:27:55.027Z",
+    "first_seen": "2026-07-21T22:27:55.027Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
