@@ -1,5 +1,21 @@
 [
   {
+    "id": "d1a3c252c7f4",
+    "title": "2026/07/24【募集中】若手経営者サポートセミナー2026を開催します!",
+    "org": "台東区産業振興事業団",
+    "source_id": "taito-sangyo",
+    "category": "city",
+    "area": "東京都台東区",
+    "status": "募集中",
+    "url": "https://taito-sangyo.jp/2026/07/24/wakate2026",
+    "source_type": "detail",
+    "fetched_at": "2026-07-24T22:35:39.299Z",
+    "first_seen": "2026-07-24T22:35:39.299Z",
+    "match_score": 85,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 生成AI,AI,中小企業診断士,販路開拓,創業",
+    "llm_processed": false
+  },
+  {
     "id": "6d1953733dfe",
     "title": "【埼玉県警察】ヤング防犯ボランティア募集中",
     "org": "川越商工会議所",
