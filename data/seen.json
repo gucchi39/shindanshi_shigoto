@@ -2,199 +2,199 @@
   "pages": {
     "smrj-procurement": {
       "hash": "99750569ccc1dc63",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "yorozu-honbu": {
       "hash": "65eaed49ccbc128b",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "inpit-chizai": {
-      "hash": "9a1efe5f425a6f95",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "hash": "9b9b31f272bee77c",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "jetro-procurement": {
-      "hash": "1b0639322e419fa4",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "hash": "fff17035a76763a8",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "shoukei-portal": {
       "hash": "e026f73eb5410d54",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "smrj-businest": {
       "hash": "e2b7e66a895fe1d4",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "it-shien": {
       "hash": "9b1440416a6b6f0f",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "pro-jinzai": {
       "hash": "c437e3fc12169f18",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "monodukuri-hojo": {
       "hash": "42efd4c570662f4e",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tochigi-iin": {
       "hash": "019a283ecd2e3371",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tochigi-yorozu": {
       "hash": "f2480ed6d79b23d3",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tochigi-shokokai": {
       "hash": "dc63ddabc98f13ba",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tochigi-cgc": {
       "hash": "894658b47b48c18a",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tochigi-pref-sangyo": {
-      "hash": "37492db68c9e0fd7",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "hash": "8d464f73c9dd2110",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "oyama-cci": {
-      "hash": "3a7fd3a17e5f9284",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "hash": "54b3503dc3e1db7f",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "utsunomiya-cci": {
       "hash": "739275b2fe6105b6",
-      "last_fetched": "2026-07-24T22:35:39.299Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "iis-net": {
       "hash": "2dad34f359a2fb47",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "ib-shokoren": {
       "hash": "c477d91fb6a360b2",
-      "last_fetched": "2026-07-24T22:35:39.299Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "ibaraki-cgc": {
       "hash": "89367a96ae9f3a06",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "koga-cci": {
       "hash": "4ef4c4d0bfc1f7bb",
-      "last_fetched": "2026-07-24T22:35:39.299Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "mito-cci": {
       "hash": "0cd69eecab166b1a",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "saitama-dx": {
       "hash": "75f79f1a3a02751a",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "sozo-saitama": {
       "hash": "e81915aced1969a1",
-      "last_fetched": "2026-07-24T22:35:39.299Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "saitama-cgc": {
       "hash": "7a8db1c3f1415c86",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "saitama-cci": {
       "hash": "1f625cb26765b88f",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "kumagaya-cci": {
       "hash": "3be7d9a5cde9941a",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tokyo-kosha-senmonka": {
       "hash": "3528fe088090f17a",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "startup-station": {
       "hash": "2e050e23f02f0f64",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tokyo-cgc": {
       "hash": "4185e19618253832",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tokyo-cci": {
       "hash": "f375131d0b28bce4",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "taito-sangyo": {
       "hash": "7323e8946bed6d15",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "pio-ota": {
-      "hash": "25076bcb2a966403",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "hash": "7185c585d50d4715",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "minato-sansin": {
-      "hash": "1b387e7d922f2b6c",
-      "last_fetched": "2026-07-24T22:35:39.299Z"
+      "hash": "b31f4f5ed25ac332",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "sumida-bsc": {
       "hash": "99b21bd8ca38821b",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "toshima-biz": {
       "hash": "8d70b7ead8491e9c",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "itabashi-kigyou": {
       "hash": "cd4142de3bb7a684",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tokyo-yorozu": {
-      "hash": "f17c9807b58081f8",
-      "last_fetched": "2026-07-24T22:35:39.299Z"
+      "hash": "c7ad9b3c44d26f81",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "ashikaga-cci": {
-      "hash": "a92e6a10abdbfdb7",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "hash": "81c47abc73e5f560",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tochigi-cci": {
       "hash": "db3203ba494d640a",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "sano-cci": {
       "hash": "93c3a2297523c670",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "moka-cci": {
       "hash": "abf467e56e03ae18",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tochigi-shoukei": {
       "hash": "6cd2435e759b04a5",
-      "last_fetched": "2026-07-24T22:35:39.299Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "shimodate-cci": {
-      "hash": "3a7fd3a17e5f9284",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "hash": "be30f97672a2967f",
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "yuuki-cci": {
       "hash": "355cf767f622f41e",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "tsuchiura-cci": {
       "hash": "84ff0d49ed752263",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "kawaguchi-cci": {
       "hash": "ad20c26200d03fc9",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "kawagoe-cci": {
       "hash": "9eb54ee7cb6c7494",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "shinagawa-mics": {
       "hash": "ef3f5542b165cb70",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     },
     "koto-chusho": {
       "hash": "12d01986dfcfcaa7",
-      "last_fetched": "2026-07-25T22:28:07.729Z"
+      "last_fetched": "2026-07-26T22:31:44.528Z"
     }
   },
   "items": {
