@@ -129,6 +129,23 @@
     "llm_processed": false
   },
   {
+    "id": "f1df4a69cd98",
+    "title": "2026.07.28 【募集中】＜丸の内＞３F Advance Port/８月のイベント",
+    "org": "TOKYO創業ステーション",
+    "source_id": "startup-station",
+    "category": "incubation",
+    "area": "東京都",
+    "deadline": "2026-08-21",
+    "status": "募集中",
+    "url": "https://startup-station.jp/info20260728",
+    "source_type": "detail",
+    "fetched_at": "2026-07-28T22:34:30.859Z",
+    "first_seen": "2026-07-28T22:34:30.859Z",
+    "match_score": 64,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 生産性向上,創業",
+    "llm_processed": false
+  },
+  {
     "id": "41db5072fa04",
     "title": "23支部の相談窓口 23支部の相談窓口では、主に小規模事業者を対象に、マル経融資（小規模事業者経営改善資金）などの資金調達や、専門家（弁護士・税理士など）への相談対応などの経営支援を行っています。 詳しくはこちら",
     "org": "東京商工会議所",
@@ -1182,6 +1199,23 @@
     "first_seen": "2026-07-22T22:34:14.163Z",
     "match_score": 33,
     "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
+    "llm_processed": false
+  },
+  {
+    "id": "1d04db3399bb",
+    "title": "「鎮魂線香花火・平和祈願灯ろう流し」イベント会場 企業PRコーナー出展事業者募集のご案内",
+    "org": "栃木商工会議所",
+    "source_id": "tochigi-cci",
+    "category": "cci",
+    "area": "栃木県栃木市",
+    "deadline": "2026-07-31",
+    "status": "不明",
+    "url": "https://tochigi-cci.or.jp/%e3%80%8c%e9%8e%ae%e9%ad%82%e7%b7%9a%e9%a6%99%e8%8a%b1%e7%81%ab%e3%83%bb%e5%b9%b3%e5%92%8c%e7%a5%88%e9%a1%98%e7%81%af%e3%82%8d%e3%81%86%e6%b5%81%e3%81%97%e3%80%8d%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88-2",
+    "source_type": "detail",
+    "fetched_at": "2026-07-28T22:34:30.859Z",
+    "first_seen": "2026-07-28T22:34:30.859Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(栃木県)",
     "llm_processed": false
   },
   {
