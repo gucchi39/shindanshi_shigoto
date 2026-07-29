@@ -113,6 +113,22 @@
     "llm_processed": false
   },
   {
+    "id": "4469244d4ff4",
+    "title": "2026/07/27【募集中】「人材採用セミナー」を開催します！",
+    "org": "台東区産業振興事業団",
+    "source_id": "taito-sangyo",
+    "category": "city",
+    "area": "東京都台東区",
+    "status": "募集中",
+    "url": "https://taito-sangyo.jp/2026/07/27/zinzaisaiyou",
+    "source_type": "detail",
+    "fetched_at": "2026-07-29T22:29:44.597Z",
+    "first_seen": "2026-07-29T22:29:44.597Z",
+    "match_score": 69,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 中小企業診断士,販路開拓,創業",
+    "llm_processed": false
+  },
+  {
     "id": "9a178bfac275",
     "title": "専門家派遣事業",
     "org": "熊谷商工会議所",
@@ -714,6 +730,22 @@
     "first_seen": "2026-07-10T22:32:46.911Z",
     "match_score": 39,
     "match_reason": "エリア一致(栃木県)",
+    "llm_processed": false
+  },
+  {
+    "id": "35d91ec71260",
+    "title": "2026.07.29 ＜TAMA＞相談員変更のお知らせ ７月、8月、9月",
+    "org": "TOKYO創業ステーション",
+    "source_id": "startup-station",
+    "category": "incubation",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://startup-station.jp/info20260724tama",
+    "source_type": "detail",
+    "fetched_at": "2026-07-29T22:29:44.597Z",
+    "first_seen": "2026-07-29T22:29:44.597Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
     "llm_processed": false
   },
   {
