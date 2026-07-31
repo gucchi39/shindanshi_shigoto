@@ -1,11 +1,7 @@
-# 公的機関 案件レポート (2026-07-31)
+# 公的機関 案件レポート (2026-08-01)
 
 - 収集済み: 87件（うち募集中・通年など 81件）
-- 今回の新着: 2件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **本日締切** [「鎮魂線香花火・平和祈願灯ろう流し」イベント会場 企業PRコーナー出展事業者募集のご案内](https://tochigi-cci.or.jp/%e3%80%8c%e9%8e%ae%e9%ad%82%e7%b7%9a%e9%a6%99%e8%8a%b1%e7%81%ab%e3%83%bb%e5%b9%b3%e5%92%8c%e7%a5%88%e9%a1%98%e7%81%af%e3%82%8d%e3%81%86%e6%b5%81%e3%81%97%e3%80%8d%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88-2)（栃木商工会議所 / 締切 2026-07-31）
+- 今回の新着: 2件 / 取得失敗: 15件
 
 ## 🆕 新着
 
@@ -107,7 +103,14 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
+- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
+- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
+- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
+- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
+- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
