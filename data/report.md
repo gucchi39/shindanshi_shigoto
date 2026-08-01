@@ -1,14 +1,14 @@
-# 公的機関 案件レポート (2026-08-01)
+# 公的機関 案件レポート (2026-08-02)
 
-- 収集済み: 87件（うち募集中・通年など 81件）
-- 今回の新着: 2件 / 取得失敗: 15件
+- 収集済み: 89件（うち募集中・通年など 83件）
+- 今回の新着: 2件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 33 | [「宇都宮市AEDステーション」への登録をお願いします【宇都宮市】](https://www.city.utsunomiya.lg.jp/kenko/iryo/joho/aed/1004604.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
+| 33 | [協力団体 公益財団法人市村清新技術財団 第118回（令和８年度 第２次）新技術開発助成の募集要項等の公開を開始しました。 2026-08-01](https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_tab1_btn_newtech) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -87,6 +87,8 @@
 | 33 | [【公募開始】【一般競争入札公告】COMPAMED2026ブース装飾業務の公募について](https://www.sozo-saitama.or.jp/topic/compamed-2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 | 33 | [【公募開始】【一般競争入札公告】electronica 2026ブース装飾業務の公募について](https://www.sozo-saitama.or.jp/topic/electronica-2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 | 33 | [「鎮魂線香花火・平和祈願灯ろう流し」イベント会場 企業PRコーナー出展事業者募集のご案内](https://tochigi-cci.or.jp/%e3%80%8c%e9%8e%ae%e9%ad%82%e7%b7%9a%e9%a6%99%e8%8a%b1%e7%81%ab%e3%83%bb%e5%b9%b3%e5%92%8c%e7%a5%88%e9%a1%98%e7%81%af%e3%82%8d%e3%81%86%e6%b5%81%e3%81%97%e3%80%8d%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88-2) | 栃木商工会議所 | 栃木県栃木市 | 2026-07-31 |  |
+| 33 | [「宇都宮市AEDステーション」への登録をお願いします【宇都宮市】](https://www.city.utsunomiya.lg.jp/kenko/iryo/joho/aed/1004604.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
+| 33 | [協力団体 公益財団法人市村清新技術財団 第118回（令和８年度 第２次）新技術開発助成の募集要項等の公開を開始しました。 2026-08-01](https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_tab1_btn_newtech) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
@@ -103,14 +105,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
-- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
-- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
-- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
-- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
-- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 

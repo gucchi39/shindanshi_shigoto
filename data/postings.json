@@ -1251,6 +1251,38 @@
     "llm_processed": false
   },
   {
+    "id": "b9f0ce1fc618",
+    "title": "「宇都宮市AEDステーション」への登録をお願いします【宇都宮市】",
+    "org": "宇都宮商工会議所",
+    "source_id": "utsunomiya-cci",
+    "category": "cci",
+    "area": "栃木県宇都宮市",
+    "status": "不明",
+    "url": "https://www.city.utsunomiya.lg.jp/kenko/iryo/joho/aed/1004604.html",
+    "source_type": "detail",
+    "fetched_at": "2026-08-01T22:27:59.903Z",
+    "first_seen": "2026-08-01T22:27:59.903Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮)",
+    "llm_processed": false
+  },
+  {
+    "id": "bf8aadd40957",
+    "title": "協力団体 公益財団法人市村清新技術財団 第118回（令和８年度 第２次）新技術開発助成の募集要項等の公開を開始しました。 2026-08-01",
+    "org": "大田区産業振興協会",
+    "source_id": "pio-ota",
+    "category": "city",
+    "area": "東京都大田区",
+    "status": "不明",
+    "url": "https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_tab1_btn_newtech",
+    "source_type": "detail",
+    "fetched_at": "2026-08-01T22:27:59.903Z",
+    "first_seen": "2026-08-01T22:27:59.903Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(東京都) / 近郊(東京)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
