@@ -1,14 +1,13 @@
-# 公的機関 案件レポート (2026-08-02)
+# 公的機関 案件レポート (2026-08-03)
 
-- 収集済み: 89件（うち募集中・通年など 83件）
-- 今回の新着: 2件 / 取得失敗: 8件
+- 収集済み: 90件（うち募集中・通年など 84件）
+- 今回の新着: 1件 / 取得失敗: 15件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 33 | [「宇都宮市AEDステーション」への登録をお願いします【宇都宮市】](https://www.city.utsunomiya.lg.jp/kenko/iryo/joho/aed/1004604.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
-| 33 | [協力団体 公益財団法人市村清新技術財団 第118回（令和８年度 第２次）新技術開発助成の募集要項等の公開を開始しました。 2026-08-01](https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_tab1_btn_newtech) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
+| 43 | [2026年度調達見通し（131KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20260801.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -47,6 +46,7 @@
 | 45 | [会員事業所検索（新規登録）](https://www.tcci.jp/%e4%bc%9a%e5%93%a1%ef%bd%90%ef%bd%92%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8a%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 土浦商工会議所 | 茨城県土浦市 | 募集中 |  |
 | 44 | [交流会企業支援 2026-07-07 金融環境を味方につけ今こそ資金調達力を強化！ 銀⾏が評価する決算書に変えるポイントとは！？](https://minato-sansin.com/events/yushi_260707) | 港区立産業振興センター | 東京都港区 | 不明 |  |
 | 43 | [【創立80周年記念事業】シンボルマークデザイン募集！](https://www.oyama-cci.or.jp/latest_information/202603048520) | 小山商工会議所 | 栃木県小山市 | 2026-03-31 |  |
+| 43 | [2026年度調達見通し（131KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20260801.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 42 | [2026年06月15日 【Plus/BRAIN】【7/10締切】「スマート農業技術の開発・供給に関する事業」第2回公募開始のお知らせ](https://chizai-portal.inpit.go.jp/news-info/news553.html) | INPIT 知財総合支援窓口 | 全国 | 2026-06-15 |  |
 | 42 | [「高度外国人材スペシャリスト業務」に係る業務委託先の追加公募](https://www.jetro.go.jp/procurement/publicoffer/igb/be8815cf7e22f236.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 42 | [「高度外国人材スペシャリスト業務」に係る業務委託先の公募](https://www.jetro.go.jp/procurement/publicoffer/igb/2d37dfb7b749b024.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
@@ -105,7 +105,14 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
+- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
+- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
+- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
+- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
+- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 

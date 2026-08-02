@@ -552,6 +552,22 @@
     "llm_processed": false
   },
   {
+    "id": "aba247060057",
+    "title": "2026年度調達見通し（131KB）",
+    "org": "JETRO 調達・公募情報",
+    "source_id": "jetro-procurement",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.jetro.go.jp/ext_images/procurement/pdf/20260801.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-08-02T22:28:24.572Z",
+    "first_seen": "2026-08-02T22:28:24.572Z",
+    "match_score": 43,
+    "match_reason": "全国対象 / 専門一致: 生成AI,AI / 減点: 工事",
+    "llm_processed": false
+  },
+  {
     "id": "8991998650a1",
     "title": "2026年06月15日 【Plus/BRAIN】【7/10締切】「スマート農業技術の開発・供給に関する事業」第2回公募開始のお知らせ",
     "org": "INPIT 知財総合支援窓口",
