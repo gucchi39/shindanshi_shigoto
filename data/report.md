@@ -1,13 +1,22 @@
-# 公的機関 案件レポート (2026-08-03)
+# 公的機関 案件レポート (2026-08-04)
 
-- 収集済み: 90件（うち募集中・通年など 84件）
-- 今回の新着: 1件 / 取得失敗: 15件
+- 収集済み: 95件（うち募集中・通年など 89件）
+- 今回の新着: 6件 / 取得失敗: 8件
+
+## ⏰ 締切間近
+
+- **あと3日** [8/7まで！企業の挑戦、募集中！ 投稿日 2026年6月18日](https://www.kumagayacci.or.jp/bizkuma/bizkuma-17094)（熊谷商工会議所 / 締切 2026-08-07）
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 43 | [2026年度調達見通し（131KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20260801.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
+| 43 | [板橋Fine Worker募集開始](https://www.tokyo-cci.or.jp/page.jsp?id=1210039) | 東京商工会議所 | 東京都 | 不明 |  |
+| 43 | [お知らせ 中東情勢等に起因する経営課題に対する緊急対策について 2026-08-03 (公財)大田区産業振興協会では、昨今の中東情勢などに起因する材料の高騰や不足の影響により、経営課題を抱える区内中小企業及び個人事業主を対象に、以下のとおり緊急対策を実施いたします。 ■内容 対象大田区内に事業所を有する中小企業及び個人事業主期間令和９年３月31日（水）まで緊急対策①原価計算に関する専門家の派遣：利益率把握と売価設定に必須である原価計算についてのノウハウを区内企業にお伝えし、経営状況の好転に役立ててもらうための取り組みを実施いたします。知見を有する当協会の相談員が個別に相談対応いたします。②購買ルート複数化・国際化に関する伴走支援：経営の安定化に向けて欠かせない調達戦略を強化するために、知見を有する当協会の職員・相談員が伴走支援を行います。③事業継続性を高める調達戦略に関するセミナー開催：材料の高騰・不足に耐えうる経営強靭化を保つため、サプライチェーン強化をテーマとしたセミナーを開催いたします。【テーマ】「製造業のための調達戦略から考えるBCPセミナー」（仮）【開催予定日】令和８年11月中旬 ※別途確定次第、HPにてご案内いたします。④中東情勢に起因する相談に対するビジネスサポートサービスの上限緩和：通常の利用枠とは別に、現行制度と同一の利用条件でご利用いただけます。詳細はこちらをご確認ください。お問い合わせ先①②③：産業者支援部 取引支援（国内外・人財）係 TEL 03-3733-6126 ④：商いサービス部 PiOフロント係 TEL 03-3733-6144 ……](https://www.pio-ota.jp/news/information/kinkyu_taisaku_2026) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
+| 33 | [令和8年度航空宇宙産業への参入支援事業「参入支援コーディネータ」の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2608/01_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-08-31 |  |
+| 33 | [募集情報 【参加企業募集】ビジネスマッチング in 台湾(9/14～17) 2026-08-03](https://www.pio-ota.jp/wp/wp-content/uploads/2026/08/taiwan.pdf) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
+| 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -47,6 +56,8 @@
 | 44 | [交流会企業支援 2026-07-07 金融環境を味方につけ今こそ資金調達力を強化！ 銀⾏が評価する決算書に変えるポイントとは！？](https://minato-sansin.com/events/yushi_260707) | 港区立産業振興センター | 東京都港区 | 不明 |  |
 | 43 | [【創立80周年記念事業】シンボルマークデザイン募集！](https://www.oyama-cci.or.jp/latest_information/202603048520) | 小山商工会議所 | 栃木県小山市 | 2026-03-31 |  |
 | 43 | [2026年度調達見通し（131KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20260801.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
+| 43 | [板橋Fine Worker募集開始](https://www.tokyo-cci.or.jp/page.jsp?id=1210039) | 東京商工会議所 | 東京都 | 不明 |  |
+| 43 | [お知らせ 中東情勢等に起因する経営課題に対する緊急対策について 2026-08-03 (公財)大田区産業振興協会では、昨今の中東情勢などに起因する材料の高騰や不足の影響により、経営課題を抱える区内中小企業及び個人事業主を対象に、以下のとおり緊急対策を実施いたします。 ■内容 対象大田区内に事業所を有する中小企業及び個人事業主期間令和９年３月31日（水）まで緊急対策①原価計算に関する専門家の派遣：利益率把握と売価設定に必須である原価計算についてのノウハウを区内企業にお伝えし、経営状況の好転に役立ててもらうための取り組みを実施いたします。知見を有する当協会の相談員が個別に相談対応いたします。②購買ルート複数化・国際化に関する伴走支援：経営の安定化に向けて欠かせない調達戦略を強化するために、知見を有する当協会の職員・相談員が伴走支援を行います。③事業継続性を高める調達戦略に関するセミナー開催：材料の高騰・不足に耐えうる経営強靭化を保つため、サプライチェーン強化をテーマとしたセミナーを開催いたします。【テーマ】「製造業のための調達戦略から考えるBCPセミナー」（仮）【開催予定日】令和８年11月中旬 ※別途確定次第、HPにてご案内いたします。④中東情勢に起因する相談に対するビジネスサポートサービスの上限緩和：通常の利用枠とは別に、現行制度と同一の利用条件でご利用いただけます。詳細はこちらをご確認ください。お問い合わせ先①②③：産業者支援部 取引支援（国内外・人財）係 TEL 03-3733-6126 ④：商いサービス部 PiOフロント係 TEL 03-3733-6144 ……](https://www.pio-ota.jp/news/information/kinkyu_taisaku_2026) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 42 | [2026年06月15日 【Plus/BRAIN】【7/10締切】「スマート農業技術の開発・供給に関する事業」第2回公募開始のお知らせ](https://chizai-portal.inpit.go.jp/news-info/news553.html) | INPIT 知財総合支援窓口 | 全国 | 2026-06-15 |  |
 | 42 | [「高度外国人材スペシャリスト業務」に係る業務委託先の追加公募](https://www.jetro.go.jp/procurement/publicoffer/igb/be8815cf7e22f236.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 42 | [「高度外国人材スペシャリスト業務」に係る業務委託先の公募](https://www.jetro.go.jp/procurement/publicoffer/igb/2d37dfb7b749b024.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
@@ -89,12 +100,15 @@
 | 33 | [「鎮魂線香花火・平和祈願灯ろう流し」イベント会場 企業PRコーナー出展事業者募集のご案内](https://tochigi-cci.or.jp/%e3%80%8c%e9%8e%ae%e9%ad%82%e7%b7%9a%e9%a6%99%e8%8a%b1%e7%81%ab%e3%83%bb%e5%b9%b3%e5%92%8c%e7%a5%88%e9%a1%98%e7%81%af%e3%82%8d%e3%81%86%e6%b5%81%e3%81%97%e3%80%8d%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88-2) | 栃木商工会議所 | 栃木県栃木市 | 2026-07-31 |  |
 | 33 | [「宇都宮市AEDステーション」への登録をお願いします【宇都宮市】](https://www.city.utsunomiya.lg.jp/kenko/iryo/joho/aed/1004604.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
 | 33 | [協力団体 公益財団法人市村清新技術財団 第118回（令和８年度 第２次）新技術開発助成の募集要項等の公開を開始しました。 2026-08-01](https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_tab1_btn_newtech) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
+| 33 | [令和8年度航空宇宙産業への参入支援事業「参入支援コーディネータ」の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2608/01_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-08-31 |  |
+| 33 | [募集情報 【参加企業募集】ビジネスマッチング in 台湾(9/14～17) 2026-08-03](https://www.pio-ota.jp/wp/wp-content/uploads/2026/08/taiwan.pdf) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
 | 28 | [競争参加資格登録制度（物品製造等）の廃止について](https://www.smrj.go.jp/procurement/bid/qualification/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [岡山県よろず支援拠点 コーディネーターの公募を開始しました。（締切：令和８年９月３０日（水）１７時必着）](https://yorozu-okayama.go.jp/reiwa8-okayama-yorozu-shien-kyoten-coordinator-boshu-yoryo) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 28 | [公募情報](https://www.jetro.go.jp/procurement/publicoffer.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
+| 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
 | 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 13 | [労働者派遣](https://www.jetro.go.jp/procurement/bidtop/bid/service03) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 
@@ -105,14 +119,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
-- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
-- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
-- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
-- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
-- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
