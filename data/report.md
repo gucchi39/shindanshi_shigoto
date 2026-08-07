@@ -1,20 +1,17 @@
-# 公的機関 案件レポート (2026-08-07)
+# 公的機関 案件レポート (2026-08-08)
 
-- 収集済み: 97件（うち募集中・通年など 91件）
-- 今回の新着: 3件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **本日締切** [8/7まで！企業の挑戦、募集中！ 投稿日 2026年6月18日](https://www.kumagayacci.or.jp/bizkuma/bizkuma-17094)（熊谷商工会議所 / 締切 2026-08-07）
-- **あと14日** [2026.07.28 【募集中】＜丸の内＞３F Advance Port/８月のイベント](https://startup-station.jp/info20260728)（TOKYO創業ステーション / 締切 2026-08-21）
+- 収集済み: 100件（うち募集中・通年など 94件）
+- 今回の新着: 5件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 34 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
-| 33 | [環境学習応援隊を募集しています！【埼玉県環境政策課】 学校等における環境学習の支援のため、出前授業や施設見学の受け入れ先を募集しています。](https://www.pref.saitama.lg.jp/a0501/ouentai.html) | さいたま商工会議所 | 埼玉県さいたま市 | 不明 |  |
-| 33 | [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2608/07_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-09-04 |  |
+| 50 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
+| 34 | [令和8年度 立命館大学BKCインキュベータ「チーフインキュベーションマネージャー」の募集について（創業・スタートアップ支援部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000051eg.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-07 |  |
+| 33 | [● 森林湖沼環境税の今後のあり方に関するご意見の募集（パブリックコメント）について](https://www.tcci.jp/archives/10367) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
+| 33 | [さいたま商工会議所 職員募集のお知らせ（新卒採用） 2026.08.07](https://www.saitamacci.or.jp/news/news-14171) | さいたま商工会議所 | 埼玉県さいたま市 | 不明 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -75,6 +72,7 @@
 | 34 | [令和8年度「中小企業アドバイザー（事業承継・引継ぎ支援）」（地域派遣型）の募集](https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000ftz7.html) | 中小機構 調達・公募情報 | 全国 | 2026-06-24 |  |
 | 34 | [令和8年度「事業承継・引継ぎ支援プロジェクトマネージャー」（地域派遣型）の募集](https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000ftlx.html) | 中小機構 調達・公募情報 | 全国 | 2026-06-24 |  |
 | 34 | [令和8年度 事業再生プロジェクトマネージャーの募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000ezbk.html) | 中小機構 調達・公募情報 | 全国 | 2026-06-24 |  |
+| 34 | [令和8年度 立命館大学BKCインキュベータ「チーフインキュベーションマネージャー」の募集について（創業・スタートアップ支援部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000051eg.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-07 |  |
 | 33 | [募集要項](https://www.cgc-tochigi.or.jp/recruit/recruit-detail) | 栃木県信用保証協会 | 栃木県 | 不明 |  |
 | 33 | [専門家相談](https://www.oyama-cci.or.jp/consultation) | 小山商工会議所 | 栃木県小山市 | 不明 |  |
 | 33 | [募集要項](https://www.ib-shokoren.or.jp/info/blog/archives/category/recruit) | 茨城県商工会連合会 | 茨城県 | 不明 |  |
@@ -102,6 +100,8 @@
 | 33 | [募集情報 【参加企業募集】ビジネスマッチング in 台湾(9/14～17) 2026-08-03](https://www.pio-ota.jp/wp/wp-content/uploads/2026/08/taiwan.pdf) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 33 | [環境学習応援隊を募集しています！【埼玉県環境政策課】 学校等における環境学習の支援のため、出前授業や施設見学の受け入れ先を募集しています。](https://www.pref.saitama.lg.jp/a0501/ouentai.html) | さいたま商工会議所 | 埼玉県さいたま市 | 不明 |  |
 | 33 | [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2608/07_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-09-04 |  |
+| 33 | [● 森林湖沼環境税の今後のあり方に関するご意見の募集（パブリックコメント）について](https://www.tcci.jp/archives/10367) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
+| 33 | [さいたま商工会議所 職員募集のお知らせ（新卒採用） 2026.08.07](https://www.saitamacci.or.jp/news/news-14171) | さいたま商工会議所 | 埼玉県さいたま市 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |

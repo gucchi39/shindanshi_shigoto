@@ -929,6 +929,23 @@
     "llm_processed": false
   },
   {
+    "id": "f42475958dbf",
+    "title": "令和8年度 立命館大学BKCインキュベータ「チーフインキュベーションマネージャー」の募集について（創業・スタートアップ支援部）",
+    "org": "中小機構 調達・公募情報",
+    "source_id": "smrj-procurement",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-08-07",
+    "status": "不明",
+    "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp00000051eg.html",
+    "source_type": "detail",
+    "fetched_at": "2026-08-07T22:06:52.865Z",
+    "first_seen": "2026-08-07T22:06:52.865Z",
+    "match_score": 34,
+    "match_reason": "全国対象 / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
     "id": "164d9e5c8a11",
     "title": "茨城県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（令和８年５月１４日で受付を終了しました。）",
     "org": "よろず支援拠点 全国本部 公募一覧",
@@ -1394,6 +1411,38 @@
     "first_seen": "2026-08-07T01:03:52.783Z",
     "match_score": 33,
     "match_reason": "エリア一致(東京都) / 近郊(東京)",
+    "llm_processed": false
+  },
+  {
+    "id": "53c7e659c4c3",
+    "title": "● 森林湖沼環境税の今後のあり方に関するご意見の募集（パブリックコメント）について",
+    "org": "土浦商工会議所",
+    "source_id": "tsuchiura-cci",
+    "category": "cci",
+    "area": "茨城県土浦市",
+    "status": "不明",
+    "url": "https://www.tcci.jp/archives/10367",
+    "source_type": "detail",
+    "fetched_at": "2026-08-07T22:06:52.865Z",
+    "first_seen": "2026-08-07T22:06:52.865Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(茨城県)",
+    "llm_processed": false
+  },
+  {
+    "id": "69ebc0c21b0d",
+    "title": "さいたま商工会議所 職員募集のお知らせ（新卒採用） 2026.08.07",
+    "org": "さいたま商工会議所",
+    "source_id": "saitama-cci",
+    "category": "cci",
+    "area": "埼玉県さいたま市",
+    "status": "不明",
+    "url": "https://www.saitamacci.or.jp/news/news-14171",
+    "source_type": "detail",
+    "fetched_at": "2026-08-07T22:06:52.865Z",
+    "first_seen": "2026-08-07T22:06:52.865Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
     "llm_processed": false
   },
   {
