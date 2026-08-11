@@ -1,7 +1,7 @@
-# 公的機関 案件レポート (2026-08-11)
+# 公的機関 案件レポート (2026-08-12)
 
 - 収集済み: 100件（うち募集中・通年など 94件）
-- 今回の新着: 1件 / 取得失敗: 8件
+- 今回の新着: 1件 / 取得失敗: 9件
 
 ## 🆕 新着
 
@@ -115,6 +115,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- moka-cci: fetch failed: https://www.moka-cci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
