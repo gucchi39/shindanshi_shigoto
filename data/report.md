@@ -1,12 +1,14 @@
-# 公的機関 案件レポート (2026-08-12)
+# 公的機関 案件レポート (2026-08-13)
 
-- 収集済み: 100件（うち募集中・通年など 94件）
-- 今回の新着: 1件 / 取得失敗: 9件
+- 収集済み: 101件（うち募集中・通年など 95件）
+- 今回の新着: 3件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
+| 50 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
+| 33 | [「第118回（令和8年度第2次）新技術開発助成募集」のご案内（市村清新技術財団）](https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_top_now_newtech) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
@@ -98,6 +100,7 @@
 | 33 | [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2608/07_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-09-04 |  |
 | 33 | [● 森林湖沼環境税の今後のあり方に関するご意見の募集（パブリックコメント）について](https://www.tcci.jp/archives/10367) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
 | 33 | [さいたま商工会議所 職員募集のお知らせ（新卒採用） 2026.08.07](https://www.saitamacci.or.jp/news/news-14171) | さいたま商工会議所 | 埼玉県さいたま市 | 不明 |  |
+| 33 | [「第118回（令和8年度第2次）新技術開発助成募集」のご案内（市村清新技術財団）](https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_top_now_newtech) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
@@ -115,7 +118,6 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- moka-cci: fetch failed: https://www.moka-cci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)

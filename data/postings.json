@@ -1446,6 +1446,22 @@
     "llm_processed": false
   },
   {
+    "id": "2961a32abc88",
+    "title": "「第118回（令和8年度第2次）新技術開発助成募集」のご案内（市村清新技術財団）",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://www.sgkz.or.jp/download/newtech/download.html?sscl=ZD_top_now_newtech",
+    "source_type": "detail",
+    "fetched_at": "2026-08-12T22:11:39.034Z",
+    "first_seen": "2026-08-12T22:11:39.034Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(茨城県)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
