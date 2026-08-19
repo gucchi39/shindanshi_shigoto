@@ -878,6 +878,22 @@
     "llm_processed": false
   },
   {
+    "id": "52cbf9608b18",
+    "title": "「とちぎSDGs推進企業登録制度」SDGs経営セミナーの開催について",
+    "org": "栃木県産業振興センター",
+    "source_id": "tochigi-iin",
+    "category": "prefecture",
+    "area": "栃木県",
+    "status": "不明",
+    "url": "https://www.tochigi-iin.or.jp/home/10/4547.html",
+    "source_type": "detail",
+    "fetched_at": "2026-08-19T21:51:49.563Z",
+    "first_seen": "2026-08-19T21:51:49.563Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(栃木県) / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
     "id": "9dc00f8766db",
     "title": "よろず支援拠点 チーフコーディネーター 佐藤 創 So Sato IT企業のプロジェクトマネージャーが、輝く中小企業の創出を志し、中小企業診断士資格を取得、公的支援者へ転身！",
     "org": "よろず支援拠点 全国本部 公募一覧",
@@ -1588,6 +1604,22 @@
     "first_seen": "2026-08-17T21:51:25.151Z",
     "match_score": 33,
     "match_reason": "エリア一致(栃木県) / 近郊(宇都宮)",
+    "llm_processed": false
+  },
+  {
+    "id": "b54aba9b6793",
+    "title": "「監理団体・登録支援機関向けセミナー『なぜ今インドなのか？』」のご案内（茨城県外国人材支援センター）",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://ifc.ibaraki.jp/post-4284",
+    "source_type": "detail",
+    "fetched_at": "2026-08-19T21:51:49.563Z",
+    "first_seen": "2026-08-19T21:51:49.563Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(茨城県) / 近郊(水戸)",
     "llm_processed": false
   },
   {
