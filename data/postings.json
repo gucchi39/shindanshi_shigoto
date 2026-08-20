@@ -340,6 +340,22 @@
     "llm_processed": false
   },
   {
+    "id": "ff8bd834fdc3",
+    "title": "「群馬県よろず支援拠点」生産性向上支援サポーターの公募を開始しました。（締切： 令和8年9月4日（金） 正午必着）",
+    "org": "よろず支援拠点 全国本部 公募一覧",
+    "source_id": "yorozu-honbu",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.g-inf.or.jp/pdf/202608_08.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-08-20T21:54:53.952Z",
+    "first_seen": "2026-08-20T21:54:53.952Z",
+    "match_score": 53,
+    "match_reason": "全国対象 / 専門一致: デジタル化,生産性向上,省力化,デジタル,製造業 / 減点: 警備",
+    "llm_processed": false
+  },
+  {
     "id": "19cbb59d4720",
     "title": "8/27栃木就活交流会・参加企業更新【就活生募集中】",
     "org": "栃木商工会議所",
@@ -955,6 +971,22 @@
     "first_seen": "2026-07-07T22:38:40.515Z",
     "match_score": 38,
     "match_reason": "全国対象 / 専門一致: デジタル",
+    "llm_processed": false
+  },
+  {
+    "id": "dd6ef29cdaaf",
+    "title": "「群馬県よろず支援拠点」（ワンストップ窓口）コーディネーターの公募を開始しました。（ 締切： 令和8年9月4日（金） 正午必着）",
+    "org": "よろず支援拠点 全国本部 公募一覧",
+    "source_id": "yorozu-honbu",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.g-inf.or.jp/pdf/202608_06.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-08-20T21:54:53.952Z",
+    "first_seen": "2026-08-20T21:54:53.952Z",
+    "match_score": 36,
+    "match_reason": "全国対象 / 専門一致: 販路開拓",
     "llm_processed": false
   },
   {
