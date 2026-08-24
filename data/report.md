@@ -1,7 +1,18 @@
-# 公的機関 案件レポート (2026-08-24)
+# 公的機関 案件レポート (2026-08-25)
 
-- 収集済み: 113件（うち募集中・通年など 107件）
-- 今回の新着: 0件 / 取得失敗: 8件
+- 収集済み: 117件（うち募集中・通年など 111件）
+- 今回の新着: 6件 / 取得失敗: 8件
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 59 | [第103回東京インターナショナル ギフト・ショー春2027「第21回LIFE×DESIGN」共同出展事業者を募集しています](https://www.mics.city.shinagawa.tokyo.jp/shinagawabrand/2682.html) | 品川区 中小企業支援サイト（SHIP） | 東京都品川区 | 2026-08-17 |  |
+| 55 | [【募集中】「撮る力・つくる力を鍛える！Instagram×Canva コンテンツ制作研修」のご案内](https://www.sozo-saitama.or.jp/topic/instagram-canva-training202610) | さいたま市産業創造財団 | 埼玉県さいたま市 | 募集中 |  |
+| 46 | [都立中央図書館・National Search Fund株式会社との共催「事業承継セミナー」の募集を開始しました。](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202610-22.html) | 東京信用保証協会 | 東京都 | 不明 |  |
+| 33 | [【一般競争入札公告】さいたま市産業創造財団勤労者福祉サービスセンター福利厚生一部業務委託の公募について](https://www.sozo-saitama.or.jp/topic/%e4%b8%80%e8%88%ac%e7%ab%b6%e4%ba%89%e5%85%a5%e6%9c%ad%e5%85%ac%e5%91%8a%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e5%b8%82%e7%94%a3%e6%a5%ad%e5%89%b5%e9%80%a0%e8%b2%a1%e5%9b%a3%e5%8b%a4) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -23,9 +34,11 @@
 | 63 | [カラーコーディネーター検定試験](https://www.kawagoe.or.jp/test-examination-information/color-coordinator-test) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 63 | [【視察報告】ドイツ・フランス経済視察団を派遣いたしました](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e8%a6%96%e5%af%9f%e5%a0%b1%e5%91%8a%e3%80%91%e3%83%89%e3%82%a4%e3%83%84%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%b5%8c%e6%b8%88%e8%a6%96%e5%af%9f%e5%9b%a3%e3%82%92%e6%b4%be%e9%81%a3) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 62 | [専門家派遣のご案内](https://www.cgc-tokyo.or.jp/assistinfo/senmonkahaken.html) | 東京信用保証協会 | 東京都 | 不明 |  |
+| 59 | [第103回東京インターナショナル ギフト・ショー春2027「第21回LIFE×DESIGN」共同出展事業者を募集しています](https://www.mics.city.shinagawa.tokyo.jp/shinagawabrand/2682.html) | 品川区 中小企業支援サイト（SHIP） | 東京都品川区 | 2026-08-17 |  |
 | 55 | [中小企業エキスパート派遣事業](https://www.iis-net.or.jp/page?kind=venture_senmonka) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 55 | [専門家派遣事業](https://yuuki.inetcci.or.jp/support/desk.html) | 結城商工会議所 | 茨城県結城市 | 不明 |  |
 | 55 | [専門家派遣相談](https://www.city.koto.lg.jp/102000/senmonkahaken-soudan.html) | 江東区 中小企業支援 | 東京都江東区 | 不明 |  |
+| 55 | [【募集中】「撮る力・つくる力を鍛える！Instagram×Canva コンテンツ制作研修」のご案内](https://www.sozo-saitama.or.jp/topic/instagram-canva-training202610) | さいたま市産業創造財団 | 埼玉県さいたま市 | 募集中 |  |
 | 54 | [過去の公募情報へ](https://www.smrj.go.jp/procurement/solicitation/expiry/index.html) | 中小機構 調達・公募情報 | 全国 | 2026-05-27 |  |
 | 53 | [奈良県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（締切：令和８年７月１７日（金）１７時必着）](https://www.nara-sangyoshinko.or.jp/about/26_05adoption.html) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 53 | [「群馬県よろず支援拠点」生産性向上支援サポーターの公募を開始しました。（締切： 令和8年9月4日（金） 正午必着）](https://www.g-inf.or.jp/pdf/202608_08.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
@@ -40,6 +53,7 @@
 | 46 | [専門家派遣](https://www.tcci.jp/cat01/soudan/senmonkahaken) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
 | 46 | [海外展開セミナーの募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202610-15.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 46 | [高知県よろず支援拠点にてコーディネーターの公募を開始しました。（締切： 令和８年８月２８日 （金）１７時必着）](https://joho-kochi.or.jp/pdf/2026/yorozu.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
+| 46 | [都立中央図書館・National Search Fund株式会社との共催「事業承継セミナー」の募集を開始しました。](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202610-22.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 45 | [【募集中】契約職員（支援担当）の募集について](https://www.sozo-saitama.or.jp/topic/%e3%80%90%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91%e5%a5%91%e7%b4%84%e8%81%b7%e5%93%a1%ef%bc%88%e5%b9%b9%e9%83%a8%e5%80%99%e8%a3%9c%ef%bc%89%e3%81%ae%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | さいたま市産業創造財団 | 埼玉県さいたま市 | 募集中 |  |
 | 45 | [協力団体 東京都立城南職業能力開発センター大田校《キャリアアップ講習・7月募集》について 2026-07-01](https://www.hataraku.metro.tokyo.lg.jp/zaishokusha-kunren/carr_up/index.html) | 大田区産業振興協会 | 東京都大田区 | 募集中 |  |
 | 45 | [会員事業所検索（新規登録）](https://www.tcci.jp/%e4%bc%9a%e5%93%a1%ef%bd%90%ef%bd%92%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8a%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 土浦商工会議所 | 茨城県土浦市 | 募集中 |  |
@@ -105,6 +119,7 @@
 | 33 | [栃木県優良デザイン（Tマーク）選定商品募集について（申込：9/30まで）【栃木県】](https://www.pref.tochigi.lg.jp/f02/design/r8_tmark-bosyu.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
 | 33 | [国家公務員倫理規程セミナーの開催について【人事院 国家公務員倫理審査会事務局】](https://seminar.ejinzai.jp/civil-servant-ethics-regulations_vol1) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
 | 33 | [「監理団体・登録支援機関向けセミナー『なぜ今インドなのか？』」のご案内（茨城県外国人材支援センター）](https://ifc.ibaraki.jp/post-4284) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
+| 33 | [【一般競争入札公告】さいたま市産業創造財団勤労者福祉サービスセンター福利厚生一部業務委託の公募について](https://www.sozo-saitama.or.jp/topic/%e4%b8%80%e8%88%ac%e7%ab%b6%e4%ba%89%e5%85%a5%e6%9c%ad%e5%85%ac%e5%91%8a%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e5%b8%82%e7%94%a3%e6%a5%ad%e5%89%b5%e9%80%a0%e8%b2%a1%e5%9b%a3%e5%8b%a4) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |

@@ -259,6 +259,23 @@
     "llm_processed": false
   },
   {
+    "id": "370a711f36be",
+    "title": "第103回東京インターナショナル ギフト・ショー春2027「第21回LIFE×DESIGN」共同出展事業者を募集しています",
+    "org": "品川区 中小企業支援サイト（SHIP）",
+    "source_id": "shinagawa-mics",
+    "category": "city",
+    "area": "東京都品川区",
+    "deadline": "2026-08-17",
+    "status": "募集中",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/shinagawabrand/2682.html",
+    "source_type": "detail",
+    "fetched_at": "2026-08-24T21:54:37.913Z",
+    "first_seen": "2026-08-24T21:54:37.913Z",
+    "match_score": 59,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: AI",
+    "llm_processed": false
+  },
+  {
     "id": "2f2ec6651578",
     "title": "中小企業エキスパート派遣事業",
     "org": "いばらき中小企業グローバル推進機構",
@@ -304,6 +321,22 @@
     "first_seen": "2026-07-10T22:32:46.911Z",
     "match_score": 55,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 中小企業診断士,事業承継,創業",
+    "llm_processed": false
+  },
+  {
+    "id": "6c02abfd39d0",
+    "title": "【募集中】「撮る力・つくる力を鍛える！Instagram×Canva コンテンツ制作研修」のご案内",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "募集中",
+    "url": "https://www.sozo-saitama.or.jp/topic/instagram-canva-training202610",
+    "source_type": "detail",
+    "fetched_at": "2026-08-24T21:54:37.913Z",
+    "first_seen": "2026-08-24T21:54:37.913Z",
+    "match_score": 55,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま) / 専門一致: 中小企業診断士",
     "llm_processed": false
   },
   {
@@ -549,6 +582,22 @@
     "first_seen": "2026-08-18T21:49:20.261Z",
     "match_score": 46,
     "match_reason": "全国対象 / 専門一致: 中小企業診断士,経営革新",
+    "llm_processed": false
+  },
+  {
+    "id": "5ecc101fbdd2",
+    "title": "都立中央図書館・National Search Fund株式会社との共催「事業承継セミナー」の募集を開始しました。",
+    "org": "東京信用保証協会",
+    "source_id": "tokyo-cgc",
+    "category": "guarantee",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202610-22.html",
+    "source_type": "detail",
+    "fetched_at": "2026-08-24T21:54:37.913Z",
+    "first_seen": "2026-08-24T21:54:37.913Z",
+    "match_score": 46,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 事業承継,創業",
     "llm_processed": false
   },
   {
@@ -1652,6 +1701,22 @@
     "first_seen": "2026-08-19T21:51:49.563Z",
     "match_score": 33,
     "match_reason": "エリア一致(茨城県) / 近郊(水戸)",
+    "llm_processed": false
+  },
+  {
+    "id": "c919b4571eda",
+    "title": "【一般競争入札公告】さいたま市産業創造財団勤労者福祉サービスセンター福利厚生一部業務委託の公募について",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "不明",
+    "url": "https://www.sozo-saitama.or.jp/topic/%e4%b8%80%e8%88%ac%e7%ab%b6%e4%ba%89%e5%85%a5%e6%9c%ad%e5%85%ac%e5%91%8a%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e5%b8%82%e7%94%a3%e6%a5%ad%e5%89%b5%e9%80%a0%e8%b2%a1%e5%9b%a3%e5%8b%a4",
+    "source_type": "detail",
+    "fetched_at": "2026-08-24T21:54:37.913Z",
+    "first_seen": "2026-08-24T21:54:37.913Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
     "llm_processed": false
   },
   {
