@@ -243,6 +243,22 @@
     "llm_processed": false
   },
   {
+    "id": "2da6f573e49a",
+    "title": "2026/07/27【募集終了】観光×産業交流EXPO2026 を開催します！",
+    "org": "台東区産業振興事業団",
+    "source_id": "taito-sangyo",
+    "category": "city",
+    "area": "東京都台東区",
+    "status": "締切",
+    "url": "https://taito-sangyo.jp/2026/07/27/expo2026",
+    "source_type": "detail",
+    "fetched_at": "2026-08-25T21:54:24.110Z",
+    "first_seen": "2026-08-25T21:54:24.110Z",
+    "match_score": 63,
+    "match_reason": "エリア一致(東京都) / 近郊(水戸) / 専門一致: AI,中小企業診断士,販路開拓,創業",
+    "llm_processed": false
+  },
+  {
     "id": "2877da4c0543",
     "title": "専門家派遣のご案内",
     "org": "東京信用保証協会",
