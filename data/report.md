@@ -1,14 +1,16 @@
-# 公的機関 案件レポート (2026-08-26)
+# 公的機関 案件レポート (2026-08-27)
 
-- 収集済み: 118件（うち募集中・通年など 111件）
-- 今回の新着: 2件 / 取得失敗: 8件
+- 収集済み: 121件（うち募集中・通年など 114件）
+- 今回の新着: 4件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 63 | [2026/07/27【募集終了】観光×産業交流EXPO2026 を開催します！](https://taito-sangyo.jp/2026/07/27/expo2026) | 台東区産業振興事業団 | 東京都台東区 | 締切 |  |
+| 46 | [協力団体 令和９年度 東京都トライアル発注認定制度 （新事業分野開拓者認定制度）募集開始しました。 2026-08-26](https://trial.metro.tokyo.lg.jp) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
+| 39 | [2026.08.26 ＜TAMA＞相談員変更のお知らせ 8月、9月、10月](https://startup-station.jp/info20260826tama) | TOKYO創業ステーション | 東京都 | 不明 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 18 | [「令和9・10月度入札参加資格審査申請受付開始」のお知らせ](https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html) | 真岡商工会議所 | 栃木県真岡市 | 2027-04-01 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -50,6 +52,7 @@
 | 46 | [海外展開セミナーの募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202610-15.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 46 | [高知県よろず支援拠点にてコーディネーターの公募を開始しました。（締切： 令和８年８月２８日 （金）１７時必着）](https://joho-kochi.or.jp/pdf/2026/yorozu.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 46 | [都立中央図書館・National Search Fund株式会社との共催「事業承継セミナー」の募集を開始しました。](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202610-22.html) | 東京信用保証協会 | 東京都 | 不明 |  |
+| 46 | [協力団体 令和９年度 東京都トライアル発注認定制度 （新事業分野開拓者認定制度）募集開始しました。 2026-08-26](https://trial.metro.tokyo.lg.jp) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 45 | [【募集中】契約職員（支援担当）の募集について](https://www.sozo-saitama.or.jp/topic/%e3%80%90%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91%e5%a5%91%e7%b4%84%e8%81%b7%e5%93%a1%ef%bc%88%e5%b9%b9%e9%83%a8%e5%80%99%e8%a3%9c%ef%bc%89%e3%81%ae%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | さいたま市産業創造財団 | 埼玉県さいたま市 | 募集中 |  |
 | 45 | [協力団体 東京都立城南職業能力開発センター大田校《キャリアアップ講習・7月募集》について 2026-07-01](https://www.hataraku.metro.tokyo.lg.jp/zaishokusha-kunren/carr_up/index.html) | 大田区産業振興協会 | 東京都大田区 | 募集中 |  |
 | 45 | [会員事業所検索（新規登録）](https://www.tcci.jp/%e4%bc%9a%e5%93%a1%ef%bd%90%ef%bd%92%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8a%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 土浦商工会議所 | 茨城県土浦市 | 募集中 |  |
@@ -71,6 +74,7 @@
 | 39 | [シェアサイクルの広告募集について](https://tochigi-cci.or.jp/%e3%82%b7%e3%82%a7%e3%82%a2%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%81%ae%e5%ba%83%e5%91%8a%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 栃木商工会議所 | 栃木県栃木市 | 通年 |  |
 | 39 | [2026.07.29 ＜TAMA＞相談員変更のお知らせ ７月、8月、9月](https://startup-station.jp/info20260724tama) | TOKYO創業ステーション | 東京都 | 不明 |  |
 | 39 | [「とちぎSDGs推進企業登録制度」SDGs経営セミナーの開催について](https://www.tochigi-iin.or.jp/home/10/4547.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
+| 39 | [2026.08.26 ＜TAMA＞相談員変更のお知らせ 8月、9月、10月](https://startup-station.jp/info20260826tama) | TOKYO創業ステーション | 東京都 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 佐藤 創 So Sato IT企業のプロジェクトマネージャーが、輝く中小企業の創出を志し、中小企業診断士資格を取得、公的支援者へ転身！](https://yorozu.smrj.go.jp/recruit/voice_miyagi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 水岡 希久子 Kikuko Mizuoka フリーランスライター、ダイニングバーのオーナーシェフなど、多様な経験を活かして、最年少でCCOに！](https://yorozu.smrj.go.jp/recruit/voice_yamaguchi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 森友 伸和 Moritomo Nobukazu 自ら起業した特産品ビジネスで、ネット通販１位、多店舗展開を実現した実績を伴い、満を持してよろず支援拠点に！](https://yorozu.smrj.go.jp/recruit/voice_kagoshima) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
@@ -124,6 +128,7 @@
 | 28 | [公募情報](https://www.jetro.go.jp/procurement/publicoffer.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
 | 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
+| 18 | [「令和9・10月度入札参加資格審査申請受付開始」のお知らせ](https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html) | 真岡商工会議所 | 栃木県真岡市 | 2027-04-01 |  |
 | 13 | [労働者派遣](https://www.jetro.go.jp/procurement/bidtop/bid/service03) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 
 ## ⚠️ 取得失敗

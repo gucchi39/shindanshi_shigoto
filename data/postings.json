@@ -617,6 +617,22 @@
     "llm_processed": false
   },
   {
+    "id": "f511638c52f2",
+    "title": "協力団体 令和９年度 東京都トライアル発注認定制度 （新事業分野開拓者認定制度）募集開始しました。 2026-08-26",
+    "org": "大田区産業振興協会",
+    "source_id": "pio-ota",
+    "category": "city",
+    "area": "東京都大田区",
+    "status": "不明",
+    "url": "https://trial.metro.tokyo.lg.jp",
+    "source_type": "detail",
+    "fetched_at": "2026-08-27T00:59:05.035Z",
+    "first_seen": "2026-08-27T00:59:05.035Z",
+    "match_score": 46,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 新事業",
+    "llm_processed": false
+  },
+  {
     "id": "fbf064eb47ef",
     "title": "【募集中】契約職員（支援担当）の募集について",
     "org": "さいたま市産業創造財団",
@@ -972,6 +988,22 @@
     "first_seen": "2026-08-19T21:51:49.563Z",
     "match_score": 39,
     "match_reason": "エリア一致(栃木県) / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
+    "id": "99aaf4c446e6",
+    "title": "2026.08.26 ＜TAMA＞相談員変更のお知らせ 8月、9月、10月",
+    "org": "TOKYO創業ステーション",
+    "source_id": "startup-station",
+    "category": "incubation",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://startup-station.jp/info20260826tama",
+    "source_type": "detail",
+    "fetched_at": "2026-08-27T00:59:05.035Z",
+    "first_seen": "2026-08-27T00:59:05.035Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
     "llm_processed": false
   },
   {
@@ -1895,6 +1927,23 @@
     "first_seen": "2026-07-13T22:29:23.058Z",
     "match_score": 18,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 減点: 工事",
+    "llm_processed": false
+  },
+  {
+    "id": "fc0f08611438",
+    "title": "「令和9・10月度入札参加資格審査申請受付開始」のお知らせ",
+    "org": "真岡商工会議所",
+    "source_id": "moka-cci",
+    "category": "cci",
+    "area": "栃木県真岡市",
+    "deadline": "2027-04-01",
+    "status": "不明",
+    "url": "https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html",
+    "source_type": "detail",
+    "fetched_at": "2026-08-27T00:59:05.035Z",
+    "first_seen": "2026-08-27T00:59:05.035Z",
+    "match_score": 18,
+    "match_reason": "エリア一致(栃木県) / 減点: 清掃",
     "llm_processed": false
   },
   {
