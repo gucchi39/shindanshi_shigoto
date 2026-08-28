@@ -145,6 +145,22 @@
     "llm_processed": false
   },
   {
+    "id": "9c46ed3d3126",
+    "title": "2026/06/29【募集終了】AIと一緒に見つける「自社の魅力発信セミナー」を開催します！",
+    "org": "台東区産業振興事業団",
+    "source_id": "taito-sangyo",
+    "category": "city",
+    "area": "東京都台東区",
+    "status": "締切",
+    "url": "https://taito-sangyo.jp/2026/06/29/ai",
+    "source_type": "detail",
+    "fetched_at": "2026-08-28T05:33:05.426Z",
+    "first_seen": "2026-08-28T05:33:05.426Z",
+    "match_score": 65,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 生成AI,AI,中小企業診断士,販路開拓,創業",
+    "llm_processed": false
+  },
+  {
     "id": "f1df4a69cd98",
     "title": "2026.07.28 【募集中】＜丸の内＞３F Advance Port/８月のイベント",
     "org": "TOKYO創業ステーション",
@@ -678,6 +694,22 @@
     "first_seen": "2026-07-10T22:32:46.911Z",
     "match_score": 45,
     "match_reason": "エリア一致(茨城県)",
+    "llm_processed": false
+  },
+  {
+    "id": "675d6a137dfa",
+    "title": "【募集中】一般競争入札 セミナー動画制作業務の入札情報",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "募集中",
+    "url": "https://www.sozo-saitama.or.jp/topic/%e3%80%90%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91%e4%b8%80%e8%88%ac%e7%ab%b6%e4%ba%89%e5%85%a5%e6%9c%ad%e3%80%80%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc%e5%8b%95%e7%94%bb%e5%88%b6%e4%bd%9c%e6%a5%ad%e5%8b%99",
+    "source_type": "detail",
+    "fetched_at": "2026-08-28T05:33:05.426Z",
+    "first_seen": "2026-08-28T05:33:05.426Z",
+    "match_score": 45,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
     "llm_processed": false
   },
   {
