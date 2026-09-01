@@ -649,6 +649,22 @@
     "llm_processed": false
   },
   {
+    "id": "008e47509b91",
+    "title": "「茨城県よろず支援拠点生産性向上支援センター「生産性向上支援サポーター」募集」のご案内",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://seisansei.yorozu-ibaraki.go.jp/news/ak5trtpq0vmkt9t9jtx82gi2",
+    "source_type": "listing",
+    "fetched_at": "2026-09-01T23:29:11.314Z",
+    "first_seen": "2026-09-01T23:29:11.314Z",
+    "match_score": 46,
+    "match_reason": "エリア一致(茨城県) / 専門一致: 生産性向上",
+    "llm_processed": false
+  },
+  {
     "id": "fbf064eb47ef",
     "title": "【募集中】契約職員（支援担当）の募集について",
     "org": "さいたま市産業創造財団",
@@ -791,6 +807,22 @@
     "first_seen": "2026-08-03T22:34:11.234Z",
     "match_score": 43,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 製造業",
+    "llm_processed": false
+  },
+  {
+    "id": "e3fe91027031",
+    "title": "2026年度調達見通し（128KB）",
+    "org": "JETRO 調達・公募情報",
+    "source_id": "jetro-procurement",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.jetro.go.jp/ext_images/procurement/pdf/20260901.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-09-01T23:29:11.314Z",
+    "first_seen": "2026-09-01T23:29:11.314Z",
+    "match_score": 43,
+    "match_reason": "全国対象 / 専門一致: 生成AI,AI / 減点: 工事",
     "llm_processed": false
   },
   {
@@ -1199,6 +1231,23 @@
     "source_type": "detail",
     "fetched_at": "2026-08-07T22:06:52.865Z",
     "first_seen": "2026-08-07T22:06:52.865Z",
+    "match_score": 34,
+    "match_reason": "全国対象 / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
+    "id": "491d96849679",
+    "title": "令和8年度 福島復興経営相談員 募集",
+    "org": "中小機構 調達・公募情報",
+    "source_id": "smrj-procurement",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-09-01",
+    "status": "不明",
+    "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp0000007rod.html",
+    "source_type": "detail",
+    "fetched_at": "2026-09-01T23:29:11.314Z",
+    "first_seen": "2026-09-01T23:29:11.314Z",
     "match_score": 34,
     "match_reason": "全国対象 / 専門一致: 創業",
     "llm_processed": false
@@ -1797,6 +1846,22 @@
     "first_seen": "2026-08-24T21:54:37.913Z",
     "match_score": 33,
     "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
+    "llm_processed": false
+  },
+  {
+    "id": "3f9a62ca06de",
+    "title": "「茨城県よろず支援拠点コーディネーター（販路系）募集」のご案内",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://www.yorozu-ibaraki.go.jp/news/bvevqo5y7dkfnkfipb3ijh1j",
+    "source_type": "listing",
+    "fetched_at": "2026-09-01T23:29:11.314Z",
+    "first_seen": "2026-09-01T23:29:11.314Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(茨城県)",
     "llm_processed": false
   },
   {
