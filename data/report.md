@@ -1,11 +1,18 @@
-# 公的機関 案件レポート (2026-08-31)
+# 公的機関 案件レポート (2026-09-01)
 
 - 収集済み: 123件（うち募集中・通年など 115件）
-- 今回の新着: 0件 / 取得失敗: 9件
+- 今回の新着: 2件 / 取得失敗: 8件
 
 ## ⏰ 締切間近
 
-- **本日締切** [令和8年度航空宇宙産業への参入支援事業「参入支援コーディネータ」の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2608/01_01.html)（東京都中小企業振興公社 専門家募集 / 締切 2026-08-31）
+- **あと3日** [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2608/07_01.html)（東京都中小企業振興公社 専門家募集 / 締切 2026-09-04）
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -134,7 +141,6 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- moka-cci: fetch failed: https://www.moka-cci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
