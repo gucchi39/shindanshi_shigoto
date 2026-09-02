@@ -16,6 +16,23 @@
     "llm_processed": false
   },
   {
+    "id": "f2bec2b3fc7a",
+    "title": "2026.09.02 【募集中】＜丸の内＞３F Advance Port/９月のイベント",
+    "org": "TOKYO創業ステーション",
+    "source_id": "startup-station",
+    "category": "incubation",
+    "area": "東京都",
+    "deadline": "2026-09-11",
+    "status": "募集中",
+    "url": "https://startup-station.jp/info20260902",
+    "source_type": "detail",
+    "fetched_at": "2026-09-02T23:30:25.914Z",
+    "first_seen": "2026-09-02T23:30:25.914Z",
+    "match_score": 82,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 生成AI,AI,創業",
+    "llm_processed": false
+  },
+  {
     "id": "6d1953733dfe",
     "title": "【埼玉県警察】ヤング防犯ボランティア募集中",
     "org": "川越商工会議所",
@@ -823,6 +840,23 @@
     "first_seen": "2026-09-01T23:29:11.314Z",
     "match_score": 43,
     "match_reason": "全国対象 / 専門一致: 生成AI,AI / 減点: 工事",
+    "llm_processed": false
+  },
+  {
+    "id": "ee782da30ed0",
+    "title": "「『第41回ネプコンジャパン（東京展）』茨城県ブース共同出展企業募集」のご案内",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "deadline": "2026-09-30",
+    "status": "不明",
+    "url": "https://www.htc.co.jp/document/41nepucon.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-09-02T23:30:25.914Z",
+    "first_seen": "2026-09-02T23:30:25.914Z",
+    "match_score": 43,
+    "match_reason": "エリア一致(茨城県) / 近郊(東京) / 専門一致: 製造業",
     "llm_processed": false
   },
   {
