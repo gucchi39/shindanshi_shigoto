@@ -1899,6 +1899,23 @@
     "llm_processed": false
   },
   {
+    "id": "0150da219a8b",
+    "title": "LINE新規登録キャンペーン開催中（応募：9/30まで）",
+    "org": "宇都宮商工会議所",
+    "source_id": "utsunomiya-cci",
+    "category": "cci",
+    "area": "栃木県宇都宮市",
+    "deadline": "2026-09-03",
+    "status": "不明",
+    "url": "https://www.u-cci.or.jp/2026linecamp",
+    "source_type": "detail",
+    "fetched_at": "2026-09-03T23:27:19.889Z",
+    "first_seen": "2026-09-03T23:27:19.889Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
