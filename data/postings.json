@@ -389,6 +389,22 @@
     "llm_processed": false
   },
   {
+    "id": "cc38a794cb32",
+    "title": "「令和８年度いばらきチャレンジ基金事業（第２次公募）」公募開始のお知らせ",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://www.iis-net.or.jp/page?kind=challenge_kikin_bosyu",
+    "source_type": "detail",
+    "fetched_at": "2026-09-04T23:12:16.474Z",
+    "first_seen": "2026-09-04T23:12:16.474Z",
+    "match_score": 55,
+    "match_reason": "エリア一致(茨城県) / 専門一致: 販路開拓,経営革新,創業",
+    "llm_processed": false
+  },
+  {
     "id": "47e62d0696e8",
     "title": "過去の公募情報へ",
     "org": "中小機構 調達・公募情報",
@@ -1913,6 +1929,22 @@
     "first_seen": "2026-09-03T23:27:19.889Z",
     "match_score": 33,
     "match_reason": "エリア一致(栃木県) / 近郊(宇都宮)",
+    "llm_processed": false
+  },
+  {
+    "id": "d569f6a03d42",
+    "title": "2026/09/04 まちの学校69 秋期生募集！ 当所窓口で10/3(土)午前10時～受付開始",
+    "org": "佐野商工会議所",
+    "source_id": "sano-cci",
+    "category": "cci",
+    "area": "栃木県佐野市",
+    "status": "不明",
+    "url": "https://www.sanocci.or.jp/post-4687",
+    "source_type": "pdf",
+    "fetched_at": "2026-09-04T23:12:16.474Z",
+    "first_seen": "2026-09-04T23:12:16.474Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(栃木県)",
     "llm_processed": false
   },
   {
