@@ -1,16 +1,7 @@
-# 公的機関 案件レポート (2026-09-05)
+# 公的機関 案件レポート (2026-09-06)
 
 - 収集済み: 132件（うち募集中・通年など 124件）
-- 今回の新着: 4件 / 取得失敗: 8件
-
-## 🆕 新着
-
-| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
-|---|---|---|---|---|---|
-| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
-| 55 | [「令和８年度いばらきチャレンジ基金事業（第２次公募）」公募開始のお知らせ](https://www.iis-net.or.jp/page?kind=challenge_kikin_bosyu) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
-| 33 | [2026/09/04 まちの学校69 秋期生募集！ 当所窓口で10/3(土)午前10時～受付開始](https://www.sanocci.or.jp/post-4687) | 佐野商工会議所 | 栃木県佐野市 | 不明 |  |
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+- 今回の新着: 0件 / 取得失敗: 15件
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -148,7 +139,14 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
+- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
+- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
+- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
+- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
+- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
