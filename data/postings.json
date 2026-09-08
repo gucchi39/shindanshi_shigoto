@@ -1964,6 +1964,23 @@
     "llm_processed": false
   },
   {
+    "id": "6d2e5ecdff82",
+    "title": "結城第一工業団地繁昌塚南地区画地追加募集について",
+    "org": "結城商工会議所",
+    "source_id": "yuuki-cci",
+    "category": "cci",
+    "area": "茨城県結城市",
+    "deadline": "2026-09-01",
+    "status": "締切",
+    "url": "https://www.city.yuki.lg.jp/sangyou-machizukuri/shougyou-kougyou/page009620.html",
+    "source_type": "detail",
+    "fetched_at": "2026-09-08T23:34:10.558Z",
+    "first_seen": "2026-09-08T23:34:10.558Z",
+    "match_score": 31,
+    "match_reason": "エリア一致(茨城県) / 近郊(結城) / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
     "id": "a61d5773c8ff",
     "title": "調達・公募情報",
     "org": "中小機構 調達・公募情報",
