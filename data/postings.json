@@ -537,6 +537,23 @@
     "llm_processed": false
   },
   {
+    "id": "c9e96cde1da3",
+    "title": "課題解決型技術開発促進事業（試作品開発・改良助成）に係る「コーディネータ」募集について",
+    "org": "東京都中小企業振興公社 専門家募集",
+    "source_id": "tokyo-kosha-senmonka",
+    "category": "prefecture",
+    "area": "東京都",
+    "deadline": "2026-12-01",
+    "status": "不明",
+    "url": "https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2609/11_01.html",
+    "source_type": "detail",
+    "fetched_at": "2026-09-11T23:29:31.798Z",
+    "first_seen": "2026-09-11T23:29:31.798Z",
+    "match_score": 49,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: DX",
+    "llm_processed": false
+  },
+  {
     "id": "91fa50615b27",
     "title": "登録専門家データベース",
     "org": "いばらき中小企業グローバル推進機構",
@@ -1019,6 +1036,23 @@
     "source_type": "detail",
     "fetched_at": "2026-07-09T22:50:58.130Z",
     "first_seen": "2026-07-09T22:50:58.130Z",
+    "match_score": 40,
+    "match_reason": "全国対象",
+    "llm_processed": false
+  },
+  {
+    "id": "8c80e8eae3f5",
+    "title": "2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！",
+    "org": "INPIT 知財総合支援窓口",
+    "source_id": "inpit-chizai",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-09-15",
+    "status": "募集中",
+    "url": "https://chizai-portal.inpit.go.jp/news-info/news567.html",
+    "source_type": "detail",
+    "fetched_at": "2026-09-11T23:29:31.798Z",
+    "first_seen": "2026-09-11T23:29:31.798Z",
     "match_score": 40,
     "match_reason": "全国対象",
     "llm_processed": false
