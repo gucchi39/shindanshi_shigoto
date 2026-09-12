@@ -1,19 +1,13 @@
-# 公的機関 案件レポート (2026-09-12)
+# 公的機関 案件レポート (2026-09-13)
 
 - 収集済み: 136件（うち募集中・通年など 127件）
-- 今回の新着: 3件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **あと3日** [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html)（INPIT 知財総合支援窓口 / 締切 2026-09-15）
+- 今回の新着: 1件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 49 | [課題解決型技術開発促進事業（試作品開発・改良助成）に係る「コーディネータ」募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2609/11_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-12-01 |  |
-| 40 | [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html) | INPIT 知財総合支援窓口 | 全国 | 2026-09-15 |  |
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
