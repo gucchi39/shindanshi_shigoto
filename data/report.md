@@ -1,13 +1,22 @@
-# 公的機関 案件レポート (2026-09-14)
+# 公的機関 案件レポート (2026-09-15)
 
-- 収集済み: 136件（うち募集中・通年など 127件）
-- 今回の新着: 1件 / 取得失敗: 8件
+- 収集済み: 141件（うち募集中・通年など 131件）
+- 今回の新着: 6件 / 取得失敗: 8件
+
+## ⏰ 締切間近
+
+- **本日締切** [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html)（INPIT 知財総合支援窓口 / 締切 2026-09-15）
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
+| 60 | [新潟県よろず支援拠点 生産性向上支援サポータの公募を開始いたしました。（令和８年９月１６日（水）１７時必着）](https://www.nico.or.jp/kyujin/88635) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-09-16 |  |
+| 47 | [2026.09.14 鳩ヶ谷支部 御成道追い風不動地蔵院トワイライトキャンドルズ2026の出店事業所募集](https://kawaguchicci.or.jp/news/hatogaya_branch/%e5%be%a1%e6%88%90%e9%81%93%e8%bf%bd%e3%81%84%e9%a2%a8%e4%b8%8d%e5%8b%95%e5%9c%b0%e8%94%b5%e9%99%a2%e3%83%88%e3%83%af%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%83%ab.html) | 川口商工会議所 | 埼玉県川口市 | 2025-11-16 |  |
+| 33 | [「ＳＡＴテクノロジー・ショーケース ２０２７ ポスター発表募集」のご案内（つくばサイエンス・アカデミー）](https://www.science-academy.jp/showcase2027.shtml) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
+| 33 | [「第127回日本外科学会定期学術集会」の共同出展企業を募集します。](https://www.sozo-saitama.or.jp/topic/jss127) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2027-09-15 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 18 | [さいたま医療ものづくり都市構想「試作開発ラボ（JR北与野駅徒歩1分）」利用者の募集](https://www.sozo-saitama.or.jp/topic/medical_labo2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -47,6 +56,7 @@
 | 47 | [登録専門家データベース](https://www.iis-net.or.jp/page?kind=senmonka_link) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 47 | [2026.07.06 令和８年度 アクセラレーションプログラム募集開始](https://startup-station.jp/info20260706) | TOKYO創業ステーション | 東京都 | 不明 |  |
 | 47 | [第６１回スーパーマーケット・トレードショー2027栃木県ブース出展者の募集延長について](https://www.tochigi-iin.or.jp/home/10/4538.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
+| 47 | [2026.09.14 鳩ヶ谷支部 御成道追い風不動地蔵院トワイライトキャンドルズ2026の出店事業所募集](https://kawaguchicci.or.jp/news/hatogaya_branch/%e5%be%a1%e6%88%90%e9%81%93%e8%bf%bd%e3%81%84%e9%a2%a8%e4%b8%8d%e5%8b%95%e5%9c%b0%e8%94%b5%e9%99%a2%e3%83%88%e3%83%af%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%83%ab.html) | 川口商工会議所 | 埼玉県川口市 | 2025-11-16 |  |
 | 46 | [公募情報](https://www.smrj.go.jp/procurement/solicitation/index.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
 | 46 | [経営相談・資金調達](https://www.tokyo-cci.or.jp/soudan) | 東京商工会議所 | 東京都 | 不明 |  |
 | 46 | [専門家派遣](https://www.tcci.jp/cat01/soudan/senmonkahaken) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
@@ -130,6 +140,8 @@
 | 33 | [「茨城県よろず支援拠点コーディネーター（販路系）募集」のご案内](https://www.yorozu-ibaraki.go.jp/news/bvevqo5y7dkfnkfipb3ijh1j) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 33 | [LINE新規登録キャンペーン開催中（応募：9/30まで）](https://www.u-cci.or.jp/2026linecamp) | 宇都宮商工会議所 | 栃木県宇都宮市 | 2026-09-03 |  |
 | 33 | [2026/09/04 まちの学校69 秋期生募集！ 当所窓口で10/3(土)午前10時～受付開始](https://www.sanocci.or.jp/post-4687) | 佐野商工会議所 | 栃木県佐野市 | 不明 |  |
+| 33 | [「ＳＡＴテクノロジー・ショーケース ２０２７ ポスター発表募集」のご案内（つくばサイエンス・アカデミー）](https://www.science-academy.jp/showcase2027.shtml) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
+| 33 | [「第127回日本外科学会定期学術集会」の共同出展企業を募集します。](https://www.sozo-saitama.or.jp/topic/jss127) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2027-09-15 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
@@ -139,6 +151,7 @@
 | 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
 | 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 18 | [「令和9・10月度入札参加資格審査申請受付開始」のお知らせ](https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html) | 真岡商工会議所 | 栃木県真岡市 | 2027-04-01 |  |
+| 18 | [さいたま医療ものづくり都市構想「試作開発ラボ（JR北与野駅徒歩1分）」利用者の募集](https://www.sozo-saitama.or.jp/topic/medical_labo2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 | 13 | [労働者派遣](https://www.jetro.go.jp/procurement/bidtop/bid/service03) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 
 ## ⚠️ 取得失敗

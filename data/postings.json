@@ -324,6 +324,23 @@
     "llm_processed": false
   },
   {
+    "id": "a9a8f9a458d9",
+    "title": "新潟県よろず支援拠点 生産性向上支援サポータの公募を開始いたしました。（令和８年９月１６日（水）１７時必着）",
+    "org": "よろず支援拠点 全国本部 公募一覧",
+    "source_id": "yorozu-honbu",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-09-16",
+    "status": "締切",
+    "url": "https://www.nico.or.jp/kyujin/88635",
+    "source_type": "detail",
+    "fetched_at": "2026-09-14T23:57:28.743Z",
+    "first_seen": "2026-09-14T23:57:28.743Z",
+    "match_score": 60,
+    "match_reason": "全国対象 / 専門一致: DX,生産性向上,省力化",
+    "llm_processed": false
+  },
+  {
     "id": "370a711f36be",
     "title": "第103回東京インターナショナル ギフト・ショー春2027「第21回LIFE×DESIGN」共同出展事業者を募集しています",
     "org": "品川区 中小企業支援サイト（SHIP）",
@@ -599,6 +616,23 @@
     "first_seen": "2026-07-13T22:29:23.058Z",
     "match_score": 47,
     "match_reason": "エリア一致(栃木県) / 専門一致: 販路開拓,創業",
+    "llm_processed": false
+  },
+  {
+    "id": "fab286acdefb",
+    "title": "2026.09.14 鳩ヶ谷支部 御成道追い風不動地蔵院トワイライトキャンドルズ2026の出店事業所募集",
+    "org": "川口商工会議所",
+    "source_id": "kawaguchi-cci",
+    "category": "cci",
+    "area": "埼玉県川口市",
+    "deadline": "2025-11-16",
+    "status": "不明",
+    "url": "https://kawaguchicci.or.jp/news/hatogaya_branch/%e5%be%a1%e6%88%90%e9%81%93%e8%bf%bd%e3%81%84%e9%a2%a8%e4%b8%8d%e5%8b%95%e5%9c%b0%e8%94%b5%e9%99%a2%e3%83%88%e3%83%af%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%83%ab.html",
+    "source_type": "detail",
+    "fetched_at": "2026-09-14T23:57:28.743Z",
+    "first_seen": "2026-09-14T23:57:28.743Z",
+    "match_score": 47,
+    "match_reason": "エリア一致(埼玉県) / 専門一致: 販路開拓,創業",
     "llm_processed": false
   },
   {
@@ -1998,6 +2032,39 @@
     "llm_processed": false
   },
   {
+    "id": "19a394781bb8",
+    "title": "「ＳＡＴテクノロジー・ショーケース ２０２７ ポスター発表募集」のご案内（つくばサイエンス・アカデミー）",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://www.science-academy.jp/showcase2027.shtml",
+    "source_type": "detail",
+    "fetched_at": "2026-09-14T23:57:28.743Z",
+    "first_seen": "2026-09-14T23:57:28.743Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(茨城県)",
+    "llm_processed": false
+  },
+  {
+    "id": "d6a884834f4e",
+    "title": "「第127回日本外科学会定期学術集会」の共同出展企業を募集します。",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "deadline": "2027-09-15",
+    "status": "不明",
+    "url": "https://www.sozo-saitama.or.jp/topic/jss127",
+    "source_type": "detail",
+    "fetched_at": "2026-09-14T23:57:28.743Z",
+    "first_seen": "2026-09-14T23:57:28.743Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
@@ -2191,6 +2258,22 @@
     "first_seen": "2026-08-27T00:59:05.035Z",
     "match_score": 18,
     "match_reason": "エリア一致(栃木県) / 減点: 清掃",
+    "llm_processed": false
+  },
+  {
+    "id": "e58f2e5fc25e",
+    "title": "さいたま医療ものづくり都市構想「試作開発ラボ（JR北与野駅徒歩1分）」利用者の募集",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "不明",
+    "url": "https://www.sozo-saitama.or.jp/topic/medical_labo2026",
+    "source_type": "detail",
+    "fetched_at": "2026-09-14T23:57:28.743Z",
+    "first_seen": "2026-09-14T23:57:28.743Z",
+    "match_score": 18,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま) / 減点: 警備",
     "llm_processed": false
   },
   {
