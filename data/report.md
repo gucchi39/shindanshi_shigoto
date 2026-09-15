@@ -1,22 +1,23 @@
-# 公的機関 案件レポート (2026-09-15)
+# 公的機関 案件レポート (2026-09-16)
 
-- 収集済み: 141件（うち募集中・通年など 131件）
+- 収集済み: 144件（うち募集中・通年など 134件）
 - 今回の新着: 6件 / 取得失敗: 8件
 
 ## ⏰ 締切間近
 
-- **本日締切** [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html)（INPIT 知財総合支援窓口 / 締切 2026-09-15）
+- **あと14日** [「『第41回ネプコンジャパン（東京展）』茨城県ブース共同出展企業募集」のご案内](https://www.htc.co.jp/document/41nepucon.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
+- **あと14日** [「海外展開初心者セミナー『海外展開専門家の活動報告から見る“茨城の食品輸出の今”』オンデマンド配信」のご案内](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/20260619ondemand.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 60 | [新潟県よろず支援拠点 生産性向上支援サポータの公募を開始いたしました。（令和８年９月１６日（水）１７時必着）](https://www.nico.or.jp/kyujin/88635) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-09-16 |  |
-| 47 | [2026.09.14 鳩ヶ谷支部 御成道追い風不動地蔵院トワイライトキャンドルズ2026の出店事業所募集](https://kawaguchicci.or.jp/news/hatogaya_branch/%e5%be%a1%e6%88%90%e9%81%93%e8%bf%bd%e3%81%84%e9%a2%a8%e4%b8%8d%e5%8b%95%e5%9c%b0%e8%94%b5%e9%99%a2%e3%83%88%e3%83%af%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%83%ab.html) | 川口商工会議所 | 埼玉県川口市 | 2025-11-16 |  |
-| 33 | [「ＳＡＴテクノロジー・ショーケース ２０２７ ポスター発表募集」のご案内（つくばサイエンス・アカデミー）](https://www.science-academy.jp/showcase2027.shtml) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
-| 33 | [「第127回日本外科学会定期学術集会」の共同出展企業を募集します。](https://www.sozo-saitama.or.jp/topic/jss127) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2027-09-15 |  |
+| 69 | [2026/09/09【募集中】契約セミナーを開催します！](https://taito-sangyo.jp/2026/09/09/keiyaku_seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 50 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
+| 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000009cwb.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-15 |  |
+| 33 | [「逆転商談EXPO」売り手企業プレエントリーを募集しています【都賀町商工会】](https://www.u-cci.or.jp/wp/wp-content/uploads/2026/09/%E9%80%86%E8%BB%A2%E5%95%86%E8%AB%87EXPO-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E5%90%91%E3%81%91%E3%83%81%E3%83%A9%E3%82%B7ver2.0.pdf) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
-| 18 | [さいたま医療ものづくり都市構想「試作開発ラボ（JR北与野駅徒歩1分）」利用者の募集](https://www.sozo-saitama.or.jp/topic/medical_labo2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -32,6 +33,7 @@
 | 70 | [8/7まで！企業の挑戦、募集中！ 投稿日 2026年6月18日](https://www.kumagayacci.or.jp/bizkuma/bizkuma-17094) | 熊谷商工会議所 | 埼玉県熊谷市 | 2026-08-07 |  |
 | 69 | [2026/07/27【募集中】「人材採用セミナー」を開催します！](https://taito-sangyo.jp/2026/07/27/zinzaisaiyou) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 69 | [2026/08/05【募集中】財務セミナー「会社のお金の全体像」 を開催します！](https://taito-sangyo.jp/2026/08/05/zaimu-seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
+| 69 | [2026/09/09【募集中】契約セミナーを開催します！](https://taito-sangyo.jp/2026/09/09/keiyaku_seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 66 | [専門家派遣事業](https://www.kumagayacci.or.jp/management_support/seminar-information) | 熊谷商工会議所 | 埼玉県熊谷市 | 募集中 |  |
 | 64 | [2026.07.28 【募集中】＜丸の内＞３F Advance Port/８月のイベント](https://startup-station.jp/info20260728) | TOKYO創業ステーション | 東京都 | 2026-08-21 |  |
 | 63 | [23支部の相談窓口 23支部の相談窓口では、主に小規模事業者を対象に、マル経融資（小規模事業者経営改善資金）などの資金調達や、専門家（弁護士・税理士など）への相談対応などの経営支援を行っています。 詳しくはこちら](https://www.tokyo-cci.or.jp/soudan/branch) | 東京商工会議所 | 東京都 | 不明 |  |
@@ -102,6 +104,7 @@
 | 34 | [令和8年度 事業再生プロジェクトマネージャーの募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/hkj3i8000000ezbk.html) | 中小機構 調達・公募情報 | 全国 | 2026-06-24 |  |
 | 34 | [令和8年度 立命館大学BKCインキュベータ「チーフインキュベーションマネージャー」の募集について（創業・スタートアップ支援部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000051eg.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-07 |  |
 | 34 | [令和8年度 福島復興経営相談員 募集](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000007rod.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-01 |  |
+| 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000009cwb.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-15 |  |
 | 33 | [募集要項](https://www.cgc-tochigi.or.jp/recruit/recruit-detail) | 栃木県信用保証協会 | 栃木県 | 不明 |  |
 | 33 | [専門家相談](https://www.oyama-cci.or.jp/consultation) | 小山商工会議所 | 栃木県小山市 | 不明 |  |
 | 33 | [募集要項](https://www.ib-shokoren.or.jp/info/blog/archives/category/recruit) | 茨城県商工会連合会 | 茨城県 | 不明 |  |
@@ -142,6 +145,7 @@
 | 33 | [2026/09/04 まちの学校69 秋期生募集！ 当所窓口で10/3(土)午前10時～受付開始](https://www.sanocci.or.jp/post-4687) | 佐野商工会議所 | 栃木県佐野市 | 不明 |  |
 | 33 | [「ＳＡＴテクノロジー・ショーケース ２０２７ ポスター発表募集」のご案内（つくばサイエンス・アカデミー）](https://www.science-academy.jp/showcase2027.shtml) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 33 | [「第127回日本外科学会定期学術集会」の共同出展企業を募集します。](https://www.sozo-saitama.or.jp/topic/jss127) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2027-09-15 |  |
+| 33 | [「逆転商談EXPO」売り手企業プレエントリーを募集しています【都賀町商工会】](https://www.u-cci.or.jp/wp/wp-content/uploads/2026/09/%E9%80%86%E8%BB%A2%E5%95%86%E8%AB%87EXPO-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E5%90%91%E3%81%91%E3%83%81%E3%83%A9%E3%82%B7ver2.0.pdf) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |

@@ -162,6 +162,22 @@
     "llm_processed": false
   },
   {
+    "id": "1895494e5081",
+    "title": "2026/09/09【募集中】契約セミナーを開催します！",
+    "org": "台東区産業振興事業団",
+    "source_id": "taito-sangyo",
+    "category": "city",
+    "area": "東京都台東区",
+    "status": "募集中",
+    "url": "https://taito-sangyo.jp/2026/09/09/keiyaku_seminar",
+    "source_type": "detail",
+    "fetched_at": "2026-09-15T23:36:26.761Z",
+    "first_seen": "2026-09-15T23:36:26.761Z",
+    "match_score": 69,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 中小企業診断士,販路開拓,創業",
+    "llm_processed": false
+  },
+  {
     "id": "9a178bfac275",
     "title": "専門家派遣事業",
     "org": "熊谷商工会議所",
@@ -1387,6 +1403,23 @@
     "llm_processed": false
   },
   {
+    "id": "da711d57a730",
+    "title": "令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）",
+    "org": "中小機構 調達・公募情報",
+    "source_id": "smrj-procurement",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-09-15",
+    "status": "不明",
+    "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp0000009cwb.html",
+    "source_type": "detail",
+    "fetched_at": "2026-09-15T23:36:26.761Z",
+    "first_seen": "2026-09-15T23:36:26.761Z",
+    "match_score": 34,
+    "match_reason": "全国対象 / 専門一致: 事業承継",
+    "llm_processed": false
+  },
+  {
     "id": "164d9e5c8a11",
     "title": "茨城県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（令和８年５月１４日で受付を終了しました。）",
     "org": "よろず支援拠点 全国本部 公募一覧",
@@ -2062,6 +2095,22 @@
     "first_seen": "2026-09-14T23:57:28.743Z",
     "match_score": 33,
     "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
+    "llm_processed": false
+  },
+  {
+    "id": "30ef949cbdf2",
+    "title": "「逆転商談EXPO」売り手企業プレエントリーを募集しています【都賀町商工会】",
+    "org": "宇都宮商工会議所",
+    "source_id": "utsunomiya-cci",
+    "category": "cci",
+    "area": "栃木県宇都宮市",
+    "status": "不明",
+    "url": "https://www.u-cci.or.jp/wp/wp-content/uploads/2026/09/%E9%80%86%E8%BB%A2%E5%95%86%E8%AB%87EXPO-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E5%90%91%E3%81%91%E3%83%81%E3%83%A9%E3%82%B7ver2.0.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-09-15T23:36:26.761Z",
+    "first_seen": "2026-09-15T23:36:26.761Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮)",
     "llm_processed": false
   },
   {
