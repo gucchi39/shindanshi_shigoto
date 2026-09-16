@@ -2245,6 +2245,23 @@
     "llm_processed": false
   },
   {
+    "id": "5819ad13e280",
+    "title": "令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（第2回）（高度化事業部）",
+    "org": "中小機構 調達・公募情報",
+    "source_id": "smrj-procurement",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-09-16",
+    "status": "不明",
+    "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp000000aago.html",
+    "source_type": "detail",
+    "fetched_at": "2026-09-16T23:45:08.895Z",
+    "first_seen": "2026-09-16T23:45:08.895Z",
+    "match_score": 28,
+    "match_reason": "全国対象",
+    "llm_processed": false
+  },
+  {
     "id": "ed9f6ee758f2",
     "title": "【重要】保証料の上乗せという経営者保証機能を代替する手法を活用した制度等の事前審査開始について",
     "org": "東京信用保証協会",

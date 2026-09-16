@@ -1,22 +1,14 @@
-# 公的機関 案件レポート (2026-09-16)
+# 公的機関 案件レポート (2026-09-17)
 
-- 収集済み: 144件（うち募集中・通年など 134件）
-- 今回の新着: 6件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **あと14日** [「『第41回ネプコンジャパン（東京展）』茨城県ブース共同出展企業募集」のご案内](https://www.htc.co.jp/document/41nepucon.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
-- **あと14日** [「海外展開初心者セミナー『海外展開専門家の活動報告から見る“茨城の食品輸出の今”』オンデマンド配信」のご案内](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/20260619ondemand.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
+- 収集済み: 145件（うち募集中・通年など 135件）
+- 今回の新着: 3件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 69 | [2026/09/09【募集中】契約セミナーを開催します！](https://taito-sangyo.jp/2026/09/09/keiyaku_seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
-| 50 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
-| 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000009cwb.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-15 |  |
-| 33 | [「逆転商談EXPO」売り手企業プレエントリーを募集しています【都賀町商工会】](https://www.u-cci.or.jp/wp/wp-content/uploads/2026/09/%E9%80%86%E8%BB%A2%E5%95%86%E8%AB%87EXPO-%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E5%90%91%E3%81%91%E3%83%81%E3%83%A9%E3%82%B7ver2.0.pdf) | 宇都宮商工会議所 | 栃木県宇都宮市 | 不明 |  |
+| 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（第2回）（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000aago.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-16 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
@@ -153,6 +145,7 @@
 | 28 | [岡山県よろず支援拠点 コーディネーターの公募を開始しました。（締切：令和８年９月３０日（水）１７時必着）](https://yorozu-okayama.go.jp/reiwa8-okayama-yorozu-shien-kyoten-coordinator-boshu-yoryo) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 28 | [公募情報](https://www.jetro.go.jp/procurement/publicoffer.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
+| 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（第2回）（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000aago.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-16 |  |
 | 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 18 | [「令和9・10月度入札参加資格審査申請受付開始」のお知らせ](https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html) | 真岡商工会議所 | 栃木県真岡市 | 2027-04-01 |  |
 | 18 | [さいたま医療ものづくり都市構想「試作開発ラボ（JR北与野駅徒歩1分）」利用者の募集](https://www.sozo-saitama.or.jp/topic/medical_labo2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
