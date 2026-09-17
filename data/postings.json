@@ -1285,6 +1285,22 @@
     "llm_processed": false
   },
   {
+    "id": "7d6e061c5710",
+    "title": "令和８年度 佐賀県よろず支援拠点コーディネーターの公募を開始しました。（締切：令和８年９月３０日（水）１７時必着）",
+    "org": "よろず支援拠点 全国本部 公募一覧",
+    "source_id": "yorozu-honbu",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://sagaperch.jp/news/000432.php",
+    "source_type": "detail",
+    "fetched_at": "2026-09-17T23:37:21.939Z",
+    "first_seen": "2026-09-17T23:37:21.939Z",
+    "match_score": 38,
+    "match_reason": "全国対象 / 専門一致: 中小企業診断士",
+    "llm_processed": false
+  },
+  {
     "id": "dd6ef29cdaaf",
     "title": "「群馬県よろず支援拠点」（ワンストップ窓口）コーディネーターの公募を開始しました。（ 締切： 令和8年9月4日（金） 正午必着）",
     "org": "よろず支援拠点 全国本部 公募一覧",
