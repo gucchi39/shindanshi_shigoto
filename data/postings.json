@@ -2130,6 +2130,22 @@
     "llm_processed": false
   },
   {
+    "id": "24b8c628e1bc",
+    "title": "2026.09.18 関係機関からお知らせ 派遣労働者の同一労働同一賃金が改正（10月１日より施行）",
+    "org": "川口商工会議所",
+    "source_id": "kawaguchi-cci",
+    "category": "cci",
+    "area": "埼玉県川口市",
+    "status": "不明",
+    "url": "https://kawaguchicci.or.jp/news/cciinformation/haken_kaisei.html",
+    "source_type": "pdf",
+    "fetched_at": "2026-09-18T23:30:20.390Z",
+    "first_seen": "2026-09-18T23:30:20.390Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(埼玉県)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
