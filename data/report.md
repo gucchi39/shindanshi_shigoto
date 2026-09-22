@@ -1,7 +1,7 @@
-# 公的機関 案件レポート (2026-09-21)
+# 公的機関 案件レポート (2026-09-22)
 
 - 収集済み: 147件（うち募集中・通年など 137件）
-- 今回の新着: 0件 / 取得失敗: 8件
+- 今回の新着: 0件 / 取得失敗: 9件
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -154,5 +154,6 @@
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- saitama-cci: fetch failed: https://www.saitamacci.or.jp/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
 
