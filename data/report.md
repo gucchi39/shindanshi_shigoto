@@ -1,7 +1,17 @@
-# 公的機関 案件レポート (2026-09-23)
+# 公的機関 案件レポート (2026-09-24)
 
 - 収集済み: 147件（うち募集中・通年など 137件）
-- 今回の新着: 0件 / 取得失敗: 11件
+- 今回の新着: 1件 / 取得失敗: 9件
+
+## ⏰ 締切間近
+
+- **あと14日** [令和８年度 創業スクールの募集を開始しました](https://tochigi-network.com/event/3077)（宇都宮商工会議所 / 締切 2026-10-08）
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -152,9 +162,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- tochigi-iin: fetch failed: https://www.tochigi-iin.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
-- saitama-dx: fetch failed: https://www.saitamadx.com/recruitment/ (TypeError: fetch failed)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - saitama-cci: fetch failed: https://www.saitamacci.or.jp/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
