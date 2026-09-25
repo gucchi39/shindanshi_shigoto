@@ -1,17 +1,15 @@
-# 公的機関 案件レポート (2026-09-24)
+# 公的機関 案件レポート (2026-09-25)
 
-- 収集済み: 147件（うち募集中・通年など 137件）
-- 今回の新着: 1件 / 取得失敗: 9件
-
-## ⏰ 締切間近
-
-- **あと14日** [令和８年度 創業スクールの募集を開始しました](https://tochigi-network.com/event/3077)（宇都宮商工会議所 / 締切 2026-10-08）
+- 収集済み: 148件（うち募集中・通年など 138件）
+- 今回の新着: 3件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 39 | [「第61回スーパーマーケット・トレードショー 2027」展示ブース装飾業務委託に係る公募型プロポーザルの実施について](https://www.tochigi-iin.or.jp/home/10/4551.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
+| 36 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -87,6 +85,7 @@
 | 39 | [2026.07.29 ＜TAMA＞相談員変更のお知らせ ７月、8月、9月](https://startup-station.jp/info20260724tama) | TOKYO創業ステーション | 東京都 | 不明 |  |
 | 39 | [「とちぎSDGs推進企業登録制度」SDGs経営セミナーの開催について](https://www.tochigi-iin.or.jp/home/10/4547.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
 | 39 | [2026.08.26 ＜TAMA＞相談員変更のお知らせ 8月、9月、10月](https://startup-station.jp/info20260826tama) | TOKYO創業ステーション | 東京都 | 不明 |  |
+| 39 | [「第61回スーパーマーケット・トレードショー 2027」展示ブース装飾業務委託に係る公募型プロポーザルの実施について](https://www.tochigi-iin.or.jp/home/10/4551.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 佐藤 創 So Sato IT企業のプロジェクトマネージャーが、輝く中小企業の創出を志し、中小企業診断士資格を取得、公的支援者へ転身！](https://yorozu.smrj.go.jp/recruit/voice_miyagi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 水岡 希久子 Kikuko Mizuoka フリーランスライター、ダイニングバーのオーナーシェフなど、多様な経験を活かして、最年少でCCOに！](https://yorozu.smrj.go.jp/recruit/voice_yamaguchi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 森友 伸和 Moritomo Nobukazu 自ら起業した特産品ビジネスで、ネット通販１位、多店舗展開を実現した実績を伴い、満を持してよろず支援拠点に！](https://yorozu.smrj.go.jp/recruit/voice_kagoshima) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
@@ -164,6 +163,5 @@
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- saitama-cci: fetch failed: https://www.saitamacci.or.jp/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
 
