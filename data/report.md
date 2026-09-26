@@ -1,14 +1,12 @@
-# 公的機関 案件レポート (2026-09-26)
+# 公的機関 案件レポート (2026-09-27)
 
 - 収集済み: 149件（うち募集中・通年など 139件）
-- 今回の新着: 2件 / 取得失敗: 8件
+- 今回の新着: 0件 / 取得失敗: 15件
 
-## 🆕 新着
+## ⏰ 締切間近
 
-| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
-|---|---|---|---|---|---|
-| 36 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
-| 33 | [2026年9月24日 政策提言・要望 「法人の実質的支配者情報の把握・登録等に関する新制度に対する意見」を公表しました](https://www.tokyo-cci.or.jp/page.jsp?id=1210838) | 東京商工会議所 | 東京都 | 不明 |  |
+- **あと3日** [「『第41回ネプコンジャパン（東京展）』茨城県ブース共同出展企業募集」のご案内](https://www.htc.co.jp/document/41nepucon.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
+- **あと3日** [「海外展開初心者セミナー『海外展開専門家の活動報告から見る“茨城の食品輸出の今”』オンデマンド配信」のご案内](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/20260619ondemand.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -161,7 +159,14 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
+- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
+- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
+- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
+- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
+- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
