@@ -2162,6 +2162,22 @@
     "llm_processed": false
   },
   {
+    "id": "d92fb0544b62",
+    "title": "2026年9月24日 政策提言・要望 「法人の実質的支配者情報の把握・登録等に関する新制度に対する意見」を公表しました",
+    "org": "東京商工会議所",
+    "source_id": "tokyo-cci",
+    "category": "cci",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://www.tokyo-cci.or.jp/page.jsp?id=1210838",
+    "source_type": "detail",
+    "fetched_at": "2026-09-26T00:02:33.526Z",
+    "first_seen": "2026-09-26T00:02:33.526Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(東京都) / 近郊(東京)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
