@@ -519,6 +519,22 @@
     "llm_processed": false
   },
   {
+    "id": "aa63a0a010da",
+    "title": "交流会 企業支援 融資の次は、エクイティ。スタートアップの資⾦調達を契約と数字から考える。エクイティファイナンスの法務・税務― 投資契約の基礎 × 経営計画ワークショップ ― 2026 年 11月 6日(金) 18:30～20:30",
+    "org": "港区立産業振興センター",
+    "source_id": "minato-sansin",
+    "category": "city",
+    "area": "東京都港区",
+    "status": "不明",
+    "url": "https://minato-sansin.com/events/261106_equity",
+    "source_type": "detail",
+    "fetched_at": "2026-09-27T23:53:29.294Z",
+    "first_seen": "2026-09-27T23:53:29.294Z",
+    "match_score": 51,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: オープンイノベーション,創業",
+    "llm_processed": false
+  },
+  {
     "id": "4c4ed0db80d1",
     "title": "総合相談業務における専門相談員の募集について＜総合相談事業＞",
     "org": "東京都中小企業振興公社 専門家募集",

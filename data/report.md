@@ -1,12 +1,13 @@
-# 公的機関 案件レポート (2026-09-27)
+# 公的機関 案件レポート (2026-09-28)
 
-- 収集済み: 149件（うち募集中・通年など 139件）
-- 今回の新着: 0件 / 取得失敗: 15件
+- 収集済み: 150件（うち募集中・通年など 140件）
+- 今回の新着: 1件 / 取得失敗: 8件
 
-## ⏰ 締切間近
+## 🆕 新着
 
-- **あと3日** [「『第41回ネプコンジャパン（東京展）』茨城県ブース共同出展企業募集」のご案内](https://www.htc.co.jp/document/41nepucon.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
-- **あと3日** [「海外展開初心者セミナー『海外展開専門家の活動報告から見る“茨城の食品輸出の今”』オンデマンド配信」のご案内](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/20260619ondemand.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 51 | [交流会 企業支援 融資の次は、エクイティ。スタートアップの資⾦調達を契約と数字から考える。エクイティファイナンスの法務・税務― 投資契約の基礎 × 経営計画ワークショップ ― 2026 年 11月 6日(金) 18:30～20:30](https://minato-sansin.com/events/261106_equity) | 港区立産業振興センター | 東京都港区 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -41,6 +42,7 @@
 | 53 | [奈良県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（締切：令和８年７月１７日（金）１７時必着）](https://www.nara-sangyoshinko.or.jp/about/26_05adoption.html) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 53 | [「群馬県よろず支援拠点」生産性向上支援サポーターの公募を開始しました。（締切： 令和8年9月4日（金） 正午必着）](https://www.g-inf.or.jp/pdf/202608_08.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 52 | [8/27栃木就活交流会・参加企業更新【就活生募集中】](https://tochigi-cci.or.jp/8-27%e6%a0%83%e6%9c%a8%e5%b0%b1%e6%b4%bb%e4%ba%a4%e6%b5%81%e4%bc%9a_%e5%8f%82%e5%8a%a0%e4%bc%81%e6%a5%ad%e6%9b%b4%e6%96%b0%e3%80%90%e5%b0%b1%e6%b4%bb%e7%94%9f%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91) | 栃木商工会議所 | 栃木県栃木市 | 募集中 |  |
+| 51 | [交流会 企業支援 融資の次は、エクイティ。スタートアップの資⾦調達を契約と数字から考える。エクイティファイナンスの法務・税務― 投資契約の基礎 × 経営計画ワークショップ ― 2026 年 11月 6日(金) 18:30～20:30](https://minato-sansin.com/events/261106_equity) | 港区立産業振興センター | 東京都港区 | 不明 |  |
 | 49 | [総合相談業務における専門相談員の募集について＜総合相談事業＞](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2606/12_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-07-20 | ⚠6.応募要件（令和8年9月1日時点で以下のすべてを満たす方） (1)税務専門相談員 公認会計士/税理士を取得後5年以上経過し、かつ当該専門分野に関する事業を主とする方。 /  |
 | 49 | [令和８年度 創業スクールの募集を開始しました](https://tochigi-network.com/event/3077) | 宇都宮商工会議所 | 栃木県宇都宮市 | 2026-10-08 |  |
 | 49 | [課題解決型技術開発促進事業（試作品開発・改良助成）に係る「コーディネータ」募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2609/11_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-12-01 |  |
@@ -159,14 +161,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
-- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
-- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
-- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
-- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
-- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
