@@ -340,6 +340,22 @@
     "llm_processed": false
   },
   {
+    "id": "aff6f4abc744",
+    "title": "【募集終了】令和８年度Claude Cowork 業務改善実践研修業務の入札情報",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "不明",
+    "url": "https://www.sozo-saitama.or.jp/topic/2026cowork-training-bid",
+    "source_type": "detail",
+    "fetched_at": "2026-09-30T00:41:42.873Z",
+    "first_seen": "2026-09-30T00:41:42.873Z",
+    "match_score": 63,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま) / 専門一致: 生成AI,AI",
+    "llm_processed": false
+  },
+  {
     "id": "2877da4c0543",
     "title": "専門家派遣のご案内",
     "org": "東京信用保証協会",
