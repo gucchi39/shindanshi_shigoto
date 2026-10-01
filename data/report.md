@@ -1,19 +1,15 @@
-# 公的機関 案件レポート (2026-09-30)
+# 公的機関 案件レポート (2026-10-01)
 
-- 収集済み: 155件（うち募集中・通年など 145件）
-- 今回の新着: 2件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **本日締切** [「『第41回ネプコンジャパン（東京展）』茨城県ブース共同出展企業募集」のご案内](https://www.htc.co.jp/document/41nepucon.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
-- **本日締切** [「海外展開初心者セミナー『海外展開専門家の活動報告から見る“茨城の食品輸出の今”』オンデマンド配信」のご案内](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/20260619ondemand.pdf)（いばらき中小企業グローバル推進機構 / 締切 2026-09-30）
+- 収集済み: 156件（うち募集中・通年など 146件）
+- 今回の新着: 3件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 63 | [【募集終了】令和８年度Claude Cowork 業務改善実践研修業務の入札情報](https://www.sozo-saitama.or.jp/topic/2026cowork-training-bid) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
-| 36 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 23 | [2026年度調達見通し（123KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20261001.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -160,6 +156,7 @@
 | 28 | [公募情報](https://www.jetro.go.jp/procurement/publicoffer.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（第2回）（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000aago.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-16 |  |
+| 23 | [2026年度調達見通し（123KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20261001.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 18 | [「令和9・10月度入札参加資格審査申請受付開始」のお知らせ](https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html) | 真岡商工会議所 | 栃木県真岡市 | 2027-04-01 |  |
 | 18 | [さいたま医療ものづくり都市構想「試作開発ラボ（JR北与野駅徒歩1分）」利用者の募集](https://www.sozo-saitama.or.jp/topic/medical_labo2026) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |

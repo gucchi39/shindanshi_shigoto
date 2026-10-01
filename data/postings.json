@@ -2455,6 +2455,22 @@
     "llm_processed": false
   },
   {
+    "id": "6e753d20739e",
+    "title": "2026年度調達見通し（123KB）",
+    "org": "JETRO 調達・公募情報",
+    "source_id": "jetro-procurement",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.jetro.go.jp/ext_images/procurement/pdf/20261001.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-10-01T00:44:17.060Z",
+    "first_seen": "2026-10-01T00:44:17.060Z",
+    "match_score": 23,
+    "match_reason": "全国対象 / 専門一致: デジタル / 減点: 工事",
+    "llm_processed": false
+  },
+  {
     "id": "3e8cd717d0bd",
     "title": "協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13",
     "org": "大田区産業振興協会",
