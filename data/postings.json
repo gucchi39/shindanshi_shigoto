@@ -33,6 +33,22 @@
     "llm_processed": false
   },
   {
+    "id": "a05d999bf05a",
+    "title": "【募集中】アトツギ支援セミナー開催のご案内",
+    "org": "栃木県産業振興センター",
+    "source_id": "tochigi-iin",
+    "category": "prefecture",
+    "area": "栃木県",
+    "status": "募集中",
+    "url": "https://www.tochigi-iin.or.jp/home/10/4512.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-02T01:01:53.830Z",
+    "first_seen": "2026-10-02T01:01:53.830Z",
+    "match_score": 82,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮) / 専門一致: 新規事業,事業開発,事業承継,創業",
+    "llm_processed": false
+  },
+  {
     "id": "6d1953733dfe",
     "title": "【埼玉県警察】ヤング防犯ボランティア募集中",
     "org": "川越商工会議所",
@@ -1331,6 +1347,22 @@
     "first_seen": "2026-09-29T01:11:03.078Z",
     "match_score": 39,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
+    "id": "d528197b5bde",
+    "title": "「第61回スーパーマーケット・トレードショー2027」展示ブース装飾業務委託に係る公募型プロポーザルの質問及び回答について",
+    "org": "栃木県産業振興センター",
+    "source_id": "tochigi-iin",
+    "category": "prefecture",
+    "area": "栃木県",
+    "status": "不明",
+    "url": "https://www.tochigi-iin.or.jp/home/10/4554.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-02T01:01:53.830Z",
+    "first_seen": "2026-10-02T01:01:53.830Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(栃木県) / 専門一致: 創業",
     "llm_processed": false
   },
   {
