@@ -862,6 +862,22 @@
     "llm_processed": false
   },
   {
+    "id": "af9a27bd240e",
+    "title": "晴海図書館創業セミナーの募集を開始しました",
+    "org": "東京信用保証協会",
+    "source_id": "tokyo-cgc",
+    "category": "guarantee",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202611-05.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-05T00:05:41.166Z",
+    "first_seen": "2026-10-05T00:05:41.166Z",
+    "match_score": 46,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 事業承継,創業",
+    "llm_processed": false
+  },
+  {
     "id": "fbf064eb47ef",
     "title": "【募集中】契約職員（支援担当）の募集について",
     "org": "さいたま市産業創造財団",

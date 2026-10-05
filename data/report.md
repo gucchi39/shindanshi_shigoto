@@ -1,7 +1,17 @@
-# 公的機関 案件レポート (2026-10-04)
+# 公的機関 案件レポート (2026-10-05)
 
-- 収集済み: 158件（うち募集中・通年など 148件）
-- 今回の新着: 0件 / 取得失敗: 15件
+- 収集済み: 159件（うち募集中・通年など 149件）
+- 今回の新着: 1件 / 取得失敗: 8件
+
+## ⏰ 締切間近
+
+- **あと3日** [令和８年度 創業スクールの募集を開始しました](https://tochigi-network.com/event/3077)（宇都宮商工会議所 / 締切 2026-10-08）
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 46 | [晴海図書館創業セミナーの募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202611-05.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -56,6 +66,7 @@
 | 46 | [都立中央図書館・National Search Fund株式会社との共催「事業承継セミナー」の募集を開始しました。](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202610-22.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 46 | [協力団体 令和９年度 東京都トライアル発注認定制度 （新事業分野開拓者認定制度）募集開始しました。 2026-08-26](https://trial.metro.tokyo.lg.jp) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 46 | [「茨城県よろず支援拠点生産性向上支援センター「生産性向上支援サポーター」募集」のご案内](https://seisansei.yorozu-ibaraki.go.jp/news/ak5trtpq0vmkt9t9jtx82gi2) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
+| 46 | [晴海図書館創業セミナーの募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202611-05.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 45 | [【募集中】契約職員（支援担当）の募集について](https://www.sozo-saitama.or.jp/topic/%e3%80%90%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91%e5%a5%91%e7%b4%84%e8%81%b7%e5%93%a1%ef%bc%88%e5%b9%b9%e9%83%a8%e5%80%99%e8%a3%9c%ef%bc%89%e3%81%ae%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | さいたま市産業創造財団 | 埼玉県さいたま市 | 募集中 |  |
 | 45 | [協力団体 東京都立城南職業能力開発センター大田校《キャリアアップ講習・7月募集》について 2026-07-01](https://www.hataraku.metro.tokyo.lg.jp/zaishokusha-kunren/carr_up/index.html) | 大田区産業振興協会 | 東京都大田区 | 募集中 |  |
 | 45 | [会員事業所検索（新規登録）](https://www.tcci.jp/%e4%bc%9a%e5%93%a1%ef%bd%90%ef%bd%92%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8a%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 土浦商工会議所 | 茨城県土浦市 | 募集中 |  |
@@ -163,14 +174,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
-- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
-- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
-- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
-- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
-- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
