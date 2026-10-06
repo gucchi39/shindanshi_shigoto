@@ -519,6 +519,22 @@
     "llm_processed": false
   },
   {
+    "id": "f3197189a701",
+    "title": "「中小企業基盤整備機構と東京信用保証協会によるサテライト・ゼミ」の募集を開始しました",
+    "org": "東京信用保証協会",
+    "source_id": "tokyo-cgc",
+    "category": "guarantee",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/keieishien2026-12.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-06T01:50:23.327Z",
+    "first_seen": "2026-10-06T01:50:23.327Z",
+    "match_score": 55,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 中小企業診断士,事業承継,創業",
+    "llm_processed": false
+  },
+  {
     "id": "47e62d0696e8",
     "title": "過去の公募情報へ",
     "org": "中小機構 調達・公募情報",

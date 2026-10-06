@@ -1,17 +1,14 @@
-# 公的機関 案件レポート (2026-10-05)
+# 公的機関 案件レポート (2026-10-06)
 
-- 収集済み: 159件（うち募集中・通年など 149件）
-- 今回の新着: 1件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **あと3日** [令和８年度 創業スクールの募集を開始しました](https://tochigi-network.com/event/3077)（宇都宮商工会議所 / 締切 2026-10-08）
+- 収集済み: 160件（うち募集中・通年など 150件）
+- 今回の新着: 2件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 46 | [晴海図書館創業セミナーの募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202611-05.html) | 東京信用保証協会 | 東京都 | 不明 |  |
+| 55 | [「中小企業基盤整備機構と東京信用保証協会によるサテライト・ゼミ」の募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/keieishien2026-12.html) | 東京信用保証協会 | 東京都 | 不明 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -46,6 +43,7 @@
 | 55 | [専門家派遣相談](https://www.city.koto.lg.jp/102000/senmonkahaken-soudan.html) | 江東区 中小企業支援 | 東京都江東区 | 不明 |  |
 | 55 | [【募集中】「撮る力・つくる力を鍛える！Instagram×Canva コンテンツ制作研修」のご案内](https://www.sozo-saitama.or.jp/topic/instagram-canva-training202610) | さいたま市産業創造財団 | 埼玉県さいたま市 | 募集中 |  |
 | 55 | [「令和８年度いばらきチャレンジ基金事業（第２次公募）」公募開始のお知らせ](https://www.iis-net.or.jp/page?kind=challenge_kikin_bosyu) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
+| 55 | [「中小企業基盤整備機構と東京信用保証協会によるサテライト・ゼミ」の募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/keieishien2026-12.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 54 | [過去の公募情報へ](https://www.smrj.go.jp/procurement/solicitation/expiry/index.html) | 中小機構 調達・公募情報 | 全国 | 2026-05-27 |  |
 | 53 | [奈良県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（締切：令和８年７月１７日（金）１７時必着）](https://www.nara-sangyoshinko.or.jp/about/26_05adoption.html) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 53 | [「群馬県よろず支援拠点」生産性向上支援サポーターの公募を開始しました。（締切： 令和8年9月4日（金） 正午必着）](https://www.g-inf.or.jp/pdf/202608_08.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
