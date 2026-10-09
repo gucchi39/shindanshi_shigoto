@@ -1,17 +1,14 @@
-# 公的機関 案件レポート (2026-10-08)
+# 公的機関 案件レポート (2026-10-09)
 
-- 収集済み: 160件（うち募集中・通年など 150件）
-- 今回の新着: 2件 / 取得失敗: 8件
-
-## ⏰ 締切間近
-
-- **本日締切** [令和８年度 創業スクールの募集を開始しました](https://tochigi-network.com/event/3077)（宇都宮商工会議所 / 締切 2026-10-08）
+- 収集済み: 161件（うち募集中・通年など 151件）
+- 今回の新着: 3件 / 取得失敗: 15件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 50 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
+| 39 | [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の随時募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/09_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 通年 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
@@ -99,6 +96,7 @@
 | 39 | [2026.09.29 ＜TAMA＞相談員変更のお知らせ 9月、10月、11月](https://startup-station.jp/info20260929tama) | TOKYO創業ステーション | 東京都 | 不明 |  |
 | 39 | [募集情報 『ベンチャーピッチHANEDA in TIB 2026』 登壇者募集について 2026-09-28 創業者・スタートアップを対象に、VC・CVC などの投資機関や企業などへのピッチを行い、マッチング・資金調達につなげます。資金調達や事業連携・販路拡大などにより事業を成長させたい方はぜひお申し込みください。 詳細 名称ベンチャーピッチHANEDA in TIB 2026開催日時令和８（2026）年11月26日(木)14時～17時【ピッチ】14時～16時 各社ピッチ時間：７分 質疑応答：３分【交流会】16時～17時会場Tokyo Innovation Base（TIB） 東京都千代田区丸の内3-8-3応募資格要件（１）起業後15年以内の中小企業であること。（２）大田区内において事業展開を行っている、又は行おうとしていること。（３）業種、募集テーマは不問（公序良俗等の観点から適当でないと認められる業種は対象となりません）。（４）風俗営業法（昭和23年日法律第122号）第2条第1項に規定する営業を行っていない者。（５）大田区暴力団排除条例（平成24年大田区条例第38号）に規定する暴力団又は暴力団員と密接な関係を有する者でないこと。（６）協会が実施するアンケート等（会期後）に協力すること。参加費無料登壇企業の決定書面審査によって10者程度選定します。審査基準（１）成長性（２）新規性（３）市場性（４）地域貢献性（５）熱意スケジュール【書類審査】令和８（2026）年10月中旬～10月下旬【結果通知】令和８（2026）年10月下旬～11月上旬申込方法募集要項をご確認のうえ、以下の提出書類と合わせて下記申込フォームからお申込みください。【提出書類】（１）ピッチ資料以下の説明内容を含むピッチ資料（ドラフト版でかまいません）①製品・サービスの名称・概要②上記製品・サービスを用いてどのように社会課題を解決するのか③製品・サービスの特徴・優位性・市場規模など④製品・サービスの導入までの現在の状況・全体スケジュール⑤上記以外のPRする内容ページ数：10ページ以内ファイル形式：pdf（２）製品・サービスが分かる補足資料（任意）申込締切令和８（2026）年10月16日（金）17時まで主催公益財団法人大田区産業振興協会 申込はこちら ……](https://www.pio-ota.jp/news/recruitment/open-call/haneda_in_tib2026_todansha) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 39 | [「第61回スーパーマーケット・トレードショー2027」展示ブース装飾業務委託に係る公募型プロポーザルの質問及び回答について](https://www.tochigi-iin.or.jp/home/10/4554.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
+| 39 | [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の随時募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/09_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 通年 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 佐藤 創 So Sato IT企業のプロジェクトマネージャーが、輝く中小企業の創出を志し、中小企業診断士資格を取得、公的支援者へ転身！](https://yorozu.smrj.go.jp/recruit/voice_miyagi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 水岡 希久子 Kikuko Mizuoka フリーランスライター、ダイニングバーのオーナーシェフなど、多様な経験を活かして、最年少でCCOに！](https://yorozu.smrj.go.jp/recruit/voice_yamaguchi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 森友 伸和 Moritomo Nobukazu 自ら起業した特産品ビジネスで、ネット通販１位、多店舗展開を実現した実績を伴い、満を持してよろず支援拠点に！](https://yorozu.smrj.go.jp/recruit/voice_kagoshima) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
@@ -176,7 +174,14 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
+- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
+- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
+- saitama-cci: fetch failed: https://www.saitamacci.or.jp/ (TypeError: fetch failed)
+- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
+- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
