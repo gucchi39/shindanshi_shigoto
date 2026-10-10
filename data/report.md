@@ -1,14 +1,15 @@
-# 公的機関 案件レポート (2026-10-09)
+# 公的機関 案件レポート (2026-10-10)
 
-- 収集済み: 161件（うち募集中・通年など 151件）
-- 今回の新着: 3件 / 取得失敗: 15件
+- 収集済み: 163件（うち募集中・通年など 153件）
+- 今回の新着: 4件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 50 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
-| 39 | [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の随時募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/09_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 通年 |  |
+| 75 | [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2026-10-23 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 53 | [高知県よろず支援拠点 生産性向上支援サポータの公募を開始いたしました。（令和８年１２月１０日（木）必着）](https://joho-kochi.or.jp/pdf/2026/seisansei.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
@@ -19,6 +20,7 @@
 | 82 | [2026.09.02 【募集中】＜丸の内＞３F Advance Port/９月のイベント](https://startup-station.jp/info20260902) | TOKYO創業ステーション | 東京都 | 2026-09-11 |  |
 | 82 | [【募集中】アトツギ支援セミナー開催のご案内](https://www.tochigi-iin.or.jp/home/10/4512.html) | 栃木県産業振興センター | 栃木県 | 募集中 |  |
 | 75 | [【埼玉県警察】ヤング防犯ボランティア募集中](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e8%ad%a6%e5%af%9f%e3%80%91%e3%83%a4%e3%83%b3%e3%82%b0%e9%98%b2%e7%8a%af%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2%e5%8b%9f%e9%9b%86%e4%b8%ad) | 川越商工会議所 | 埼玉県川越市 | 募集中 |  |
+| 75 | [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2026-10-23 |  |
 | 73 | [「生産性向上研究会 会員募集」のご案内（茨城県産業技術イノベーションセンター）](https://www.itic.pref.ibaraki.jp/infolist/studygroup/info-20260427-3) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 73 | [東京都よろず支援拠点「生産性向上支援サポーター」の公募について](https://tokyoyorozu.go.jp/news/2026-06-24) | 東京都よろず支援拠点 | 東京都 | 不明 |  |
 | 73 | [【埼玉県】「経営サポーター」事業のご案内](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e3%80%91%e3%80%8c%e7%b5%8c%e5%96%b6%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%8d%e4%ba%8b%e6%a5%ad%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
@@ -48,6 +50,7 @@
 | 54 | [過去の公募情報へ](https://www.smrj.go.jp/procurement/solicitation/expiry/index.html) | 中小機構 調達・公募情報 | 全国 | 2026-05-27 |  |
 | 53 | [奈良県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（締切：令和８年７月１７日（金）１７時必着）](https://www.nara-sangyoshinko.or.jp/about/26_05adoption.html) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 53 | [「群馬県よろず支援拠点」生産性向上支援サポーターの公募を開始しました。（締切： 令和8年9月4日（金） 正午必着）](https://www.g-inf.or.jp/pdf/202608_08.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
+| 53 | [高知県よろず支援拠点 生産性向上支援サポータの公募を開始いたしました。（令和８年１２月１０日（木）必着）](https://joho-kochi.or.jp/pdf/2026/seisansei.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 52 | [8/27栃木就活交流会・参加企業更新【就活生募集中】](https://tochigi-cci.or.jp/8-27%e6%a0%83%e6%9c%a8%e5%b0%b1%e6%b4%bb%e4%ba%a4%e6%b5%81%e4%bc%9a_%e5%8f%82%e5%8a%a0%e4%bc%81%e6%a5%ad%e6%9b%b4%e6%96%b0%e3%80%90%e5%b0%b1%e6%b4%bb%e7%94%9f%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91) | 栃木商工会議所 | 栃木県栃木市 | 募集中 |  |
 | 51 | [交流会 企業支援 融資の次は、エクイティ。スタートアップの資⾦調達を契約と数字から考える。エクイティファイナンスの法務・税務― 投資契約の基礎 × 経営計画ワークショップ ― 2026 年 11月 6日(金) 18:30～20:30](https://minato-sansin.com/events/261106_equity) | 港区立産業振興センター | 東京都港区 | 不明 |  |
 | 49 | [総合相談業務における専門相談員の募集について＜総合相談事業＞](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2606/12_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-07-20 | ⚠6.応募要件（令和8年9月1日時点で以下のすべてを満たす方） (1)税務専門相談員 公認会計士/税理士を取得後5年以上経過し、かつ当該専門分野に関する事業を主とする方。 /  |
@@ -174,14 +177,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
-- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
-- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- sozo-saitama: fetch failed: https://www.sozo-saitama.or.jp/ (TypeError: fetch failed)
-- saitama-cci: fetch failed: https://www.saitamacci.or.jp/ (TypeError: fetch failed)
-- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
-- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 

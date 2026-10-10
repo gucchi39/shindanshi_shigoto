@@ -65,6 +65,23 @@
     "llm_processed": false
   },
   {
+    "id": "e820f7033078",
+    "title": "【募集中】「ClaudeCowork業務改善実践研修」のご案内",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "deadline": "2026-10-23",
+    "status": "募集中",
+    "url": "https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar",
+    "source_type": "detail",
+    "fetched_at": "2026-10-10T01:08:25.734Z",
+    "first_seen": "2026-10-10T01:08:25.734Z",
+    "match_score": 75,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま) / 専門一致: DX,AI",
+    "llm_processed": false
+  },
+  {
     "id": "b6613af74d28",
     "title": "「生産性向上研究会 会員募集」のご案内（茨城県産業技術イノベーションセンター）",
     "org": "いばらき中小企業グローバル推進機構",
@@ -579,6 +596,22 @@
     "source_type": "pdf",
     "fetched_at": "2026-08-20T21:54:53.952Z",
     "first_seen": "2026-08-20T21:54:53.952Z",
+    "match_score": 53,
+    "match_reason": "全国対象 / 専門一致: デジタル化,生産性向上,省力化,デジタル,製造業 / 減点: 警備",
+    "llm_processed": false
+  },
+  {
+    "id": "20b9de921bff",
+    "title": "高知県よろず支援拠点 生産性向上支援サポータの公募を開始いたしました。（令和８年１２月１０日（木）必着）",
+    "org": "よろず支援拠点 全国本部 公募一覧",
+    "source_id": "yorozu-honbu",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://joho-kochi.or.jp/pdf/2026/seisansei.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-10-10T01:08:25.734Z",
+    "first_seen": "2026-10-10T01:08:25.734Z",
     "match_score": 53,
     "match_reason": "全国対象 / 専門一致: デジタル化,生産性向上,省力化,デジタル,製造業 / 減点: 警備",
     "llm_processed": false
