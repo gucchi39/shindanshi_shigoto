@@ -1,16 +1,7 @@
-# 公的機関 案件レポート (2026-10-10)
+# 公的機関 案件レポート (2026-10-11)
 
 - 収集済み: 163件（うち募集中・通年など 153件）
-- 今回の新着: 4件 / 取得失敗: 8件
-
-## 🆕 新着
-
-| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
-|---|---|---|---|---|---|
-| 75 | [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2026-10-23 |  |
-| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
-| 53 | [高知県よろず支援拠点 生産性向上支援サポータの公募を開始いたしました。（令和８年１２月１０日（木）必着）](https://joho-kochi.or.jp/pdf/2026/seisansei.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
-| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+- 今回の新着: 0件 / 取得失敗: 9件
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -174,6 +165,7 @@
 
 - chusho119: fetch failed: https://chusho119.go.jp/ (TypeError: fetch failed)
 - chusho-nintei: fetch failed: https://www.chusho.meti.go.jp/keiei/kakushin/nintei/ (Error: HTTP 403)
+- jetro-procurement: fetch failed: https://www.jetro.go.jp/procurement/ (TimeoutError: The operation was aborted due to timeout)
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
