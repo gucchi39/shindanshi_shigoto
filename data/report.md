@@ -1,7 +1,7 @@
-# 公的機関 案件レポート (2026-10-11)
+# 公的機関 案件レポート (2026-10-12)
 
 - 収集済み: 163件（うち募集中・通年など 153件）
-- 今回の新着: 0件 / 取得失敗: 9件
+- 今回の新着: 0件 / 取得失敗: 8件
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -165,7 +165,6 @@
 
 - chusho119: fetch failed: https://chusho119.go.jp/ (TypeError: fetch failed)
 - chusho-nintei: fetch failed: https://www.chusho.meti.go.jp/keiei/kakushin/nintei/ (Error: HTTP 403)
-- jetro-procurement: fetch failed: https://www.jetro.go.jp/procurement/ (TimeoutError: The operation was aborted due to timeout)
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
