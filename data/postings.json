@@ -1007,6 +1007,23 @@
     "llm_processed": false
   },
   {
+    "id": "7a4eee30454c",
+    "title": "その他 企業支援 グローバル 専門家が解説！外資系企業の日本展開のポイント ～税務・会計編【センター共催】 2026年11月5日（木）18:00 - 20:00（受付開始は17:30）",
+    "org": "港区立産業振興センター",
+    "source_id": "minato-sansin",
+    "category": "city",
+    "area": "東京都港区",
+    "deadline": "2026-11-02",
+    "status": "不明",
+    "url": "https://minato-sansin.com/events/kyosai20261105",
+    "source_type": "detail",
+    "fetched_at": "2026-10-13T02:40:55.954Z",
+    "first_seen": "2026-10-13T02:40:55.954Z",
+    "match_score": 44,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: オープンイノベーション",
+    "llm_processed": false
+  },
+  {
     "id": "c4391ed6f17e",
     "title": "【創立80周年記念事業】シンボルマークデザイン募集！",
     "org": "小山商工会議所",
