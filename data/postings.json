@@ -927,6 +927,23 @@
     "llm_processed": false
   },
   {
+    "id": "31584afc21b5",
+    "title": "2026.10.13 関係機関からお知らせ 【11/7埼玉県産業振興公社】SAITAMA Smile Women ピッチ 2026観覧者募集",
+    "org": "川口商工会議所",
+    "source_id": "kawaguchi-cci",
+    "category": "cci",
+    "area": "埼玉県川口市",
+    "deadline": "2026-07-29",
+    "status": "締切",
+    "url": "https://kawaguchicci.or.jp/news/cciinformation/smile-women-pitch.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-14T00:30:34.862Z",
+    "first_seen": "2026-10-14T00:30:34.862Z",
+    "match_score": 46,
+    "match_reason": "エリア一致(埼玉県) / 専門一致: AI,創業",
+    "llm_processed": false
+  },
+  {
     "id": "fbf064eb47ef",
     "title": "【募集中】契約職員（支援担当）の募集について",
     "org": "さいたま市産業創造財団",
