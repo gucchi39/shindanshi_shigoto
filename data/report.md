@@ -1,21 +1,23 @@
-# 公的機関 案件レポート (2026-10-14)
+# 公的機関 案件レポート (2026-10-15)
 
-- 収集済み: 165件（うち募集中・通年など 154件）
-- 今回の新着: 3件 / 取得失敗: 8件
+- 収集済み: 167件（うち募集中・通年など 155件）
+- 今回の新着: 4件 / 取得失敗: 9件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 63 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
-| 54 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 募集中 |  |
-| 46 | [2026.10.13 関係機関からお知らせ 【11/7埼玉県産業振興公社】SAITAMA Smile Women ピッチ 2026観覧者募集](https://kawaguchicci.or.jp/news/cciinformation/smile-women-pitch.html) | 川口商工会議所 | 埼玉県川口市 | 2026-07-29 |  |
+| 85 | [2026.10.14 【募集中】<丸の内>３F Advance Port/10・11月のイベント](https://startup-station.jp/info20261014) | TOKYO創業ステーション | 東京都 | 2026-10-16 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 55 | [【２次募集中】令和8(2026)年度社会課題解決スタートアップ企業応援事業 認定事業を募集します（申請：11/9まで）【栃木県】](https://www.pref.tochigi.lg.jp/f03/startup/r8_socialsu_support2.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 締切 |  |
+| 39 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
 | 85 | [2026/07/24【募集中】若手経営者サポートセミナー2026を開催します!](https://taito-sangyo.jp/2026/07/24/wakate2026) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
+| 85 | [2026.10.14 【募集中】<丸の内>３F Advance Port/10・11月のイベント](https://startup-station.jp/info20261014) | TOKYO創業ステーション | 東京都 | 2026-10-16 |  |
 | 82 | [2026.09.02 【募集中】＜丸の内＞３F Advance Port/９月のイベント](https://startup-station.jp/info20260902) | TOKYO創業ステーション | 東京都 | 2026-09-11 |  |
 | 82 | [【募集中】アトツギ支援セミナー開催のご案内](https://www.tochigi-iin.or.jp/home/10/4512.html) | 栃木県産業振興センター | 栃木県 | 募集中 |  |
 | 75 | [【埼玉県警察】ヤング防犯ボランティア募集中](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e8%ad%a6%e5%af%9f%e3%80%91%e3%83%a4%e3%83%b3%e3%82%b0%e9%98%b2%e7%8a%af%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2%e5%8b%9f%e9%9b%86%e4%b8%ad) | 川越商工会議所 | 埼玉県川越市 | 募集中 |  |
@@ -177,6 +179,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- moka-cci: fetch failed: https://www.moka-cci.or.jp/ (Error: HTTP 500)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
