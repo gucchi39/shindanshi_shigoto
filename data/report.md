@@ -1,13 +1,11 @@
-# 公的機関 案件レポート (2026-10-18)
+# 公的機関 案件レポート (2026-10-19)
 
 - 収集済み: 167件（うち募集中・通年など 155件）
-- 今回の新着: 1件 / 取得失敗: 9件
+- 今回の新着: 0件 / 取得失敗: 10件
 
-## 🆕 新着
+## ⏰ 締切間近
 
-| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
-|---|---|---|---|---|---|
-| 38 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 募集中 |  |
+- **あと14日** [その他 企業支援 グローバル 専門家が解説！外資系企業の日本展開のポイント ～税務・会計編【センター共催】 2026年11月5日（木）18:00 - 20:00（受付開始は17:30）](https://minato-sansin.com/events/kyosai20261105)（港区立産業振興センター / 締切 2026-11-02）
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -177,6 +175,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
