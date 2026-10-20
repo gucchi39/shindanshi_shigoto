@@ -750,6 +750,23 @@
     "llm_processed": false
   },
   {
+    "id": "2f63949d1b3e",
+    "title": "第40期創業スクールの募集を開始しました",
+    "org": "東京信用保証協会",
+    "source_id": "tokyo-cgc",
+    "category": "guarantee",
+    "area": "東京都",
+    "deadline": "2026-12-21",
+    "status": "不明",
+    "url": "https://www.cgc-tokyo.or.jp/assistplaza/school/202701-02.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-20T00:32:51.445Z",
+    "first_seen": "2026-10-20T00:32:51.445Z",
+    "match_score": 49,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 中小企業診断士,創業",
+    "llm_processed": false
+  },
+  {
     "id": "91fa50615b27",
     "title": "登録専門家データベース",
     "org": "いばらき中小企業グローバル推進機構",
@@ -812,6 +829,22 @@
     "first_seen": "2026-09-14T23:57:28.743Z",
     "match_score": 47,
     "match_reason": "エリア一致(埼玉県) / 専門一致: 販路開拓,創業",
+    "llm_processed": false
+  },
+  {
+    "id": "c72fe8dbc432",
+    "title": "ミッションご登録フォーム",
+    "org": "JETRO 調達・公募情報",
+    "source_id": "jetro-procurement",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.jetro.go.jp/form5/pub/lvi/2026laosmission01",
+    "source_type": "detail",
+    "fetched_at": "2026-10-20T00:32:51.445Z",
+    "first_seen": "2026-10-20T00:32:51.445Z",
+    "match_score": 47,
+    "match_reason": "全国対象 / 専門一致: デジタル,製造業",
     "llm_processed": false
   },
   {
@@ -1511,6 +1544,22 @@
     "first_seen": "2026-10-09T01:20:30.853Z",
     "match_score": 39,
     "match_reason": "エリア一致(東京都) / 近郊(東京)",
+    "llm_processed": false
+  },
+  {
+    "id": "4fc6ea956e65",
+    "title": "女性創業者交流会の募集を開始しました",
+    "org": "東京信用保証協会",
+    "source_id": "tokyo-cgc",
+    "category": "guarantee",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://www.cgc-tokyo.or.jp/assistplaza/lecture/202611-26.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-20T00:32:51.445Z",
+    "first_seen": "2026-10-20T00:32:51.445Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
     "llm_processed": false
   },
   {
@@ -2598,6 +2647,22 @@
     "source_type": "detail",
     "fetched_at": "2026-09-16T23:45:08.895Z",
     "first_seen": "2026-09-16T23:45:08.895Z",
+    "match_score": 28,
+    "match_reason": "全国対象",
+    "llm_processed": false
+  },
+  {
+    "id": "1679392949a3",
+    "title": "岐阜県よろず支援拠点 コーディネーター公募を開始いたしました。（令和８年１１月６日（金）１７時必着）",
+    "org": "よろず支援拠点 全国本部 公募一覧",
+    "source_id": "yorozu-honbu",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.gpc-gifu.or.jp/topics/2026101901/index.asp",
+    "source_type": "detail",
+    "fetched_at": "2026-10-20T00:32:51.445Z",
+    "first_seen": "2026-10-20T00:32:51.445Z",
     "match_score": 28,
     "match_reason": "全国対象",
     "llm_processed": false

@@ -1,11 +1,21 @@
-# 公的機関 案件レポート (2026-10-19)
+# 公的機関 案件レポート (2026-10-20)
 
-- 収集済み: 167件（うち募集中・通年など 155件）
-- 今回の新着: 0件 / 取得失敗: 10件
+- 収集済み: 171件（うち募集中・通年など 159件）
+- 今回の新着: 5件 / 取得失敗: 14件
 
 ## ⏰ 締切間近
 
-- **あと14日** [その他 企業支援 グローバル 専門家が解説！外資系企業の日本展開のポイント ～税務・会計編【センター共催】 2026年11月5日（木）18:00 - 20:00（受付開始は17:30）](https://minato-sansin.com/events/kyosai20261105)（港区立産業振興センター / 締切 2026-11-02）
+- **あと3日** [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar)（さいたま市産業創造財団 / 締切 2026-10-23）
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 49 | [第40期創業スクールの募集を開始しました](https://www.cgc-tokyo.or.jp/assistplaza/school/202701-02.html) | 東京信用保証協会 | 東京都 | 2026-12-21 |  |
+| 47 | [ミッションご登録フォーム](https://www.jetro.go.jp/form5/pub/lvi/2026laosmission01) | JETRO 調達・公募情報 | 全国 | 不明 |  |
+| 39 | [女性創業者交流会の募集を開始しました](https://www.cgc-tokyo.or.jp/assistplaza/lecture/202611-26.html) | 東京信用保証協会 | 東京都 | 不明 |  |
+| 38 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 募集中 |  |
+| 28 | [岐阜県よろず支援拠点 コーディネーター公募を開始いたしました。（令和８年１１月６日（金）１７時必着）](https://www.gpc-gifu.or.jp/topics/2026101901/index.asp) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -52,10 +62,12 @@
 | 49 | [総合相談業務における専門相談員の募集について＜総合相談事業＞](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2606/12_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-07-20 | ⚠6.応募要件（令和8年9月1日時点で以下のすべてを満たす方） (1)税務専門相談員 公認会計士/税理士を取得後5年以上経過し、かつ当該専門分野に関する事業を主とする方。 /  |
 | 49 | [令和８年度 創業スクールの募集を開始しました](https://tochigi-network.com/event/3077) | 宇都宮商工会議所 | 栃木県宇都宮市 | 2026-10-08 |  |
 | 49 | [課題解決型技術開発促進事業（試作品開発・改良助成）に係る「コーディネータ」募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2609/11_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-12-01 |  |
+| 49 | [第40期創業スクールの募集を開始しました](https://www.cgc-tokyo.or.jp/assistplaza/school/202701-02.html) | 東京信用保証協会 | 東京都 | 2026-12-21 |  |
 | 47 | [登録専門家データベース](https://www.iis-net.or.jp/page?kind=senmonka_link) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 47 | [2026.07.06 令和８年度 アクセラレーションプログラム募集開始](https://startup-station.jp/info20260706) | TOKYO創業ステーション | 東京都 | 不明 |  |
 | 47 | [第６１回スーパーマーケット・トレードショー2027栃木県ブース出展者の募集延長について](https://www.tochigi-iin.or.jp/home/10/4538.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
 | 47 | [2026.09.14 鳩ヶ谷支部 御成道追い風不動地蔵院トワイライトキャンドルズ2026の出店事業所募集](https://kawaguchicci.or.jp/news/hatogaya_branch/%e5%be%a1%e6%88%90%e9%81%93%e8%bf%bd%e3%81%84%e9%a2%a8%e4%b8%8d%e5%8b%95%e5%9c%b0%e8%94%b5%e9%99%a2%e3%83%88%e3%83%af%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%83%ab.html) | 川口商工会議所 | 埼玉県川口市 | 2025-11-16 |  |
+| 47 | [ミッションご登録フォーム](https://www.jetro.go.jp/form5/pub/lvi/2026laosmission01) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 46 | [公募情報](https://www.smrj.go.jp/procurement/solicitation/index.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
 | 46 | [経営相談・資金調達](https://www.tokyo-cci.or.jp/soudan) | 東京商工会議所 | 東京都 | 不明 |  |
 | 46 | [専門家派遣](https://www.tcci.jp/cat01/soudan/senmonkahaken) | 土浦商工会議所 | 茨城県土浦市 | 不明 |  |
@@ -97,6 +109,7 @@
 | 39 | [募集情報 『ベンチャーピッチHANEDA in TIB 2026』 登壇者募集について 2026-09-28 創業者・スタートアップを対象に、VC・CVC などの投資機関や企業などへのピッチを行い、マッチング・資金調達につなげます。資金調達や事業連携・販路拡大などにより事業を成長させたい方はぜひお申し込みください。 詳細 名称ベンチャーピッチHANEDA in TIB 2026開催日時令和８（2026）年11月26日(木)14時～17時【ピッチ】14時～16時 各社ピッチ時間：７分 質疑応答：３分【交流会】16時～17時会場Tokyo Innovation Base（TIB） 東京都千代田区丸の内3-8-3応募資格要件（１）起業後15年以内の中小企業であること。（２）大田区内において事業展開を行っている、又は行おうとしていること。（３）業種、募集テーマは不問（公序良俗等の観点から適当でないと認められる業種は対象となりません）。（４）風俗営業法（昭和23年日法律第122号）第2条第1項に規定する営業を行っていない者。（５）大田区暴力団排除条例（平成24年大田区条例第38号）に規定する暴力団又は暴力団員と密接な関係を有する者でないこと。（６）協会が実施するアンケート等（会期後）に協力すること。参加費無料登壇企業の決定書面審査によって10者程度選定します。審査基準（１）成長性（２）新規性（３）市場性（４）地域貢献性（５）熱意スケジュール【書類審査】令和８（2026）年10月中旬～10月下旬【結果通知】令和８（2026）年10月下旬～11月上旬申込方法募集要項をご確認のうえ、以下の提出書類と合わせて下記申込フォームからお申込みください。【提出書類】（１）ピッチ資料以下の説明内容を含むピッチ資料（ドラフト版でかまいません）①製品・サービスの名称・概要②上記製品・サービスを用いてどのように社会課題を解決するのか③製品・サービスの特徴・優位性・市場規模など④製品・サービスの導入までの現在の状況・全体スケジュール⑤上記以外のPRする内容ページ数：10ページ以内ファイル形式：pdf（２）製品・サービスが分かる補足資料（任意）申込締切令和８（2026）年10月16日（金）17時まで主催公益財団法人大田区産業振興協会 申込はこちら ……](https://www.pio-ota.jp/news/recruitment/open-call/haneda_in_tib2026_todansha) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 39 | [「第61回スーパーマーケット・トレードショー2027」展示ブース装飾業務委託に係る公募型プロポーザルの質問及び回答について](https://www.tochigi-iin.or.jp/home/10/4554.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
 | 39 | [航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）に係る「コーディネータ」の随時募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/09_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 通年 |  |
+| 39 | [女性創業者交流会の募集を開始しました](https://www.cgc-tokyo.or.jp/assistplaza/lecture/202611-26.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 佐藤 創 So Sato IT企業のプロジェクトマネージャーが、輝く中小企業の創出を志し、中小企業診断士資格を取得、公的支援者へ転身！](https://yorozu.smrj.go.jp/recruit/voice_miyagi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 水岡 希久子 Kikuko Mizuoka フリーランスライター、ダイニングバーのオーナーシェフなど、多様な経験を活かして、最年少でCCOに！](https://yorozu.smrj.go.jp/recruit/voice_yamaguchi) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 38 | [よろず支援拠点 チーフコーディネーター 森友 伸和 Moritomo Nobukazu 自ら起業した特産品ビジネスで、ネット通販１位、多店舗展開を実現した実績を伴い、満を持してよろず支援拠点に！](https://yorozu.smrj.go.jp/recruit/voice_kagoshima) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
@@ -161,6 +174,7 @@
 | 28 | [公募情報](https://www.jetro.go.jp/procurement/publicoffer.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（第2回）（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000aago.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-16 |  |
+| 28 | [岐阜県よろず支援拠点 コーディネーター公募を開始いたしました。（令和８年１１月６日（金）１７時必着）](https://www.gpc-gifu.or.jp/topics/2026101901/index.asp) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 23 | [2026年度調達見通し（123KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20261001.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 18 | [「令和9・10月度入札参加資格審査申請受付開始」のお知らせ](https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html) | 真岡商工会議所 | 栃木県真岡市 | 2027-04-01 |  |
@@ -171,12 +185,16 @@
 
 - chusho119: fetch failed: https://chusho119.go.jp/ (TypeError: fetch failed)
 - chusho-nintei: fetch failed: https://www.chusho.meti.go.jp/keiei/kakushin/nintei/ (Error: HTTP 403)
-- jetro-procurement: fetch failed: https://www.jetro.go.jp/procurement/ (Error: HTTP 503)
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
+- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
 - ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
+- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
+- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
