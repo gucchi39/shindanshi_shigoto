@@ -1,21 +1,14 @@
-# 公的機関 案件レポート (2026-10-20)
+# 公的機関 案件レポート (2026-10-21)
 
 - 収集済み: 171件（うち募集中・通年など 159件）
-- 今回の新着: 5件 / 取得失敗: 14件
-
-## ⏰ 締切間近
-
-- **あと3日** [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar)（さいたま市産業創造財団 / 締切 2026-10-23）
+- 今回の新着: 2件 / 取得失敗: 8件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 49 | [第40期創業スクールの募集を開始しました](https://www.cgc-tokyo.or.jp/assistplaza/school/202701-02.html) | 東京信用保証協会 | 東京都 | 2026-12-21 |  |
-| 47 | [ミッションご登録フォーム](https://www.jetro.go.jp/form5/pub/lvi/2026laosmission01) | JETRO 調達・公募情報 | 全国 | 不明 |  |
-| 39 | [女性創業者交流会の募集を開始しました](https://www.cgc-tokyo.or.jp/assistplaza/lecture/202611-26.html) | 東京信用保証協会 | 東京都 | 不明 |  |
-| 38 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 募集中 |  |
-| 28 | [岐阜県よろず支援拠点 コーディネーター公募を開始いたしました。（令和８年１１月６日（金）１７時必着）](https://www.gpc-gifu.or.jp/topics/2026101901/index.asp) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 56 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -188,13 +181,7 @@
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
-- utsunomiya-cci: fetch failed: https://www.u-cci.or.jp/ (TypeError: fetch failed)
-- tochigi-shoukei: fetch failed: https://tochigi-hikitsugi.go.jp/ (TypeError: fetch failed)
-- ib-shokoren: fetch failed: https://www.ib-shokoren.or.jp/ (TypeError: fetch failed)
-- koga-cci: fetch failed: https://kogacci.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- minato-sansin: fetch failed: https://minato-sansin.com/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
-- tokyo-yorozu: fetch failed: https://tokyoyorozu.go.jp/ (TypeError: fetch failed)
 
