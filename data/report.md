@@ -1,14 +1,16 @@
-# 公的機関 案件レポート (2026-10-21)
+# 公的機関 案件レポート (2026-10-22)
 
-- 収集済み: 171件（うち募集中・通年など 159件）
-- 今回の新着: 2件 / 取得失敗: 8件
+- 収集済み: 173件（うち募集中・通年など 161件）
+- 今回の新着: 4件 / 取得失敗: 11件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
 | 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
-| 56 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 32 | [2026年10月21日 NEW! 足利商工会議所 臨時職員採用募集要項](https://www.ashikaga.info/youai_info/18590.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
+| 28 | [令和9年度に向けた海外展開支援に係る中小企業アドバイザーの募集［中小機構の各地域本部等を拠点として活動する専門家］](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000c6sw.html) | 中小機構 調達・公募情報 | 全国 | 2026-10-21 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -160,6 +162,7 @@
 | 33 | [2026.09.18 関係機関からお知らせ 派遣労働者の同一労働同一賃金が改正（10月１日より施行）](https://kawaguchicci.or.jp/news/cciinformation/haken_kaisei.html) | 川口商工会議所 | 埼玉県川口市 | 不明 |  |
 | 33 | [2026年9月24日 政策提言・要望 「法人の実質的支配者情報の把握・登録等に関する新制度に対する意見」を公表しました](https://www.tokyo-cci.or.jp/page.jsp?id=1210838) | 東京商工会議所 | 東京都 | 不明 |  |
 | 32 | [2026年6月24日 花火大会翌日の清掃ボランティア募集](https://www.ashikaga.info/youai_info/17802.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
+| 32 | [2026年10月21日 NEW! 足利商工会議所 臨時職員採用募集要項](https://www.ashikaga.info/youai_info/18590.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
 | 28 | [調達・公募情報](https://www.smrj.go.jp/procurement/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000016ia.html) | 中小機構 調達・公募情報 | 全国 | 2026-07-06 |  |
 | 28 | [競争参加資格登録制度（物品製造等）の廃止について](https://www.smrj.go.jp/procurement/bid/qualification/index.html) | 中小機構 調達・公募情報 | 全国 | 不明 |  |
@@ -168,6 +171,7 @@
 | 28 | [（令和6年度補正予算）グローバルネットワーク形成支援事業（公募型）に係る参加企業の公募について](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000003pmt.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-03 |  |
 | 28 | [令和8年度 地方公共団体アドバイザー（産業用地）及び機構サポーター（産業用地）の募集（第2回）（高度化事業部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000aago.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-16 |  |
 | 28 | [岐阜県よろず支援拠点 コーディネーター公募を開始いたしました。（令和８年１１月６日（金）１７時必着）](https://www.gpc-gifu.or.jp/topics/2026101901/index.asp) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
+| 28 | [令和9年度に向けた海外展開支援に係る中小企業アドバイザーの募集［中小機構の各地域本部等を拠点として活動する専門家］](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000c6sw.html) | 中小機構 調達・公募情報 | 全国 | 2026-10-21 |  |
 | 23 | [2026年度調達見通し（123KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20261001.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 18 | [協力団体 【大田区】おおた健康経営事業所募集のご案内 2026-07-13](https://www.city.ota.tokyo.jp/seikatsu/hoken/jigyousha/kenko_jigyousyo/ota-kenko-keiei.html) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 18 | [「令和9・10月度入札参加資格審査申請受付開始」のお知らせ](https://www.city.moka.lg.jp/shigoto_sangyo/nyusatsu/10/27269.html) | 真岡商工会議所 | 栃木県真岡市 | 2027-04-01 |  |
@@ -178,9 +182,12 @@
 
 - chusho119: fetch failed: https://chusho119.go.jp/ (TypeError: fetch failed)
 - chusho-nintei: fetch failed: https://www.chusho.meti.go.jp/keiei/kakushin/nintei/ (Error: HTTP 403)
+- inpit-chizai: fetch failed: https://chizai-portal.inpit.go.jp/ (Error: HTTP 503)
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
+- tochigi-cgc: fetch failed: https://www.cgc-tochigi.or.jp/ (TypeError: fetch failed)
+- iis-net: fetch failed: https://www.iis-net.or.jp/ (TypeError: fetch failed)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)

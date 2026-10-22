@@ -2520,6 +2520,22 @@
     "llm_processed": false
   },
   {
+    "id": "69167e1ff5aa",
+    "title": "2026年10月21日 NEW! 足利商工会議所 臨時職員採用募集要項",
+    "org": "足利商工会議所",
+    "source_id": "ashikaga-cci",
+    "category": "cci",
+    "area": "栃木県足利市",
+    "status": "不明",
+    "url": "https://www.ashikaga.info/youai_info/18590.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-22T00:08:14.622Z",
+    "first_seen": "2026-10-22T00:08:14.622Z",
+    "match_score": 32,
+    "match_reason": "エリア一致(栃木県) / 専門一致: 経営革新,創業 / 減点: 職員採用,臨時職員",
+    "llm_processed": false
+  },
+  {
     "id": "6d2e5ecdff82",
     "title": "結城第一工業団地繁昌塚南地区画地追加募集について",
     "org": "結城商工会議所",
@@ -2663,6 +2679,23 @@
     "source_type": "detail",
     "fetched_at": "2026-10-20T00:32:51.445Z",
     "first_seen": "2026-10-20T00:32:51.445Z",
+    "match_score": 28,
+    "match_reason": "全国対象",
+    "llm_processed": false
+  },
+  {
+    "id": "7b18a11cce33",
+    "title": "令和9年度に向けた海外展開支援に係る中小企業アドバイザーの募集［中小機構の各地域本部等を拠点として活動する専門家］",
+    "org": "中小機構 調達・公募情報",
+    "source_id": "smrj-procurement",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-10-21",
+    "status": "不明",
+    "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp000000c6sw.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-22T00:08:14.622Z",
+    "first_seen": "2026-10-22T00:08:14.622Z",
     "match_score": 28,
     "match_reason": "全国対象",
     "llm_processed": false
