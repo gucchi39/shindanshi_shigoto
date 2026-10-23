@@ -1,19 +1,14 @@
-# 公的機関 案件レポート (2026-10-23)
+# 公的機関 案件レポート (2026-10-24)
 
-- 収集済み: 176件（うち募集中・通年など 164件）
-- 今回の新着: 4件 / 取得失敗: 13件
-
-## ⏰ 締切間近
-
-- **本日締切** [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar)（さいたま市産業創造財団 / 締切 2026-10-23）
+- 収集済み: 177件（うち募集中・通年など 165件）
+- 今回の新着: 3件 / 取得失敗: 13件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 66 | [とちぎ学生アイデアピッチバトル2026後援登録について（大学コンソーシアムとちぎ）](https://www.tochigi-iin.or.jp/home/12/2210.html) | 栃木県産業振興センター | 栃木県 | 2026-11-02 |  |
-| 41 | [三重県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１１月４日（水)）正午必着）](https://www.miesc.or.jp/2026/10/22/905423) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
-| 41 | [三重県よろず支援拠点 生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月４日（水） 正午必着）](https://www.miesc.or.jp/2026/10/22/905426) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
+| 69 | [2026/10/14【募集中】プチ起業セミナー 開催！(12/8)](https://taito-sangyo.jp/2026/10/14/minikigyo) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
@@ -34,6 +29,7 @@
 | 69 | [2026/07/27【募集中】「人材採用セミナー」を開催します！](https://taito-sangyo.jp/2026/07/27/zinzaisaiyou) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 69 | [2026/08/05【募集中】財務セミナー「会社のお金の全体像」 を開催します！](https://taito-sangyo.jp/2026/08/05/zaimu-seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 69 | [2026/09/09【募集中】契約セミナーを開催します！](https://taito-sangyo.jp/2026/09/09/keiyaku_seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
+| 69 | [2026/10/14【募集中】プチ起業セミナー 開催！(12/8)](https://taito-sangyo.jp/2026/10/14/minikigyo) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 67 | [中小企業大学校研修「はじめて学ぶ！実践的仕事管理術」募集（研修期間：12/15・16）【（独）中小機構】](https://www.smrj.go.jp/institute/tokyo/training/sme/2026/TO256085.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 募集中 |  |
 | 66 | [専門家派遣事業](https://www.kumagayacci.or.jp/management_support/seminar-information) | 熊谷商工会議所 | 埼玉県熊谷市 | 募集中 |  |
 | 66 | [とちぎ学生アイデアピッチバトル2026後援登録について（大学コンソーシアムとちぎ）](https://www.tochigi-iin.or.jp/home/12/2210.html) | 栃木県産業振興センター | 栃木県 | 2026-11-02 |  |
@@ -193,11 +189,11 @@
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
 - tochigi-cgc: fetch failed: https://www.cgc-tochigi.or.jp/ (TypeError: fetch failed)
-- ibaraki-cgc: fetch failed: https://icgc.or.jp/ (Error: HTTP 503)
 - mito-cci: fetch failed: https://mito.inetcci.or.jp/ (Error: HTTP 503)
 - yuuki-cci: fetch failed: https://yuuki.inetcci.or.jp/ (Error: HTTP 503)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - saitama-dx: fetch failed: https://www.saitamadx.com/recruitment/ (Error: HTTP 503)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
+- tokyo-kosha-senmonka: fetch failed: https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/index.html (Error: HTTP 502)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
 
