@@ -1,15 +1,19 @@
-# 公的機関 案件レポート (2026-10-22)
+# 公的機関 案件レポート (2026-10-23)
 
-- 収集済み: 173件（うち募集中・通年など 161件）
-- 今回の新着: 4件 / 取得失敗: 11件
+- 収集済み: 176件（うち募集中・通年など 164件）
+- 今回の新着: 4件 / 取得失敗: 13件
+
+## ⏰ 締切間近
+
+- **本日締切** [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar)（さいたま市産業創造財団 / 締切 2026-10-23）
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
-| 32 | [2026年10月21日 NEW! 足利商工会議所 臨時職員採用募集要項](https://www.ashikaga.info/youai_info/18590.html) | 足利商工会議所 | 栃木県足利市 | 不明 |  |
-| 28 | [令和9年度に向けた海外展開支援に係る中小企業アドバイザーの募集［中小機構の各地域本部等を拠点として活動する専門家］](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000c6sw.html) | 中小機構 調達・公募情報 | 全国 | 2026-10-21 |  |
+| 66 | [とちぎ学生アイデアピッチバトル2026後援登録について（大学コンソーシアムとちぎ）](https://www.tochigi-iin.or.jp/home/12/2210.html) | 栃木県産業振興センター | 栃木県 | 2026-11-02 |  |
+| 41 | [三重県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１１月４日（水)）正午必着）](https://www.miesc.or.jp/2026/10/22/905423) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
+| 41 | [三重県よろず支援拠点 生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月４日（水） 正午必着）](https://www.miesc.or.jp/2026/10/22/905426) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
@@ -32,6 +36,7 @@
 | 69 | [2026/09/09【募集中】契約セミナーを開催します！](https://taito-sangyo.jp/2026/09/09/keiyaku_seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 67 | [中小企業大学校研修「はじめて学ぶ！実践的仕事管理術」募集（研修期間：12/15・16）【（独）中小機構】](https://www.smrj.go.jp/institute/tokyo/training/sme/2026/TO256085.html) | 宇都宮商工会議所 | 栃木県宇都宮市 | 募集中 |  |
 | 66 | [専門家派遣事業](https://www.kumagayacci.or.jp/management_support/seminar-information) | 熊谷商工会議所 | 埼玉県熊谷市 | 募集中 |  |
+| 66 | [とちぎ学生アイデアピッチバトル2026後援登録について（大学コンソーシアムとちぎ）](https://www.tochigi-iin.or.jp/home/12/2210.html) | 栃木県産業振興センター | 栃木県 | 2026-11-02 |  |
 | 64 | [2026.07.28 【募集中】＜丸の内＞３F Advance Port/８月のイベント](https://startup-station.jp/info20260728) | TOKYO創業ステーション | 東京都 | 2026-08-21 |  |
 | 63 | [23支部の相談窓口 23支部の相談窓口では、主に小規模事業者を対象に、マル経融資（小規模事業者経営改善資金）などの資金調達や、専門家（弁護士・税理士など）への相談対応などの経営支援を行っています。 詳しくはこちら](https://www.tokyo-cci.or.jp/soudan/branch) | 東京商工会議所 | 東京都 | 不明 |  |
 | 63 | [ホームステイ受入家庭募集のご案内](https://www.kawagoe.or.jp/xo_event/%e3%83%9b%e3%83%bc%e3%83%a0%e3%82%b9%e3%83%86%e3%82%a4%e5%8f%97%e5%85%a5%e5%ae%b6%e5%ba%ad%e5%8b%9f%e9%9b%86%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85) | 川越商工会議所 | 埼玉県川越市 | 2026-03-31 |  |
@@ -91,6 +96,8 @@
 | 41 | [生産性向上支援サポーターの公募を開始しました。（公募一覧）](https://yorozu.smrj.go.jp/wp-content/uploads/2026/03/236e166a1773a42835b6316136cbc1bb.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-03-30 |  |
 | 41 | [「海外展開初心者セミナー『海外展開専門家の活動報告から見る“茨城の食品輸出の今”』オンデマンド配信」のご案内](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/20260619ondemand.pdf) | いばらき中小企業グローバル推進機構 | 茨城県 | 2026-09-30 |  |
 | 41 | [募集 第２回海外取引セミナー 商社を活用した販路拡大サポート～海外販路開拓の新たな選択肢をご紹介します～ 2026-08-18 海外展開に関心はあるものの、「何から始めればよいかわからない」「海外営業の人材がいない」「海外企業との直接取引に不安がある」と感じていませんか。 本セミナーでは、海外販路開拓の手段の一つである「商社の活用」をテーマに、商社の役割やメリット・デメリット、海外取引の流れを分かりやすく解説します。 また、韓国市場への販路開拓を支援する商社と、国内外に幅広いネットワークを持つ技術系専門商社を講師に迎え、市場動向や取扱商材、商社活用のポイントをご紹介します。さらに、商社を活用して海外取引を開始した区内企業の事例もご紹介予定です。 海外展開や新たな販路開拓をご検討中の企業の皆様は、ぜひご参加ください。 講師及び内容 GSジャパン株式会社韓国市場の"今"がわかる！韓国市場の最新動向や、現地で求められる製品・技術、商社を活用した海外販路開拓のポイントを分かりやすく解説します。株式会社ニシヤマ100年以上の実績を持つ技術系専門商社が登壇！国内外に広がるネットワークを活かした海外販路開拓や、海外展開支援の実例をご紹介します。区内企業（調整中）商社を活用した海外取引のリアルを紹介！商社を活用して海外取引を開始した区内企業から、実際の取り組みや成果をご紹介いただく予定です。 開催概要 主催者公益財団法人大田区産業振興協会開催日時令和８年10月６日（火）15:00～16:30会場大田区産業プラザAB会議室参加資格大田区に事業所を有する中小企業参加費用無料申込方法下記申込フォームからお申し込みください。 申込はこちら ……](https://www.pio-ota.jp/news/recruitment/kaigai_torihikiseminar) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
+| 41 | [三重県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１１月４日（水)）正午必着）](https://www.miesc.or.jp/2026/10/22/905423) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
+| 41 | [三重県よろず支援拠点 生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月４日（水） 正午必着）](https://www.miesc.or.jp/2026/10/22/905426) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
 | 40 | [2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ](https://chizai-portal.inpit.go.jp/news-info/news555.html) | INPIT 知財総合支援窓口 | 全国 | 2026-07-10 |  |
 | 40 | [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html) | INPIT 知財総合支援窓口 | 全国 | 2026-09-15 |  |
 | 39 | [募集情報 HANEDA共創プラットフォーム 「Haneda Next Makers -ベンチャーフレンドリー2026-」 年度会員募集および第1回7/21(火) 開催のご案内 2026-07-09](https://piopark.net/info/detail/383) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
@@ -182,13 +189,15 @@
 
 - chusho119: fetch failed: https://chusho119.go.jp/ (TypeError: fetch failed)
 - chusho-nintei: fetch failed: https://www.chusho.meti.go.jp/keiei/kakushin/nintei/ (Error: HTTP 403)
-- inpit-chizai: fetch failed: https://chizai-portal.inpit.go.jp/ (Error: HTTP 503)
 - kanto-meti-oi: fetch failed: https://www.kanto.meti.go.jp/seisaku/open_innovation/index.html (Error: HTTP 403)
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
 - tochigi-cgc: fetch failed: https://www.cgc-tochigi.or.jp/ (TypeError: fetch failed)
-- iis-net: fetch failed: https://www.iis-net.or.jp/ (TypeError: fetch failed)
+- ibaraki-cgc: fetch failed: https://icgc.or.jp/ (Error: HTTP 503)
+- mito-cci: fetch failed: https://mito.inetcci.or.jp/ (Error: HTTP 503)
+- yuuki-cci: fetch failed: https://yuuki.inetcci.or.jp/ (Error: HTTP 503)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
+- saitama-dx: fetch failed: https://www.saitamadx.com/recruitment/ (Error: HTTP 503)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
 
