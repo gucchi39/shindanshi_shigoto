@@ -244,6 +244,23 @@
     "llm_processed": false
   },
   {
+    "id": "1fbf492b45a7",
+    "title": "2026/10/19【募集】女性創業者・メンター交流会2026を開催します！",
+    "org": "台東区産業振興事業団",
+    "source_id": "taito-sangyo",
+    "category": "city",
+    "area": "東京都台東区",
+    "deadline": "2026-12-19",
+    "status": "募集中",
+    "url": "https://taito-sangyo.jp/2026/10/19/mentor2026",
+    "source_type": "detail",
+    "fetched_at": "2026-10-27T00:41:42.714Z",
+    "first_seen": "2026-10-27T00:41:42.714Z",
+    "match_score": 69,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: デジタル,販路開拓,創業",
+    "llm_processed": false
+  },
+  {
     "id": "3f3773252b1a",
     "title": "中小企業大学校研修「はじめて学ぶ！実践的仕事管理術」募集（研修期間：12/15・16）【（独）中小機構】",
     "org": "宇都宮商工会議所",
@@ -1627,6 +1644,22 @@
     "first_seen": "2026-10-20T00:32:51.445Z",
     "match_score": 39,
     "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
+    "id": "6a1b43202316",
+    "title": "「次世代自動車部品展示見学会」に係る展示業務公募型プロポーザルの実施について",
+    "org": "栃木県産業振興センター",
+    "source_id": "tochigi-iin",
+    "category": "prefecture",
+    "area": "栃木県",
+    "status": "不明",
+    "url": "https://www.tochigi-iin.or.jp/home/10/4559.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-27T00:41:42.714Z",
+    "first_seen": "2026-10-27T00:41:42.714Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(栃木県) / 近郊(宇都宮) / 専門一致: 創業",
     "llm_processed": false
   },
   {
