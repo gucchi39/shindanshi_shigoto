@@ -163,6 +163,23 @@
     "llm_processed": false
   },
   {
+    "id": "71dfee9327d6",
+    "title": "「持続的な成長に向けた経営強靭化事業」における専門家の募集について",
+    "org": "東京都中小企業振興公社 専門家募集",
+    "source_id": "tokyo-kosha-senmonka",
+    "category": "prefecture",
+    "area": "東京都",
+    "deadline": "2026-11-12",
+    "status": "不明",
+    "url": "https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/26-01.html",
+    "source_type": "detail",
+    "fetched_at": "2026-10-28T00:40:13.968Z",
+    "first_seen": "2026-10-28T00:40:13.968Z",
+    "match_score": 73,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: DX,AI,デジタル化,新規事業,生産性向上",
+    "llm_processed": false
+  },
+  {
     "id": "0b61f65408b0",
     "title": "8/7まで！企業の挑戦、募集中！ 投稿日 2026年6月18日",
     "org": "熊谷商工会議所",

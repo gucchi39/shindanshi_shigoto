@@ -1,15 +1,13 @@
-# 公的機関 案件レポート (2026-10-27)
+# 公的機関 案件レポート (2026-10-28)
 
-- 収集済み: 179件（うち募集中・通年など 167件）
-- 今回の新着: 4件 / 取得失敗: 13件
+- 収集済み: 180件（うち募集中・通年など 168件）
+- 今回の新着: 2件 / 取得失敗: 10件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 69 | [2026/10/19【募集】女性創業者・メンター交流会2026を開催します！](https://taito-sangyo.jp/2026/10/19/mentor2026) | 台東区産業振興事業団 | 東京都台東区 | 2026-12-19 |  |
-| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
-| 39 | [「次世代自動車部品展示見学会」に係る展示業務公募型プロポーザルの実施について](https://www.tochigi-iin.or.jp/home/10/4559.html) | 栃木県産業振興センター | 栃木県 | 不明 |  |
+| 73 | [「持続的な成長に向けた経営強靭化事業」における専門家の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/26-01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-11-12 |  |
 | 36 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
@@ -26,6 +24,7 @@
 | 73 | [東京都よろず支援拠点「生産性向上支援サポーター」の公募について](https://tokyoyorozu.go.jp/news/2026-06-24) | 東京都よろず支援拠点 | 東京都 | 不明 |  |
 | 73 | [【埼玉県】「経営サポーター」事業のご案内](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e3%80%91%e3%80%8c%e7%b5%8c%e5%96%b6%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%8d%e4%ba%8b%e6%a5%ad%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 73 | [専門家相談](https://www.kawagoe.or.jp/expert-consultation) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
+| 73 | [「持続的な成長に向けた経営強靭化事業」における専門家の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/26-01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-11-12 |  |
 | 70 | [8/7まで！企業の挑戦、募集中！ 投稿日 2026年6月18日](https://www.kumagayacci.or.jp/bizkuma/bizkuma-17094) | 熊谷商工会議所 | 埼玉県熊谷市 | 2026-08-07 |  |
 | 69 | [2026/07/27【募集中】「人材採用セミナー」を開催します！](https://taito-sangyo.jp/2026/07/27/zinzaisaiyou) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 69 | [2026/08/05【募集中】財務セミナー「会社のお金の全体像」 を開催します！](https://taito-sangyo.jp/2026/08/05/zaimu-seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
@@ -192,11 +191,8 @@
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
 - tochigi-cgc: fetch failed: https://www.cgc-tochigi.or.jp/ (TypeError: fetch failed)
-- mito-cci: fetch failed: https://mito.inetcci.or.jp/ (Error: HTTP 503)
-- yuuki-cci: fetch failed: https://yuuki.inetcci.or.jp/ (Error: HTTP 503)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - saitama-dx: fetch failed: https://www.saitamadx.com/recruitment/ (Error: HTTP 503)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
-- tokyo-kosha-senmonka: fetch failed: https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/index.html (Error: HTTP 502)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
 
