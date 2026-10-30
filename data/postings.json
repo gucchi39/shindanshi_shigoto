@@ -1437,6 +1437,22 @@
     "llm_processed": false
   },
   {
+    "id": "0429f0443a92",
+    "title": "愛知県よろず支援拠点生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月１３日（金) 17：00 まで 必着）",
+    "org": "よろず支援拠点 全国本部 公募一覧",
+    "source_id": "yorozu-honbu",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.aibsc.jp/support/63392",
+    "source_type": "detail",
+    "fetched_at": "2026-10-30T01:16:23.907Z",
+    "first_seen": "2026-10-30T01:16:23.907Z",
+    "match_score": 41,
+    "match_reason": "全国対象 / 専門一致: 生産性向上",
+    "llm_processed": false
+  },
+  {
     "id": "24d95df9c65b",
     "title": "2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ",
     "org": "INPIT 知財総合支援窓口",
@@ -1693,6 +1709,22 @@
     "first_seen": "2026-10-27T00:41:42.714Z",
     "match_score": 39,
     "match_reason": "エリア一致(栃木県) / 近郊(宇都宮) / 専門一致: 創業",
+    "llm_processed": false
+  },
+  {
+    "id": "e1c70406146f",
+    "title": "2026.10.29 ＜TAMA＞相談員変更のお知らせ 10月、11月、12月",
+    "org": "TOKYO創業ステーション",
+    "source_id": "startup-station",
+    "category": "incubation",
+    "area": "東京都",
+    "status": "不明",
+    "url": "https://startup-station.jp/info20261029tama",
+    "source_type": "detail",
+    "fetched_at": "2026-10-30T01:16:23.907Z",
+    "first_seen": "2026-10-30T01:16:23.907Z",
+    "match_score": 39,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 創業",
     "llm_processed": false
   },
   {
@@ -2632,6 +2664,22 @@
     "source_type": "detail",
     "fetched_at": "2026-09-26T00:02:33.526Z",
     "first_seen": "2026-09-26T00:02:33.526Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(東京都) / 近郊(東京)",
+    "llm_processed": false
+  },
+  {
+    "id": "d2fea28de841",
+    "title": "募集情報 12/10（木）医工共創セミナー開催のお知らせ 2026-10-30 本セミナーでは、ものづくり技術を新たな価値につなげるための考え方や、医療現場が抱える課題・ニーズ（事例等）をご紹介します！自社技術の可能性を広げ、医療機関との連携や新たなビジネスチャンスを探るきっかけづくりとして、ぜひご参加ください！ 日時令和８年12月10日(木)15:00～17:30 ※受付開始14：30～予定タイトル医工共創セミナー『ものづくりの技術を医療の未来へ』講師・講演内容「医療機器分野への参入障壁を乗り越える！自社の強みの活かし方とプロモーション」 柏野 聡彦 ⽒（株式会社日本医工研究所 代表取締役/一般社団法人日本医工ものづくりコモンズ 副理事長/東京都医工連携HUB機構 プロジェクトマネージャー/HANEDA INNOVATION CITY 先端産業創造委員会）「医療・看護現場の声をかたちにする ― 看護師と企業が取り組んだ課題解決事例の紹介 ―」眞野 惠⼦ ⽒（学校法人藤田学園 藤田医科大学病院統括本部 統括看護部⻑）場 所PiO PARK（羽田イノベーションシティ内Zone K201）（大田区羽田空港一丁目1番4号）京浜急行電鉄空港線・東京モノレール「天空橋」駅直結アクセス詳細はこちら対象企業大田区に事業所を有する企業で下記に該当する方（原則）・医療・ライフサイエンス分野への参入に関⼼のある⽅・自社技術の新たな活⽤先やビジネスチャンスを探している方参加費無料申込方法下記申込フォームからお申込みください。セミナーチラシはこちら定員先着50名主催公益財団法人 大田区産業振興協会※協力：HANEDA INNOVATION CITY先端産業創造委員会（参考）2026年3月5日 HICityを医工連携の国際的ハブへ「羽田から拓く、医療イノベーションの未来」をPiO PARKにて開催 申込フォームはこちら ……",
+    "org": "大田区産業振興協会",
+    "source_id": "pio-ota",
+    "category": "city",
+    "area": "東京都大田区",
+    "status": "不明",
+    "url": "https://www.pio-ota.jp/news/recruitment/open-call/ikou_seminar",
+    "source_type": "detail",
+    "fetched_at": "2026-10-30T01:16:23.907Z",
+    "first_seen": "2026-10-30T01:16:23.907Z",
     "match_score": 33,
     "match_reason": "エリア一致(東京都) / 近郊(東京)",
     "llm_processed": false
