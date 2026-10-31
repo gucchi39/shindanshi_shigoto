@@ -2685,6 +2685,22 @@
     "llm_processed": false
   },
   {
+    "id": "6c71d2565d81",
+    "title": "【募集】「フュージョンエネルギーフォーラム2026」のご案内",
+    "org": "茨城県信用保証協会",
+    "source_id": "ibaraki-cgc",
+    "category": "guarantee",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://icgc.or.jp/notice/3152-2",
+    "source_type": "detail",
+    "fetched_at": "2026-10-31T00:58:00.148Z",
+    "first_seen": "2026-10-31T00:58:00.148Z",
+    "match_score": 33,
+    "match_reason": "エリア一致(茨城県) / 近郊(水戸)",
+    "llm_processed": false
+  },
+  {
     "id": "e785e8407e94",
     "title": "2026年6月24日 花火大会翌日の清掃ボランティア募集",
     "org": "足利商工会議所",
