@@ -1,12 +1,21 @@
-# 公的機関 案件レポート (2026-11-02)
+# 公的機関 案件レポート (2026-11-03)
 
-- 収集済み: 185件（うち募集中・通年など 173件）
-- 今回の新着: 0件 / 取得失敗: 9件
+- 収集済み: 187件（うち募集中・通年など 175件）
+- 今回の新着: 5件 / 取得失敗: 9件
 
 ## ⏰ 締切間近
 
-- **本日締切** [とちぎ学生アイデアピッチバトル2026後援登録について（大学コンソーシアムとちぎ）](https://www.tochigi-iin.or.jp/home/12/2210.html)（栃木県産業振興センター / 締切 2026-11-02）
-- **本日締切** [その他 企業支援 グローバル 専門家が解説！外資系企業の日本展開のポイント ～税務・会計編【センター共催】 2026年11月5日（木）18:00 - 20:00（受付開始は17:30）](https://minato-sansin.com/events/kyosai20261105)（港区立産業振興センター / 締切 2026-11-02）
+- **あと3日** [2026.11.02 募集中＜丸の内＞３FAdvance Port／11月のイベント](https://startup-station.jp/info20261102-2)（TOKYO創業ステーション / 締切 2026-11-06）
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 82 | [2026.11.02 募集中＜丸の内＞３FAdvance Port／11月のイベント](https://startup-station.jp/info20261102-2) | TOKYO創業ステーション | 東京都 | 2026-11-06 |  |
+| 63 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 42 | [2026年度調達見通し（107KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20261102.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
+| 38 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 募集中 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -16,6 +25,7 @@
 | 85 | [2026.10.14 【募集中】<丸の内>３F Advance Port/10・11月のイベント](https://startup-station.jp/info20261014) | TOKYO創業ステーション | 東京都 | 2026-10-16 |  |
 | 82 | [2026.09.02 【募集中】＜丸の内＞３F Advance Port/９月のイベント](https://startup-station.jp/info20260902) | TOKYO創業ステーション | 東京都 | 2026-09-11 |  |
 | 82 | [【募集中】アトツギ支援セミナー開催のご案内](https://www.tochigi-iin.or.jp/home/10/4512.html) | 栃木県産業振興センター | 栃木県 | 募集中 |  |
+| 82 | [2026.11.02 募集中＜丸の内＞３FAdvance Port／11月のイベント](https://startup-station.jp/info20261102-2) | TOKYO創業ステーション | 東京都 | 2026-11-06 |  |
 | 75 | [【埼玉県警察】ヤング防犯ボランティア募集中](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e8%ad%a6%e5%af%9f%e3%80%91%e3%83%a4%e3%83%b3%e3%82%b0%e9%98%b2%e7%8a%af%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2%e5%8b%9f%e9%9b%86%e4%b8%ad) | 川越商工会議所 | 埼玉県川越市 | 募集中 |  |
 | 75 | [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2026-10-23 |  |
 | 73 | [「生産性向上研究会 会員募集」のご案内（茨城県産業技術イノベーションセンター）](https://www.itic.pref.ibaraki.jp/infolist/studygroup/info-20260427-3) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
@@ -88,6 +98,7 @@
 | 42 | [2026年06月15日 【Plus/BRAIN】【7/10締切】「スマート農業技術の開発・供給に関する事業」第2回公募開始のお知らせ](https://chizai-portal.inpit.go.jp/news-info/news553.html) | INPIT 知財総合支援窓口 | 全国 | 2026-06-15 |  |
 | 42 | [「高度外国人材スペシャリスト業務」に係る業務委託先の追加公募](https://www.jetro.go.jp/procurement/publicoffer/igb/be8815cf7e22f236.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 42 | [「高度外国人材スペシャリスト業務」に係る業務委託先の公募](https://www.jetro.go.jp/procurement/publicoffer/igb/2d37dfb7b749b024.html) | JETRO 調達・公募情報 | 全国 | 不明 |  |
+| 42 | [2026年度調達見通し（107KB）](https://www.jetro.go.jp/ext_images/procurement/pdf/20261102.pdf) | JETRO 調達・公募情報 | 全国 | 不明 |  |
 | 41 | [岡山県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（締切：令和９年２月２８日（日）必着。なお、定員に達し次第、受付を終了します。）](https://yorozu-okayama.go.jp/seisansei-kojo-shien-center-supporter-kobo) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 41 | [生産性向上支援サポーターの公募を開始しました。（公募一覧）](https://yorozu.smrj.go.jp/wp-content/uploads/2026/03/236e166a1773a42835b6316136cbc1bb.pdf) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-03-30 |  |
 | 41 | [「海外展開初心者セミナー『海外展開専門家の活動報告から見る“茨城の食品輸出の今”』オンデマンド配信」のご案内](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/20260619ondemand.pdf) | いばらき中小企業グローバル推進機構 | 茨城県 | 2026-09-30 |  |

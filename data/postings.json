@@ -66,6 +66,23 @@
     "llm_processed": false
   },
   {
+    "id": "e03bb229b0ba",
+    "title": "2026.11.02 募集中＜丸の内＞３FAdvance Port／11月のイベント",
+    "org": "TOKYO創業ステーション",
+    "source_id": "startup-station",
+    "category": "incubation",
+    "area": "東京都",
+    "deadline": "2026-11-06",
+    "status": "募集中",
+    "url": "https://startup-station.jp/info20261102-2",
+    "source_type": "detail",
+    "fetched_at": "2026-11-03T03:00:37.464Z",
+    "first_seen": "2026-11-03T03:00:37.464Z",
+    "match_score": 82,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 生成AI,AI,創業",
+    "llm_processed": false
+  },
+  {
     "id": "6d1953733dfe",
     "title": "【埼玉県警察】ヤング防犯ボランティア募集中",
     "org": "川越商工会議所",
@@ -1332,6 +1349,22 @@
     "source_type": "detail",
     "fetched_at": "2026-07-07T22:38:40.515Z",
     "first_seen": "2026-07-07T22:38:40.515Z",
+    "match_score": 42,
+    "match_reason": "全国対象 / 専門一致: AI",
+    "llm_processed": false
+  },
+  {
+    "id": "2c7d261e1462",
+    "title": "2026年度調達見通し（107KB）",
+    "org": "JETRO 調達・公募情報",
+    "source_id": "jetro-procurement",
+    "category": "national",
+    "area": "全国",
+    "status": "不明",
+    "url": "https://www.jetro.go.jp/ext_images/procurement/pdf/20261102.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-11-03T03:00:37.464Z",
+    "first_seen": "2026-11-03T03:00:37.464Z",
     "match_score": 42,
     "match_reason": "全国対象 / 専門一致: AI",
     "llm_processed": false
