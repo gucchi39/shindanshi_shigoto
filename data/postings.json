@@ -1486,6 +1486,22 @@
     "llm_processed": false
   },
   {
+    "id": "577b8a4f423c",
+    "title": "「Products and technologies of Ibaraki manufacturers」（茨城ものづくり製品・技術カタログ）掲載企業の募集について",
+    "org": "いばらき中小企業グローバル推進機構",
+    "source_id": "iis-net",
+    "category": "prefecture",
+    "area": "茨城県",
+    "status": "不明",
+    "url": "https://www.iis-net.or.jp/files/kousya/page/tempfileR8/R8_Ibaraki_mfr_annai.pdf",
+    "source_type": "pdf",
+    "fetched_at": "2026-11-05T01:42:01.825Z",
+    "first_seen": "2026-11-05T01:42:01.825Z",
+    "match_score": 41,
+    "match_reason": "エリア一致(茨城県) / 近郊(水戸) / 専門一致: 販路開拓",
+    "llm_processed": false
+  },
+  {
     "id": "24d95df9c65b",
     "title": "2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ",
     "org": "INPIT 知財総合支援窓口",

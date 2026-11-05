@@ -1,7 +1,15 @@
-# 公的機関 案件レポート (2026-11-04)
+# 公的機関 案件レポート (2026-11-05)
 
-- 収集済み: 187件（うち募集中・通年など 175件）
-- 今回の新着: 0件 / 取得失敗: 9件
+- 収集済み: 188件（うち募集中・通年など 176件）
+- 今回の新着: 3件 / 取得失敗: 9件
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 41 | [「Products and technologies of Ibaraki manufacturers」（茨城ものづくり製品・技術カタログ）掲載企業の募集について](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/R8_Ibaraki_mfr_annai.pdf) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
+| 40 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -92,6 +100,7 @@
 | 41 | [三重県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１１月４日（水)）正午必着）](https://www.miesc.or.jp/2026/10/22/905423) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
 | 41 | [三重県よろず支援拠点 生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月４日（水） 正午必着）](https://www.miesc.or.jp/2026/10/22/905426) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
 | 41 | [愛知県よろず支援拠点生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月１３日（金) 17：00 まで 必着）](https://www.aibsc.jp/support/63392) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
+| 41 | [「Products and technologies of Ibaraki manufacturers」（茨城ものづくり製品・技術カタログ）掲載企業の募集について](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/R8_Ibaraki_mfr_annai.pdf) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 40 | [2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ](https://chizai-portal.inpit.go.jp/news-info/news555.html) | INPIT 知財総合支援窓口 | 全国 | 2026-07-10 |  |
 | 40 | [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html) | INPIT 知財総合支援窓口 | 全国 | 2026-09-15 |  |
 | 39 | [募集情報 HANEDA共創プラットフォーム 「Haneda Next Makers -ベンチャーフレンドリー2026-」 年度会員募集および第1回7/21(火) 開催のご案内 2026-07-09](https://piopark.net/info/detail/383) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
