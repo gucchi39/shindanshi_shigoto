@@ -1,18 +1,14 @@
-# 公的機関 案件レポート (2026-11-06)
+# 公的機関 案件レポート (2026-11-07)
 
-- 収集済み: 188件（うち募集中・通年など 176件）
-- 今回の新着: 2件 / 取得失敗: 9件
-
-## ⏰ 締切間近
-
-- **本日締切** [2026.11.02 募集中＜丸の内＞３FAdvance Port／11月のイベント](https://startup-station.jp/info20261102-2)（TOKYO創業ステーション / 締切 2026-11-06）
-- **あと14日** [三重県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１１月４日（水)）正午必着）](https://www.miesc.or.jp/2026/10/22/905423)（よろず支援拠点 全国本部 公募一覧 / 締切 2026-11-20）
-- **あと14日** [三重県よろず支援拠点 生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月４日（水） 正午必着）](https://www.miesc.or.jp/2026/10/22/905426)（よろず支援拠点 全国本部 公募一覧 / 締切 2026-11-20）
+- 収集済み: 190件（うち募集中・通年など 178件）
+- 今回の新着: 4件 / 取得失敗: 9件
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
+| 75 | [2026.11.06 【多摩支社】インキュベーションオフィス・TAMA入居者募集のお知らせ](https://startup-station.jp/info20261106) | TOKYO創業ステーション | 東京都 | 募集中 |  |
+| 63 | [2026.11.06 お知らせ 【募集】会員賀詞交歓会 記念品提供事業所募集](https://kawaguchicci.or.jp/news/information/gashixonkinenhin.html) | 川口商工会議所 | 埼玉県川口市 | 不明 |  |
 | 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
 | 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
@@ -27,6 +23,7 @@
 | 82 | [2026.11.02 募集中＜丸の内＞３FAdvance Port／11月のイベント](https://startup-station.jp/info20261102-2) | TOKYO創業ステーション | 東京都 | 2026-11-06 |  |
 | 75 | [【埼玉県警察】ヤング防犯ボランティア募集中](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e8%ad%a6%e5%af%9f%e3%80%91%e3%83%a4%e3%83%b3%e3%82%b0%e9%98%b2%e7%8a%af%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2%e5%8b%9f%e9%9b%86%e4%b8%ad) | 川越商工会議所 | 埼玉県川越市 | 募集中 |  |
 | 75 | [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2026-10-23 |  |
+| 75 | [2026.11.06 【多摩支社】インキュベーションオフィス・TAMA入居者募集のお知らせ](https://startup-station.jp/info20261106) | TOKYO創業ステーション | 東京都 | 募集中 |  |
 | 73 | [「生産性向上研究会 会員募集」のご案内（茨城県産業技術イノベーションセンター）](https://www.itic.pref.ibaraki.jp/infolist/studygroup/info-20260427-3) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 73 | [東京都よろず支援拠点「生産性向上支援サポーター」の公募について](https://tokyoyorozu.go.jp/news/2026-06-24) | 東京都よろず支援拠点 | 東京都 | 不明 |  |
 | 73 | [【埼玉県】「経営サポーター」事業のご案内](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e3%80%91%e3%80%8c%e7%b5%8c%e5%96%b6%e3%82%b5%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%8d%e4%ba%8b%e6%a5%ad%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
@@ -49,6 +46,7 @@
 | 63 | [カラーコーディネーター検定試験](https://www.kawagoe.or.jp/test-examination-information/color-coordinator-test) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 63 | [【視察報告】ドイツ・フランス経済視察団を派遣いたしました](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e8%a6%96%e5%af%9f%e5%a0%b1%e5%91%8a%e3%80%91%e3%83%89%e3%82%a4%e3%83%84%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%b5%8c%e6%b8%88%e8%a6%96%e5%af%9f%e5%9b%a3%e3%82%92%e6%b4%be%e9%81%a3) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 63 | [【募集終了】令和８年度Claude Cowork 業務改善実践研修業務の入札情報](https://www.sozo-saitama.or.jp/topic/2026cowork-training-bid) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
+| 63 | [2026.11.06 お知らせ 【募集】会員賀詞交歓会 記念品提供事業所募集](https://kawaguchicci.or.jp/news/information/gashixonkinenhin.html) | 川口商工会議所 | 埼玉県川口市 | 不明 |  |
 | 62 | [専門家派遣のご案内](https://www.cgc-tokyo.or.jp/assistinfo/senmonkahaken.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 59 | [第103回東京インターナショナル ギフト・ショー春2027「第21回LIFE×DESIGN」共同出展事業者を募集しています](https://www.mics.city.shinagawa.tokyo.jp/shinagawabrand/2682.html) | 品川区 中小企業支援サイト（SHIP） | 東京都品川区 | 2026-08-17 |  |
 | 59 | [2026.09.28 【募集中】<丸の内>３F Advance Port/10月のイベント](https://startup-station.jp/info20260928) | TOKYO創業ステーション | 東京都 | 2026-10-02 |  |

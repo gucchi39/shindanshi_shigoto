@@ -116,6 +116,22 @@
     "llm_processed": false
   },
   {
+    "id": "a28b11fe2db6",
+    "title": "2026.11.06 【多摩支社】インキュベーションオフィス・TAMA入居者募集のお知らせ",
+    "org": "TOKYO創業ステーション",
+    "source_id": "startup-station",
+    "category": "incubation",
+    "area": "東京都",
+    "status": "募集中",
+    "url": "https://startup-station.jp/info20261106",
+    "source_type": "detail",
+    "fetched_at": "2026-11-07T01:04:38.386Z",
+    "first_seen": "2026-11-07T01:04:38.386Z",
+    "match_score": 75,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: AI,製造業,創業",
+    "llm_processed": false
+  },
+  {
     "id": "b6613af74d28",
     "title": "「生産性向上研究会 会員募集」のご案内（茨城県産業技術イノベーションセンター）",
     "org": "いばらき中小企業グローバル推進機構",
@@ -503,6 +519,22 @@
     "first_seen": "2026-09-30T00:41:42.873Z",
     "match_score": 63,
     "match_reason": "エリア一致(埼玉県) / 近郊(さいたま) / 専門一致: 生成AI,AI",
+    "llm_processed": false
+  },
+  {
+    "id": "c99f4ddf477e",
+    "title": "2026.11.06 お知らせ 【募集】会員賀詞交歓会 記念品提供事業所募集",
+    "org": "川口商工会議所",
+    "source_id": "kawaguchi-cci",
+    "category": "cci",
+    "area": "埼玉県川口市",
+    "status": "不明",
+    "url": "https://kawaguchicci.or.jp/news/information/gashixonkinenhin.html",
+    "source_type": "detail",
+    "fetched_at": "2026-11-07T01:04:38.386Z",
+    "first_seen": "2026-11-07T01:04:38.386Z",
+    "match_score": 63,
+    "match_reason": "エリア一致(埼玉県) / 専門一致: DX,AI",
     "llm_processed": false
   },
   {
