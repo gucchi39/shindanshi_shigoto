@@ -1,11 +1,17 @@
-# 公的機関 案件レポート (2026-11-09)
+# 公的機関 案件レポート (2026-11-10)
 
-- 収集済み: 190件（うち募集中・通年など 178件）
-- 今回の新着: 0件 / 取得失敗: 9件
+- 収集済み: 193件（うち募集中・通年など 181件）
+- 今回の新着: 5件 / 取得失敗: 9件
 
-## ⏰ 締切間近
+## 🆕 新着
 
-- **あと3日** [「持続的な成長に向けた経営強靭化事業」における専門家の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/26-01.html)（東京都中小企業振興公社 専門家募集 / 締切 2026-11-12）
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 46 | [秋田県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１２月３１日（木）必着）](https://akita-yorozu.go.jp/boshuchu/post-5425) | よろず支援拠点 全国本部 公募一覧 | 全国 | 募集中 |  |
+| 42 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 40 | [秋田県よろず支援拠点サブチーフコーディネーター の公募を開始いたしました。（令和８年１２月２５日(金)１７時まで必着 ）](https://akita-yorozu.go.jp/boshuchu/post-5770) | よろず支援拠点 全国本部 公募一覧 | 全国 | 募集中 |  |
+| 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gq35.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-09 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -75,6 +81,7 @@
 | 46 | [協力団体 令和９年度 東京都トライアル発注認定制度 （新事業分野開拓者認定制度）募集開始しました。 2026-08-26](https://trial.metro.tokyo.lg.jp) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 46 | [「茨城県よろず支援拠点生産性向上支援センター「生産性向上支援サポーター」募集」のご案内](https://seisansei.yorozu-ibaraki.go.jp/news/ak5trtpq0vmkt9t9jtx82gi2) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 46 | [晴海図書館創業セミナーの募集を開始しました](https://www.cgc-tokyo.or.jp/assistinfo/koukaikouza/202611-05.html) | 東京信用保証協会 | 東京都 | 不明 |  |
+| 46 | [秋田県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１２月３１日（木）必着）](https://akita-yorozu.go.jp/boshuchu/post-5425) | よろず支援拠点 全国本部 公募一覧 | 全国 | 募集中 |  |
 | 45 | [【募集中】契約職員（支援担当）の募集について](https://www.sozo-saitama.or.jp/topic/%e3%80%90%e5%8b%9f%e9%9b%86%e4%b8%ad%e3%80%91%e5%a5%91%e7%b4%84%e8%81%b7%e5%93%a1%ef%bc%88%e5%b9%b9%e9%83%a8%e5%80%99%e8%a3%9c%ef%bc%89%e3%81%ae%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | さいたま市産業創造財団 | 埼玉県さいたま市 | 募集中 |  |
 | 45 | [協力団体 東京都立城南職業能力開発センター大田校《キャリアアップ講習・7月募集》について 2026-07-01](https://www.hataraku.metro.tokyo.lg.jp/zaishokusha-kunren/carr_up/index.html) | 大田区産業振興協会 | 東京都大田区 | 募集中 |  |
 | 45 | [会員事業所検索（新規登録）](https://www.tcci.jp/%e4%bc%9a%e5%93%a1%ef%bd%90%ef%bd%92%e3%82%b5%e3%82%a4%e3%83%88%e3%81%8a%e7%94%b3%e8%be%bc%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 土浦商工会議所 | 茨城県土浦市 | 募集中 |  |
@@ -101,6 +108,7 @@
 | 41 | [「Products and technologies of Ibaraki manufacturers」（茨城ものづくり製品・技術カタログ）掲載企業の募集について](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/R8_Ibaraki_mfr_annai.pdf) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
 | 40 | [2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ](https://chizai-portal.inpit.go.jp/news-info/news555.html) | INPIT 知財総合支援窓口 | 全国 | 2026-07-10 |  |
 | 40 | [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html) | INPIT 知財総合支援窓口 | 全国 | 2026-09-15 |  |
+| 40 | [秋田県よろず支援拠点サブチーフコーディネーター の公募を開始いたしました。（令和８年１２月２５日(金)１７時まで必着 ）](https://akita-yorozu.go.jp/boshuchu/post-5770) | よろず支援拠点 全国本部 公募一覧 | 全国 | 募集中 |  |
 | 39 | [募集情報 HANEDA共創プラットフォーム 「Haneda Next Makers -ベンチャーフレンドリー2026-」 年度会員募集および第1回7/21(火) 開催のご案内 2026-07-09](https://piopark.net/info/detail/383) | 大田区産業振興協会 | 東京都大田区 | 不明 |  |
 | 39 | [栃木市あかちゃんはじめのプレゼント券取扱店の募集](https://tochigi-cci.or.jp/%e6%a0%83%e6%9c%a8%e5%b8%82%e3%81%82%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93%e3%81%af%e3%81%98%e3%82%81%e3%81%ae%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e5%88%b8%e5%8f%96%e6%89%b1%e5%ba%97%e3%81%ae) | 栃木商工会議所 | 栃木県栃木市 | 通年 |  |
 | 39 | [シェアサイクルの広告募集について](https://tochigi-cci.or.jp/%e3%82%b7%e3%82%a7%e3%82%a2%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%81%ae%e5%ba%83%e5%91%8a%e5%8b%9f%e9%9b%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6) | 栃木商工会議所 | 栃木県栃木市 | 通年 |  |
@@ -128,6 +136,7 @@
 | 34 | [令和8年度 立命館大学BKCインキュベータ「チーフインキュベーションマネージャー」の募集について（創業・スタートアップ支援部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp00000051eg.html) | 中小機構 調達・公募情報 | 全国 | 2026-08-07 |  |
 | 34 | [令和8年度 福島復興経営相談員 募集](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000007rod.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-01 |  |
 | 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000009cwb.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-15 |  |
+| 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gq35.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-09 |  |
 | 33 | [募集要項](https://www.cgc-tochigi.or.jp/recruit/recruit-detail) | 栃木県信用保証協会 | 栃木県 | 不明 |  |
 | 33 | [専門家相談](https://www.oyama-cci.or.jp/consultation) | 小山商工会議所 | 栃木県小山市 | 不明 |  |
 | 33 | [募集要項](https://www.ib-shokoren.or.jp/info/blog/archives/category/recruit) | 茨城県商工会連合会 | 茨城県 | 不明 |  |
