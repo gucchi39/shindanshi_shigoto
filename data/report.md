@@ -1,14 +1,20 @@
-# 公的機関 案件レポート (2026-11-11)
+# 公的機関 案件レポート (2026-11-12)
 
-- 収集済み: 194件（うち募集中・通年など 182件）
-- 今回の新着: 2件 / 取得失敗: 9件
+- 収集済み: 195件（うち募集中・通年など 183件）
+- 今回の新着: 3件 / 取得失敗: 9件
+
+## ⏰ 締切間近
+
+- **本日締切** [「持続的な成長に向けた経営強靭化事業」における専門家の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/26-01.html)（東京都中小企業振興公社 専門家募集 / 締切 2026-11-12）
+- **本日締切** [令和9年度 事業再生プロジェクトマネージャーの募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gv2f.html)（中小機構 調達・公募情報 / 締切 2026-11-12）
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 66 | [2026/11/10【募集】飲食料品の消費税減税に伴う実務対応と準備のポイントを開催します！（12/10）](https://taito-sangyo.jp/2026/11/10/insyokuryou_shouhizei) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
 | 58 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 34 | [令和9年度 事業再生プロジェクトマネージャーの募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gv2f.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-12 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -135,6 +141,7 @@
 | 34 | [令和8年度 福島復興経営相談員 募集](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000007rod.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-01 |  |
 | 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000009cwb.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-15 |  |
 | 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gq35.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-09 |  |
+| 34 | [令和9年度 事業再生プロジェクトマネージャーの募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gv2f.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-12 |  |
 | 33 | [募集要項](https://www.cgc-tochigi.or.jp/recruit/recruit-detail) | 栃木県信用保証協会 | 栃木県 | 不明 |  |
 | 33 | [専門家相談](https://www.oyama-cci.or.jp/consultation) | 小山商工会議所 | 栃木県小山市 | 不明 |  |
 | 33 | [募集要項](https://www.ib-shokoren.or.jp/info/blog/archives/category/recruit) | 茨城県商工会連合会 | 茨城県 | 不明 |  |

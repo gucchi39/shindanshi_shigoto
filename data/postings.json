@@ -2089,6 +2089,23 @@
     "llm_processed": false
   },
   {
+    "id": "46b013eb01b6",
+    "title": "令和9年度 事業再生プロジェクトマネージャーの募集（中小企業活性化全国本部）",
+    "org": "中小機構 調達・公募情報",
+    "source_id": "smrj-procurement",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-11-12",
+    "status": "不明",
+    "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gv2f.html",
+    "source_type": "detail",
+    "fetched_at": "2026-11-12T02:23:49.005Z",
+    "first_seen": "2026-11-12T02:23:49.005Z",
+    "match_score": 34,
+    "match_reason": "全国対象 / 専門一致: 事業承継",
+    "llm_processed": false
+  },
+  {
     "id": "164d9e5c8a11",
     "title": "茨城県よろず支援拠点 生産性向上支援サポーターの公募を開始しました。（令和８年５月１４日で受付を終了しました。）",
     "org": "よろず支援拠点 全国本部 公募一覧",
