@@ -1,13 +1,7 @@
-# 公的機関 案件レポート (2026-11-13)
+# 公的機関 案件レポート (2026-11-14)
 
 - 収集済み: 195件（うち募集中・通年など 183件）
-- 今回の新着: 1件 / 取得失敗: 9件
-
-## 🆕 新着
-
-| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
-|---|---|---|---|---|---|
-| 34 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+- 今回の新着: 0件 / 取得失敗: 10件
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -205,6 +199,7 @@
 - kanto-meti-koubo: fetch failed: https://www.kanto.meti.go.jp/koubo/index.html (Error: HTTP 403)
 - smartsme: fetch failed: https://smartsme.go.jp/ (TypeError: fetch failed)
 - tochigi-cgc: fetch failed: https://www.cgc-tochigi.or.jp/ (TypeError: fetch failed)
+- tochigi-pref-sangyo: fetch failed: https://www.pref.tochigi.lg.jp/sangyou/index.html (TimeoutError: The operation was aborted due to timeout)
 - saitama-j-senmonka: fetch failed: https://www.saitama-j.or.jp/kikaku/senmonka (Error: HTTP 404)
 - sozo-saitama-expert: fetch failed: https://www.sozo-saitama-expert.jp/expert/ (TypeError: fetch failed)
 - chiyoda-keiei: fetch failed: https://chiyoda-consulting.tokyo/ (TypeError: fetch failed)
