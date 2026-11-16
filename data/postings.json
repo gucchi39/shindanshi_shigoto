@@ -814,6 +814,23 @@
     "llm_processed": false
   },
   {
+    "id": "540888df4d67",
+    "title": "令和9年度 中小企業アドバイザー（経営支援）募集",
+    "org": "中小機構 調達・公募情報",
+    "source_id": "smrj-procurement",
+    "category": "national",
+    "area": "全国",
+    "deadline": "2026-11-16",
+    "status": "不明",
+    "url": "https://www.smrj.go.jp/procurement/solicitation/qsktgp000000iu9p.html",
+    "source_type": "detail",
+    "fetched_at": "2026-11-16T01:19:13.171Z",
+    "first_seen": "2026-11-16T01:19:13.171Z",
+    "match_score": 52,
+    "match_reason": "全国対象 / 専門一致: 新事業,スマート化",
+    "llm_processed": false
+  },
+  {
     "id": "aa63a0a010da",
     "title": "交流会 企業支援 融資の次は、エクイティ。スタートアップの資⾦調達を契約と数字から考える。エクイティファイナンスの法務・税務― 投資契約の基礎 × 経営計画ワークショップ ― 2026 年 11月 6日(金) 18:30～20:30",
     "org": "港区立産業振興センター",
