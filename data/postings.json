@@ -83,6 +83,22 @@
     "llm_processed": false
   },
   {
+    "id": "528821c6cf55",
+    "title": "2026/11/17【募集中】ビジネス交流フォーラム2027を開催いたします！",
+    "org": "台東区産業振興事業団",
+    "source_id": "taito-sangyo",
+    "category": "city",
+    "area": "東京都台東区",
+    "status": "募集中",
+    "url": "https://taito-sangyo.jp/2026/11/17/business-forum",
+    "source_type": "detail",
+    "fetched_at": "2026-11-17T04:06:07.074Z",
+    "first_seen": "2026-11-17T04:06:07.074Z",
+    "match_score": 82,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 生産性向上,デジタル,販路開拓,創業",
+    "llm_processed": false
+  },
+  {
     "id": "6d1953733dfe",
     "title": "【埼玉県警察】ヤング防犯ボランティア募集中",
     "org": "川越商工会議所",
@@ -549,6 +565,22 @@
     "source_type": "detail",
     "fetched_at": "2026-11-07T01:04:38.386Z",
     "first_seen": "2026-11-07T01:04:38.386Z",
+    "match_score": 63,
+    "match_reason": "エリア一致(埼玉県) / 専門一致: DX,AI",
+    "llm_processed": false
+  },
+  {
+    "id": "fdd2a6f3741d",
+    "title": "2026.11.17 お知らせ 【募集】令和９年度-令和１０年度 会報「MOVE」制作及び封入・配送業者選定に係る委託内容説明会",
+    "org": "川口商工会議所",
+    "source_id": "kawaguchi-cci",
+    "category": "cci",
+    "area": "埼玉県川口市",
+    "status": "不明",
+    "url": "https://kawaguchicci.or.jp/news/information/movebosyu.html",
+    "source_type": "detail",
+    "fetched_at": "2026-11-17T04:06:07.074Z",
+    "first_seen": "2026-11-17T04:06:07.074Z",
     "match_score": 63,
     "match_reason": "エリア一致(埼玉県) / 専門一致: DX,AI",
     "llm_processed": false

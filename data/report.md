@@ -1,18 +1,22 @@
-# 公的機関 案件レポート (2026-11-16)
+# 公的機関 案件レポート (2026-11-17)
 
-- 収集済み: 196件（うち募集中・通年など 184件）
-- 今回の新着: 2件 / 取得失敗: 9件
+- 収集済み: 198件（うち募集中・通年など 186件）
+- 今回の新着: 4件 / 取得失敗: 9件
 
 ## ⏰ 締切間近
 
-- **本日締切** [令和9年度 中小企業アドバイザー（経営支援）募集](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000iu9p.html)（中小機構 調達・公募情報 / 締切 2026-11-16）
+- **あと3日** [三重県よろず支援拠点コーディネーターの公募を開始いたしました。（令和８年１１月４日（水)）正午必着）](https://www.miesc.or.jp/2026/10/22/905423)（よろず支援拠点 全国本部 公募一覧 / 締切 2026-11-20）
+- **あと3日** [三重県よろず支援拠点 生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月４日（水） 正午必着）](https://www.miesc.or.jp/2026/10/22/905426)（よろず支援拠点 全国本部 公募一覧 / 締切 2026-11-20）
+- **あと14日** [課題解決型技術開発促進事業（試作品開発・改良助成）に係る「コーディネータ」募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2609/11_01.html)（東京都中小企業振興公社 専門家募集 / 締切 2026-12-01）
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 52 | [令和9年度 中小企業アドバイザー（経営支援）募集](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000iu9p.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-16 |  |
-| 45 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 82 | [2026/11/17【募集中】ビジネス交流フォーラム2027を開催いたします！](https://taito-sangyo.jp/2026/11/17/business-forum) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
+| 63 | [2026.11.17 お知らせ 【募集】令和９年度-令和１０年度 会報「MOVE」制作及び封入・配送業者選定に係る委託内容説明会](https://kawaguchicci.or.jp/news/information/movebosyu.html) | 川口商工会議所 | 埼玉県川口市 | 不明 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 26 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -23,6 +27,7 @@
 | 82 | [2026.09.02 【募集中】＜丸の内＞３F Advance Port/９月のイベント](https://startup-station.jp/info20260902) | TOKYO創業ステーション | 東京都 | 2026-09-11 |  |
 | 82 | [【募集中】アトツギ支援セミナー開催のご案内](https://www.tochigi-iin.or.jp/home/10/4512.html) | 栃木県産業振興センター | 栃木県 | 募集中 |  |
 | 82 | [2026.11.02 募集中＜丸の内＞３FAdvance Port／11月のイベント](https://startup-station.jp/info20261102-2) | TOKYO創業ステーション | 東京都 | 2026-11-06 |  |
+| 82 | [2026/11/17【募集中】ビジネス交流フォーラム2027を開催いたします！](https://taito-sangyo.jp/2026/11/17/business-forum) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 75 | [【埼玉県警察】ヤング防犯ボランティア募集中](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e5%9f%bc%e7%8e%89%e7%9c%8c%e8%ad%a6%e5%af%9f%e3%80%91%e3%83%a4%e3%83%b3%e3%82%b0%e9%98%b2%e7%8a%af%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%86%e3%82%a3%e3%82%a2%e5%8b%9f%e9%9b%86%e4%b8%ad) | 川越商工会議所 | 埼玉県川越市 | 募集中 |  |
 | 75 | [【募集中】「ClaudeCowork業務改善実践研修」のご案内](https://www.sozo-saitama.or.jp/topic/2026claudecowork-seminar) | さいたま市産業創造財団 | 埼玉県さいたま市 | 2026-10-23 |  |
 | 75 | [2026.11.06 【多摩支社】インキュベーションオフィス・TAMA入居者募集のお知らせ](https://startup-station.jp/info20261106) | TOKYO創業ステーション | 東京都 | 募集中 |  |
@@ -50,6 +55,7 @@
 | 63 | [【視察報告】ドイツ・フランス経済視察団を派遣いたしました](https://www.kawagoe.or.jp/xo_event/%e3%80%90%e8%a6%96%e5%af%9f%e5%a0%b1%e5%91%8a%e3%80%91%e3%83%89%e3%82%a4%e3%83%84%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e7%b5%8c%e6%b8%88%e8%a6%96%e5%af%9f%e5%9b%a3%e3%82%92%e6%b4%be%e9%81%a3) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 63 | [【募集終了】令和８年度Claude Cowork 業務改善実践研修業務の入札情報](https://www.sozo-saitama.or.jp/topic/2026cowork-training-bid) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 | 63 | [2026.11.06 お知らせ 【募集】会員賀詞交歓会 記念品提供事業所募集](https://kawaguchicci.or.jp/news/information/gashixonkinenhin.html) | 川口商工会議所 | 埼玉県川口市 | 不明 |  |
+| 63 | [2026.11.17 お知らせ 【募集】令和９年度-令和１０年度 会報「MOVE」制作及び封入・配送業者選定に係る委託内容説明会](https://kawaguchicci.or.jp/news/information/movebosyu.html) | 川口商工会議所 | 埼玉県川口市 | 不明 |  |
 | 62 | [専門家派遣のご案内](https://www.cgc-tokyo.or.jp/assistinfo/senmonkahaken.html) | 東京信用保証協会 | 東京都 | 不明 |  |
 | 59 | [第103回東京インターナショナル ギフト・ショー春2027「第21回LIFE×DESIGN」共同出展事業者を募集しています](https://www.mics.city.shinagawa.tokyo.jp/shinagawabrand/2682.html) | 品川区 中小企業支援サイト（SHIP） | 東京都品川区 | 2026-08-17 |  |
 | 59 | [2026.09.28 【募集中】<丸の内>３F Advance Port/10月のイベント](https://startup-station.jp/info20260928) | TOKYO創業ステーション | 東京都 | 2026-10-02 |  |
