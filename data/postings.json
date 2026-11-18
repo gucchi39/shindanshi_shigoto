@@ -1287,6 +1287,22 @@
     "llm_processed": false
   },
   {
+    "id": "62dab15169fd",
+    "title": "（募集中）12月7日 さいたま市国際展開セミナー",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "募集中",
+    "url": "https://www.sozo-saitama.or.jp/topic/%ef%bc%88%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%8912%e6%9c%887%e6%97%a5%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e5%b8%82%e5%9b%bd%e9%9a%9b%e5%b1%95%e9%96%8b%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc",
+    "source_type": "detail",
+    "fetched_at": "2026-11-18T03:03:55.187Z",
+    "first_seen": "2026-11-18T03:03:55.187Z",
+    "match_score": 45,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま)",
+    "llm_processed": false
+  },
+  {
     "id": "8e1229844c93",
     "title": "交流会企業支援 2026-07-07 金融環境を味方につけ今こそ資金調達力を強化！ 銀⾏が評価する決算書に変えるポイントとは！？",
     "org": "港区立産業振興センター",
