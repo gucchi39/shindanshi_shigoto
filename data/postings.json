@@ -1061,6 +1061,22 @@
     "llm_processed": false
   },
   {
+    "id": "34fcceed4a93",
+    "title": "【募集終了】創業支援セミナー",
+    "org": "江東区 中小企業支援",
+    "source_id": "koto-chusho",
+    "category": "city",
+    "area": "東京都江東区",
+    "status": "締切",
+    "url": "https://www.city.koto.lg.jp/102020/sangyoshigoto/chusho/jigyo/sougyo_seminar.html",
+    "source_type": "detail",
+    "fetched_at": "2026-11-20T02:30:16.741Z",
+    "first_seen": "2026-11-20T02:30:16.741Z",
+    "match_score": 47,
+    "match_reason": "エリア一致(東京都) / 近郊(東京) / 専門一致: 中小企業診断士,事業承継,創業",
+    "llm_processed": false
+  },
+  {
     "id": "919bf6fe0201",
     "title": "公募情報",
     "org": "中小機構 調達・公募情報",
