@@ -1,7 +1,14 @@
-# 公的機関 案件レポート (2026-11-23)
+# 公的機関 案件レポート (2026-11-24)
 
-- 収集済み: 201件（うち募集中・通年など 188件）
-- 今回の新着: 0件 / 取得失敗: 9件
+- 収集済み: 202件（うち募集中・通年など 189件）
+- 今回の新着: 2件 / 取得失敗: 9件
+
+## 🆕 新着
+
+| スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
+|---|---|---|---|---|---|
+| 41 | [メディカルジャパン東京2027さいたまブース共同出展企業の募集](https://www.sozo-saitama.or.jp/topic/medicaljp2027) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
+| 36 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -102,6 +109,7 @@
 | 41 | [三重県よろず支援拠点 生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月４日（水） 正午必着）](https://www.miesc.or.jp/2026/10/22/905426) | よろず支援拠点 全国本部 公募一覧 | 全国 | 2026-11-20 |  |
 | 41 | [愛知県よろず支援拠点生産性向上支援サポーターの公募を開始いたしました。（令和８年１１月１３日（金) 17：00 まで 必着）](https://www.aibsc.jp/support/63392) | よろず支援拠点 全国本部 公募一覧 | 全国 | 不明 |  |
 | 41 | [「Products and technologies of Ibaraki manufacturers」（茨城ものづくり製品・技術カタログ）掲載企業の募集について](https://www.iis-net.or.jp/files/kousya/page/tempfileR8/R8_Ibaraki_mfr_annai.pdf) | いばらき中小企業グローバル推進機構 | 茨城県 | 不明 |  |
+| 41 | [メディカルジャパン東京2027さいたまブース共同出展企業の募集](https://www.sozo-saitama.or.jp/topic/medicaljp2027) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
 | 40 | [2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ](https://chizai-portal.inpit.go.jp/news-info/news555.html) | INPIT 知財総合支援窓口 | 全国 | 2026-07-10 |  |
 | 40 | [2026年09月11日NEW 【MEDISO】（9/15締切）MEDISO Seeds Booster（Medical Seeds Discover and Boost Program）プログラム公募を開始しました！](https://chizai-portal.inpit.go.jp/news-info/news567.html) | INPIT 知財総合支援窓口 | 全国 | 2026-09-15 |  |
 | 40 | [秋田県よろず支援拠点サブチーフコーディネーター の公募を開始いたしました。（令和８年１２月２５日(金)１７時まで必着 ）](https://akita-yorozu.go.jp/boshuchu/post-5770) | よろず支援拠点 全国本部 公募一覧 | 全国 | 募集中 |  |

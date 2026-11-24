@@ -1663,6 +1663,22 @@
     "llm_processed": false
   },
   {
+    "id": "c461db1cd0fe",
+    "title": "メディカルジャパン東京2027さいたまブース共同出展企業の募集",
+    "org": "さいたま市産業創造財団",
+    "source_id": "sozo-saitama",
+    "category": "city",
+    "area": "埼玉県さいたま市",
+    "status": "不明",
+    "url": "https://www.sozo-saitama.or.jp/topic/medicaljp2027",
+    "source_type": "detail",
+    "fetched_at": "2026-11-24T05:27:09.443Z",
+    "first_seen": "2026-11-24T05:27:09.443Z",
+    "match_score": 41,
+    "match_reason": "エリア一致(埼玉県) / 近郊(さいたま) / 専門一致: 販路開拓",
+    "llm_processed": false
+  },
+  {
     "id": "24d95df9c65b",
     "title": "2026年07月10日NEW 【MEDISO】（7/15締切）「知財戦略・出口戦略に関する調査支援」募集開始のお知らせ",
     "org": "INPIT 知財総合支援窓口",
