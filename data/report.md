@@ -1,14 +1,23 @@
-# 公的機関 案件レポート (2026-11-24)
+# 公的機関 案件レポート (2026-11-25)
 
-- 収集済み: 202件（うち募集中・通年など 189件）
-- 今回の新着: 2件 / 取得失敗: 9件
+- 収集済み: 205件（うち募集中・通年など 192件）
+- 今回の新着: 6件 / 取得失敗: 9件
+
+## ⏰ 締切間近
+
+- **本日締切** [令和9年度 中小企業アドバイザー（事業承継・引継ぎ支援）募集（北海道本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000k55c.html)（中小機構 調達・公募情報 / 締切 2026-11-25）
+- **本日締切** [令和9年度 中小企業アドバイザー（事業承継・引継ぎ支援）募集（北陸本部・近畿本部・中国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000k4ml.html)（中小機構 調達・公募情報 / 締切 2026-11-25）
 
 ## 🆕 新着
 
 | スコア | 案件 | 機関 | エリア | 締切/状態 | 要件・注意 |
 |---|---|---|---|---|---|
-| 41 | [メディカルジャパン東京2027さいたまブース共同出展企業の募集](https://www.sozo-saitama.or.jp/topic/medicaljp2027) | さいたま市産業創造財団 | 埼玉県さいたま市 | 不明 |  |
-| 36 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
+| 70 | [創業支援施設の運営事業（多摩）におけるインキュベーションマネージャー募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2611/25_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-12-14 |  |
+| 63 | [ものづくり補助金 事務局 が更新されました](https://portal.monodukuri-hojo.jp/) | ものづくり補助金 事務局 | 全国 | 不明 |  |
+| 60 | [IT導入補助金 IT導入支援事業者 が更新されました](https://it-shien.smrj.go.jp/) | IT導入補助金 IT導入支援事業者 | 全国 | 締切 |  |
+| 34 | [令和9年度 中小企業アドバイザー（事業承継・引継ぎ支援）募集（北海道本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000k55c.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-25 |  |
+| 34 | [令和9年度 中小企業アドバイザー（事業承継・引継ぎ支援）募集（北陸本部・近畿本部・中国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000k4ml.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-25 |  |
+| 32 | [栃木県庁 産業労働観光部 が更新されました](https://www.pref.tochigi.lg.jp/sangyou/index.html) | 栃木県庁 産業労働観光部 | 栃木県 | 不明 |  |
 
 ## 📋 全案件（スコア順・締切済み除く）
 
@@ -29,6 +38,7 @@
 | 73 | [専門家相談](https://www.kawagoe.or.jp/expert-consultation) | 川越商工会議所 | 埼玉県川越市 | 不明 |  |
 | 73 | [「持続的な成長に向けた経営強靭化事業」における専門家の募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/26-01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-11-12 |  |
 | 70 | [8/7まで！企業の挑戦、募集中！ 投稿日 2026年6月18日](https://www.kumagayacci.or.jp/bizkuma/bizkuma-17094) | 熊谷商工会議所 | 埼玉県熊谷市 | 2026-08-07 |  |
+| 70 | [創業支援施設の運営事業（多摩）におけるインキュベーションマネージャー募集について](https://www.tokyo-kosha.or.jp/kosha/senmonka-bosyu/2611/25_01.html) | 東京都中小企業振興公社 専門家募集 | 東京都 | 2026-12-14 |  |
 | 69 | [2026/07/27【募集中】「人材採用セミナー」を開催します！](https://taito-sangyo.jp/2026/07/27/zinzaisaiyou) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 69 | [2026/08/05【募集中】財務セミナー「会社のお金の全体像」 を開催します！](https://taito-sangyo.jp/2026/08/05/zaimu-seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
 | 69 | [2026/09/09【募集中】契約セミナーを開催します！](https://taito-sangyo.jp/2026/09/09/keiyaku_seminar) | 台東区産業振興事業団 | 東京都台東区 | 募集中 |  |
@@ -142,6 +152,8 @@
 | 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp0000009cwb.html) | 中小機構 調達・公募情報 | 全国 | 2026-09-15 |  |
 | 34 | [令和8年度中小企業活性化協議会サブマネージャー（エリア担当弁護士）の募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gq35.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-09 |  |
 | 34 | [令和9年度 事業再生プロジェクトマネージャーの募集（中小企業活性化全国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000gv2f.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-12 |  |
+| 34 | [令和9年度 中小企業アドバイザー（事業承継・引継ぎ支援）募集（北海道本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000k55c.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-25 |  |
+| 34 | [令和9年度 中小企業アドバイザー（事業承継・引継ぎ支援）募集（北陸本部・近畿本部・中国本部）](https://www.smrj.go.jp/procurement/solicitation/qsktgp000000k4ml.html) | 中小機構 調達・公募情報 | 全国 | 2026-11-25 |  |
 | 33 | [募集要項](https://www.cgc-tochigi.or.jp/recruit/recruit-detail) | 栃木県信用保証協会 | 栃木県 | 不明 |  |
 | 33 | [専門家相談](https://www.oyama-cci.or.jp/consultation) | 小山商工会議所 | 栃木県小山市 | 不明 |  |
 | 33 | [募集要項](https://www.ib-shokoren.or.jp/info/blog/archives/category/recruit) | 茨城県商工会連合会 | 茨城県 | 不明 |  |
